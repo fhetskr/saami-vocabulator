@@ -8,7 +8,6 @@ adreassalihppu;Noun;;adresseringsetikett, adresselapp;
 advearba;Noun;;adverb;adverb
 advokáhtta;Noun;;advokat;lawyer
 advokáhta;Noun;;advokat;lawyer
-Afrihkká;Proper noun;;Afrika;Africa
 ahki;Noun;;alder;age
 agálaš;Adjective;;evig;eternal
 agálašvuohta;Noun;;evighet;eternity
@@ -30,7 +29,6 @@ albmadit;Verb;;å melde til øvrigheten;
 albmi;Noun;;himmel;sky
 almmus;Adjective;;offentlig;public
 almmái;Noun;;mann;man
-Albánia;Proper noun;;Albania;Albania
 iežade;Other;;til dere selv;
 iežadet;Other;;til dere selv;
 iežame;Other;;til oss selv;
@@ -73,7 +71,6 @@ allameassu;Noun;;høymesse;
 allaskuvla;Noun;;høgskole;college
 allaskuvlaoahppu;Noun;;høgskoleutdanning;
 allavearru;Noun;;toppskatt;
-Allavággi;Proper noun;;Postdalen (Balsfjord) ;
 allegrohápmi;Noun;;allegroform;
 allodat;Noun;;høyde;height
 allodaterohus;Noun;;høydeforskjell;height difference
@@ -109,7 +106,6 @@ amas;Verb;;for at du ikke;
 ambassadevra;Noun;;ambassadør;ambassador
 ambulánsabálvalus;Noun;;ambulansetjeneste;
 ambulánsa;Noun;;ambulanse;ambulance
-Amerihkká;Proper noun;;Amerika;America
 analyseret;Verb;;å analysere;
 anašit;Verb;;å ha samleie;
 anašanguoibmi;Noun;;seksualpartner;
@@ -117,10 +113,8 @@ anašeapmi;Noun;;samleie;sex or sexual intercourse
 anihahtti;Adjective;;brukbar;usable
 anistupmi;Noun;;kåtskap;
 atnu;Noun;;bruk, nytte;
-Anár;Proper noun;;Enare;
 anáraš;Noun;;enaresame;
 anárašgiella;Noun;;enaresamisk språk;
-Anárjávri;Proper noun;;Enaresjøen (Finland) ;
 appelsiidna;Noun;;appelsin;orange
 arena;Noun;;arena;arena
 areálageavaheapmi;Noun;;arealdisponering;
@@ -168,13 +162,11 @@ attestit;Verb;;å gi litt;
 attáldat;Noun;;gave;present or gift
 avvi;Noun;;belte;belt
 aviisa;Noun;;avis;newspaper
-Avvil;Proper noun;;Ivalo (Finland) ;
 avádat;Noun;;sone;zone
 azzil;Noun;;streng mellom juksas snøre og jernstein;
 ađadákti;Noun;;margbein;
 ađa;Noun;;marg, margbein;
 aškkas;Noun;;issvull;
-Badje-Riebevággi;Proper noun;;Øvre Revdalen (Skånland) ;
 badjealmmái;Noun;;reindriftssame;
 badjebavssa;Noun;;overleppe;
 badjebealli;Noun;;øvre del;
@@ -350,7 +342,6 @@ bargovásáhus;Noun;;arbeidserfaring;
 bargoáigi;Noun;;arbeidstid;
 bargošiehtadus;Noun;;arbeidsavtale;
 bartaeaiggát;Noun;;hytteeier;
-Bartagieddi;Proper noun;;Perteng (Kåfjord) ;
 bartaguovlu;Noun;;hytteområde;
 barta;Noun;;hytte;cottage
 bartasadji;Noun;;hyttetomt;
@@ -362,8 +353,6 @@ basahat;Noun;;vaskeri;laundry
 basaldat;Noun;;vaskeklut;
 bassi;Noun;;helligdag;holiday
 bassit;Verb;;å steike;
-Basevuotna;Proper noun;;Lille Kjerringvik (Alta) ;
-Basevuovdi;Proper noun;;Helligskogen;
 bassi;Adjective;;hellig;holy
 baski;Adjective;;trang;tight
 bassaladdat;Verb;;å vaske tøy;
@@ -387,8 +376,6 @@ beaggit;Verb;;å forlyde, å bli fortalt;
 beaggin;Noun;;rykte;rumour  or rumor
 beahcet;Noun;;fiskespord;
 beahci;Noun;;furu;pine
-Beahcán;Proper noun;;Petsamo;
-Beahkkirvuotna;Proper noun;;Bekkarfjorden (Lebesby) ;
 beahtahallat;Verb;;å bli skuffet;
 beahttit;Verb;;å bedra, å narre;
 beahttu;Noun;;svik, bedrageri;
@@ -456,8 +443,6 @@ bearal;Noun;;perle;pearl
 bearaš;Noun;;familie;family
 bearašmiellahttu;Noun;;familiemedlem;family member
 bearašviessu;Noun;;familiebolig;
-Beardu;Proper noun;;Bardu (Troms) ;
-Beardueatnu;Proper noun;;Barduelva (Troms) ;
 beargalat;Noun;;djevel;devil
 bearjadat;Noun;;fredag;Friday
 bearjadateahket;Noun;;fredagskveld;
@@ -477,7 +462,6 @@ beassansátni;Noun;;passord;password
 beassejeagil;Noun;;neverlav;
 beasseloggun;Noun;;neverløping;
 beasseláibi;Noun;;flatbrød;
-Beassevuotna;Proper noun;;Båtsfjorden (Hammerfest) ;
 beassi;Noun;;never;indefinite plural of neve
 beassášbeaivi;Noun;;påskedag;første påskedag - Easter Sunday
 beassášdoalut;Noun;;påskearrangement;
@@ -494,7 +478,6 @@ beasti;Noun;;befrier, frelser;
 beasuš;Noun;;fuglekull;
 beatnagaš;Noun;;liten hund;
 beatnatguiski;Noun;;kongssnegl;
-Beatnatvággi;Proper noun;;Hunddalen (Narvik) ;
 beavdi;Noun;;bord;table
 beavddáš;Noun;;lite bord;
 beavdebiigá;Noun;;servitrise;
@@ -516,7 +499,6 @@ behtohallat;Verb;;å bli skuffet;
 behtolaš;Adjective;;upålitelig;unreliable
 behtolašvuohta;Noun;;upålitelighet;
 beibboš;Noun;;bokfink;chaffinch; the bird Fringilla coelebs
-Belgia;Proper noun;;Belgia;Belgium
 belko;Noun;;huggstabbe;
 belljes;Adjective;;som hører godt;
 bellodat;Noun;;parti;party
@@ -592,7 +574,6 @@ bietna;Noun;;detalj;detail
 bierdna;Noun;;bjørn;bear
 bierfečoarvi;Noun;;rein med svært grenete horn;
 bierggas;Noun;;ting, sak;
-Biergi;Proper noun;;Kiberg (Finnmark) ;
 biergu;Noun;;kjøtt;Alternative form of kjøt
 biergobihttá;Noun;;kjøttstykke;piece of meat
 biergobuvttadeapmi;Noun;;kjøttproduksjon;
@@ -608,22 +589,17 @@ biergomális;Noun;;kjøttsuppe;
 biergoskadjá;Noun;;kjøttskjå;
 biergoveardna;Noun;;kjøttkvern;
 bierta;Noun;;reinmage fylt med reintalg;
-Biertavárri;Proper noun;;Birtavarre (Kåfjord) ;
-Biesavuotna;Proper noun;;Persfjorden (Vardø) ;
 biestit;Verb;;å slippe;
 bievlaealát;Noun;;barmarksbeite;
 bievla;Noun;;barmark;
 bievlavuodjin;Noun;;barmarkskjøring;
 bievlavuoján;Noun;;barmarkskjøretøy;
 bievlaáigi;Noun;;barmarkstid;
-Bievllavuotna;Proper noun;;Bølefjorden (Hasvik) ;
 bievval;Noun;;bøddel;
 bievvá;Noun;;slakter;butcher
-Bievák;Proper noun;;Bø;A municipality of Nordland
 bieđganit;Verb;;å gå i stykker;
 bieđggus;Adjective;;spredt;scattered
 biežadákti;Noun;;halebein;
-Biežavággi;Proper noun;;Krokdalen (Tromsø) ;
 biffa;Noun;;biff;steak
 biggot;Verb;;å luftes;
 biggohit;Verb;;å lufte;
@@ -635,7 +611,6 @@ bihkkaboaldin;Noun;;tjærebrenning;
 bihkkahádja;Noun;;tjærelukt;
 bihkkačáhppat;Adjective;;beksvart;
 bihppor;Noun;;pepper;pepper
-Bihpporčohkka;Proper noun;;Peppartind;
 bihtit;Verb;;å klare;
 bihttábordin;Noun;;puslespill;jigsaw puzzle
 bihttá;Noun;;stykke, bit;
@@ -690,7 +665,6 @@ bilkosátni;Noun;;hånord;
 billahuvvat;Verb;;å ødelegges;
 billašuvvat;Verb;;å bli ødelagt;
 billistit;Verb;;å ødelegge;
-Billávuotna;Proper noun;;Indre Billefjord (Porsanger) ;
 bipmi;Noun;;surmelk;
 bindit;Verb;;å vare, å holde seg;
 binná;Noun;;bit, stykke;
@@ -709,11 +683,9 @@ birgejupmi;Noun;;livsfornødenhet;
 birgemeahttun;Adjective;;uovervinnelig;unbeatable
 birgendássi;Noun;;levestandard;standard of living
 birgenláhki;Noun;;levekår;
-Birgi;Proper noun;;Berg;
 birolaš;Adjective;;djevelsk;devilish
 biro;Noun;;djevel;devil
 birranbeaivi;Noun;;døgn;the 24 hour period stretching from midnight to midnight.
-Birranvággi;Proper noun;;Olderdalen (Kvalsund) ;
 birračuohppat;Verb;;å omskjære;
 birračuoigi;Noun;;person som går på ski rundt hjorden;
 birračuohpahus;Noun;;omskjærelse;
@@ -723,7 +695,6 @@ bismmáidčoahkkin;Noun;;bispemøte;
 bissut;Verb;;å forbli, å holde seg;
 bissehit;Verb;;å stoppe;
 bissoalmmái;Noun;;skytter;indefinite plural of skytte
-Bissojohka;Proper noun;;Børselv (Porsanger) ;
 bissovaš;Adjective;;vedvarende;continuous
 bissu;Noun;;børse, gevær;
 bistit;Verb;;å vare;
@@ -774,7 +745,6 @@ biđus;Noun;;stekt eller kokt småskåret kjøtt;
 biškkas;Noun;;skriking, galing;
 biškut;Verb;;å skrike, å hyle, å gale;
 biškkádit;Verb;;å hyle;
-Biŧon;Proper noun;;Piteå (Sverige) ;
 bliccačuovga;Noun;;blitslys;
 bliánta;Noun;;blyant;pencil
 blyánta;Noun;;blyant;pencil
@@ -835,7 +805,6 @@ boastamáhppa;Noun;;postmappe;
 boasta;Noun;;post;post or mail
 boasttuvuohta;Noun;;feil;error
 boatkanit;Verb;;å bryte sammen;
-Boatkavággi;Proper noun;;Botkadalen (Nordreisa) ;
 boatkkuhit;Verb;;å strø;
 boatkuluvvat;Verb;;å bli lemster;
 boazoalmmái;Noun;;reindriftssame;
@@ -873,7 +842,6 @@ boazoguohtonkonvenšuvdna;Noun;;reinbeitekonvensjon;
 boazoguohtun;Noun;;reinbeite;
 boazoguovlu;Noun;;reinbeiteområde;
 boazoisit;Noun;;reineier;
-Boazolanvággi;Proper noun;;Reindalen (Storfjord) ;
 boazolihkku;Noun;;reinlykke;
 boazolohku;Noun;;reintall;
 boazomearka;Noun;;reinmerke;
@@ -884,9 +852,6 @@ boazosuohkan;Noun;;reindriftskommune;
 boazosuola;Noun;;reintyv;
 boazosápmi;Noun;;reindriftssame;
 boazosápmelaš;Noun;;reindriftssame;
-Boazovuotna;Proper noun;;Reinfjorden (Kvænangen) ;
-Boazovuonvággi;Proper noun;;Reinfjorddalen (Kvænangen) ;
-Boazovággi;Proper noun;;Reindalen (Hammerfest) ;
 boazoáidi;Noun;;reingjerde;
 boazoálbmot;Noun;;reindriftsfolk;
 boazu;Noun;;rein, reinsdyr;
@@ -911,7 +876,6 @@ bohkká;Noun;;geitebukk;billy goat
 bohkosit;Verb;;å sette i å le;
 bohraidit;Verb;;å putre;
 bohtal;Noun;;flaske;bottle
-Bohtalvuotna;Proper noun;;Flaskefjorden (Hammerfest) ;
 bohtanit;Verb;;å hovne;
 bohtaneapmi;Noun;;opphovning;
 bohttu;Noun;;potte, nattpotte;
@@ -924,8 +888,6 @@ bolffas;Adjective;;lodden;
 bolfeoaivi;Noun;;person med ruvende hår;
 bolfeseaibi;Noun;;buskete hale;
 bolfi;Noun;;som er lodden;
-Bollovuotna;Proper noun;;Pollen (Hammerfest) ;
-Bollovággi;Proper noun;;Kvalfjorddalen (Hammerfest) ;
 boltasit;Verb;;å komme seg opp;
 boltut;Verb;;å rote opp, å grave opp;
 bonjagit;Verb;;å bli vridd;
@@ -954,7 +916,6 @@ borggistit;Verb;;å ryke;
 borgguhit;Verb;;å røyke;
 borgguhangielddus;Noun;;røykeforbud;smoking ban
 borjjastit;Verb;;å seile;
-Borjjasvággi;Proper noun;;Segeldalen (Skånland) ;
 borramuš;Noun;;mat;food
 borramušbuvda;Noun;;matbutikk;food shop or store
 borramušgávpi;Noun;;matbutikk;food shop or store
@@ -973,9 +934,6 @@ boska;Noun;;kvann;
 bosnár;Noun;;bosnier;Bosnian
 bossut;Verb;;å blåse;
 bosodit;Verb;;å blåse lenge;
-Bossogohppi;Proper noun;;Bossekop (Finnmark) ;
-Bossovuotna;Proper noun;;Store Kvalfjorden (Alta) ;
-Bossovuonvággi;Proper noun;;Store Kvalfjorddalen (Alta) ;
 bossučolga;Noun;;brennmanet;lion's mane jellyfish; Cyanea capillata
 bostit;Verb;;å stikke så det hovner;
 bosádit;Verb;;å blåse;
@@ -995,7 +953,6 @@ breava;Noun;;brev;letter
 bruvda;Noun;;brudepynt;
 bruvsabohtal;Noun;;brusflaske;
 bruvsa;Noun;;brus;soda
-Budejju;Proper noun;;Bodø;town  and municipality in Northern Norway
 buohcci;Noun;;syk;sick
 buhcciidruoktu;Noun;;sykehjem;A nursing home
 buohcat;Verb;;å være syk;
@@ -1036,7 +993,6 @@ bulžut;Verb;;å dannes isskorpe;
 bumbá;Noun;;kiste, bomme;
 bumbet;Verb;;å bombe;
 bunci;Noun;;spuns, propp, plugg;
-Buntavággi;Proper noun;;Buntadalen (Nordreisa) ;
 buozas;Adjective;;syk;sick
 buohccebiila;Noun;;sykebil, ambulanse;
 buohccebiilaolmmoš;Noun;;sykebilperson;
@@ -1053,13 +1009,10 @@ buohtastahttit;Verb;;å sammenlikne;
 buoidda;Noun;;røyskatt;ermine
 buoidegaccet;Noun;;kjøttmeis;Alternative form of kjøtmeis
 buokčalit;Verb;;å dykke;
-Buolavággi;Proper noun;;Hompavikdalen (Hammerfest) ;
 buolaštit;Verb;;å sette i med kulde;
 buolašit;Verb;;å brenne seg;
 buolašgráda;Noun;;kuldegrad;
 buolaš;Noun;;kulde, frost;
-Buolbmát;Proper noun;;Polmak (Tana) ;
-Buolbmátjávri;Proper noun;;Polmakvatn;
 buollinalárbma;Noun;;brannalarm;fire alarm
 buollinčáskadeapmi;Noun;;brannslukking;
 buollát;Verb;;å fatne;
@@ -1090,7 +1043,6 @@ buresboahtin;Noun;;velkommen;welcome
 buressivdnidit;Verb;;å velsigne;
 buressivdnádus;Noun;;velsignelse;blessing
 burgit;Verb;;å rote, å grave;
-Burgen;Proper noun;;Vollan;
 burru;Noun;;okse;bull
 bursa;Noun;;pengepung;purse
 buser;Noun;;genser;sweater
@@ -1111,7 +1063,6 @@ buvihit;Verb;;å kvele;
 buvku;Noun;;tollekniv;
 buvkosahá;Noun;;stikksag, rotterumpe;
 buvri;Noun;;bod;
-Buvrovuotna;Proper noun;;Burfjorden (Kvænangen) ;
 buvru;Noun;;grøt;porridge
 buvttadit;Verb;;å produsere;
 buvttadandoarjja;Noun;;produksjonsstøtte;
@@ -1149,26 +1100,19 @@ bággovuovdin;Noun;;tvangssalg;forced sale
 bággu;Noun;;tvang;force
 bákŋat;Verb;;å vake, å sprette;
 báhccat;Verb;;å gå av;
-Báhcavuotna;Proper noun;;Båtsfjord (Finnmark) ;
-Báhccavuotna;Proper noun;;Balsfjorden (Balsfjord) ;
 báhcit;Verb;;å bli igjen;
 báhkka;Noun;;varme, hete;
 báhkas;Adjective;;varm;hot
-Báhkavuotna;Proper noun;;Bakfjorden (Måsøy) ;
 báhkki;Noun;;rirkule;
 báhkin;Noun;;hedning;heathen
 báhkkanit;Verb;;å bli varm;
 báhkkon;Noun;;bud;bid or offer
 báhppa;Noun;;prest;priest
 báhpagárdin;Noun;;prestegård;vicarage; many are large old buildings
-Báhpajávri;Proper noun;;Prestevatnet (Sør-Varanger) ;
 báhpasuohkan;Noun;;prestesokn;
 báhtarit;Verb;;å flykte, å rømme;
 báhtareaddji;Noun;;flyktning;refugee
 báhti;Noun;;gryte;cooking pot
-Báhčaveadji;Proper noun;;Pasvik (Finnmark) ;
-Báhčaveaileahki;Proper noun;;Pasvikdalen (Sør-Varanger) ;
-Báhčaveaivuotna;Proper noun;;Bøkfjorden (Sør-Varanger) ;
 báhčit;Verb;;å skyte;
 báhčinguovlu;Noun;;skyteområde;
 báhčinlohpi;Noun;;fellingstillatelse;
@@ -1181,7 +1125,6 @@ báidesoadji;Noun;;skjorteerme;shirtsleeve
 báidesoadjá;Noun;;skjorteerme;shirtsleeve
 báidnit;Verb;;å påvirke;
 báidnu;Noun;;farge, maling;
-Báidár;Proper noun;;Beiarn (Nordland) ;
 báikegoddi;Noun;;grend;
 báikenamma;Noun;;stedsnavn;place name
 báikenammaláhka;Noun;;stedsnavnlov;
@@ -1205,7 +1148,6 @@ bávččas;Noun;;smerte;ache
 bálda;Noun;;plassen ved siden av;
 bálddis;Noun;;kveite;halibut
 bálgat;Verb;;å plages;
-Bálggesvággi;Proper noun;;Veidalen (Lyngen) ;
 bálggis;Noun;;veg;road
 báljis;Adjective;;skallet;definite singular of skall
 bálkestit;Verb;;å kaste;
@@ -1225,7 +1167,6 @@ bálvalusdoaibma;Noun;;tjenesteyting;
 bálvalusealáhus;Noun;;servicenæring;
 bálvvus;Noun;;dyrking, tilbedelse;
 bálvá;Noun;;tjener;servant
-Bálákvuovdi;Proper noun;;Ballangsmark (Nordland) ;
 bánccardit;Verb;;å sprelle;
 bátni;Noun;;tann;tooth
 bánnogáhkku;Noun;;pannekake;pancake
@@ -1236,7 +1177,6 @@ bárahisstávvalvearba;Noun;;ulikestavelsesverb;
 bára;Noun;;bar;bar
 bárbmoloddi;Noun;;trekkfugl;migratory bird
 bárbmu;Noun;;varmt strøk, syden;
-Bárdevuotna;Proper noun;;Vagnfjorden (Sør-Varanger) ;
 bárdni;Noun;;gutt;boy
 bárehuoš;Noun;;halvvoksen gutt;
 báris;Adjective;;best;indefinite superlative degree of god
@@ -1252,8 +1192,6 @@ bársat;Verb;;å stoppe strikkeplagg;
 bártašuvvat;Verb;;å være uheldig, å ha et uhell;
 bártidit;Verb;;å være uheldig;
 bárti;Noun;;uhell;accident
-Bártnatvuonvággi;Proper noun;;Tverrfjorddalen, s (Loppa) ;
-Bártnavuonvággi;Proper noun;;Simavikdalen (Alta) ;
 bártnáš;Noun;;liten gutt;
 bárvvastit;Verb;;å bølge seg;
 bárvvasteaddji;Adjective;;bølgete;
@@ -1262,8 +1200,6 @@ bátnedikšunbálvalus;Noun;;tannhelsetjeneste;
 bátnedivššohat;Noun;;tannklinikk;
 bátnedoavttir;Noun;;tannlege;dentist
 bátnesoallun;Noun;;tannpirker;
-Báttár;Proper noun;;Badderen (Kvænangen) ;
-Báttárvuotna;Proper noun;;Badderfjorden (Kvænangen) ;
 bávkalit;Verb;;å smelle, å fyre av;
 bávkit;Verb;;å smelle;
 bávkkihit;Verb;;å smelle;
@@ -1280,7 +1216,6 @@ báŋku;Noun;;bank;bank
 báŋkoloatna;Noun;;banklån;
 bážan;Noun;;skytevåpen;firearm
 cahkat;Verb;;å ulme;
-Caganvuotna;Proper noun;;Store Skogfjorden (Gamvik) ;
 caggat;Verb;;å støtte opp;
 caggi;Noun;;støtte, avstiver;
 cahkkehit;Verb;;å tenne;
@@ -1319,7 +1254,6 @@ cissat;Verb;;å pisse, å tisse;
 cissa;Noun;;urin, tiss, piss;
 civkit;Verb;;å kvitre;
 civkkádit;Verb;;å kvitre, å pipe;
-Civzzavuotna;Proper noun;;Lille Jarfjorden (Sør-Varanger) ;
 cizáščivga;Noun;;småfuglunge;
 cizáš;Noun;;småfugl;
 coahki;Noun;;grunt vann;
@@ -1332,7 +1266,6 @@ coakcut;Verb;;å få fotfeste;
 coakcái;Adjective;;sklisikker;
 coggat;Verb;;å putte, å stappe;
 coggalit;Verb;;å putte fort;
-Cohkolatvággi;Proper noun;;Rotsunddalen (Nordreisa) ;
 cuoppu;Noun;;frosk;frog
 cuoŋu;Noun;;skare;
 cuohppa;Noun;;fiskekjøtt;
@@ -1348,8 +1281,6 @@ cummestit;Verb;;å kysse;
 cummá;Noun;;kyss;kiss
 cummástallat;Verb;;å kline, å kysse hverandre;
 cuozza;Noun;;hinne, membran;
-Cuokcavuotna;Proper noun;;Nuvsfjorden (Loppa) ;
-Cuokcavuonvággi;Proper noun;;Fjorddalen (Loppa) ;
 cuovkanit;Verb;;å knuses, å gå i stykker;
 cuoŋománnu;Noun;;april;April
 cup;Noun;;cup;cup
@@ -1418,8 +1349,6 @@ davit;Adjective;;nordligst;indefinite superlative degree of nordlig
 davvebiegga;Noun;;nordavind;north wind or northerly
 davviguovlu;Noun;;nordområde;
 davviguovlopolitihkka;Noun;;nordområdepolitikk;
-Davvimearra;Proper noun;;Nordsjøen;North Sea
-Davviriikkat;Proper noun;;Norden () ;
 davvisápmi;Noun;;nordsame;
 davvisámegiella;Noun;;nordsamisk;Northern Sami
 davvisápmelaš;Noun;;nordsame;
@@ -1444,9 +1373,7 @@ deaivvadeapmi;Noun;;treff;imperative of treffe
 deakčut;Verb;;å trykke sammen;
 dealli;Noun;;klopp;Imperative singular  of kloppen.
 deamádat;Noun;;dis, disig luft;
-Deatnu;Proper noun;;Tana (Tana) ;
 deatnu;Noun;;stor elv;
-Deanuvuotna;Proper noun;;Tanafjorden (Berlevåg) ;
 deappu;Noun;;brunalge, tare;
 dearbmi;Noun;;elvemæl;
 dearpat;Verb;;å slå, å banke;
@@ -1483,7 +1410,6 @@ desimálalohku;Noun;;desimaltall;decimal number
 dipmat;Verb;;å bli myk;
 diddi;Noun;;unglaks;
 dii;Other;;til dere;
-Didnovággi;Proper noun;;Stordalen (Storfjord) ;
 didnu;Noun;;flint;
 diehppi;Noun;;dusk;
 dieđa;Noun;;vitenskap;science
@@ -1517,7 +1443,6 @@ diekkárat;Pronoun;;slike (har);
 diekkár;Pronoun;;med en slik en;
 diekkár;Pronoun;;som slikt;
 diekkár;Pronoun;;en slik en (har);
-Dielddanuorri;Proper noun;;Tjeldsund (Troms) ;
 dielku;Noun;;flekk;stain
 dielkoduvvá;Noun;;ringdue;wood pigeon
 diet;Pronoun;;det;it; third person singular
@@ -1538,7 +1463,6 @@ dievihit;Verb;;å bli fylt opp fort;
 dievvanjunni;Noun;;utstikker fra rundaktig haug;
 dievvá;Noun;;haug;heap
 dievváluohkká;Noun;;siden av en haug;
-Dieváidvuovdi;Proper noun;;Dividalen (Målselv) ;
 dieđalaš;Adjective;;vitenskapelig;scientific
 dieđihit;Verb;;å meddele, å orientere;
 dieđihandivat;Noun;;påmeldingsavgift;
@@ -1560,7 +1484,6 @@ dihkki;Noun;;lus;louse
 dihkkadit;Verb;;å bringe med seg lus;
 dihkket;Verb;;å lyske, å avluse;
 dihkkekampánja;Noun;;luskampanje;
-Dihkkevággi;Proper noun;;Lusedalen (Kvænangen) ;
 dihraidit;Verb;;å sitre, å skake;
 dihtomiella;Noun;;bevissthet;consciousness
 dihtomielalaš;Adjective;;bevisst;conscious
@@ -1581,7 +1504,6 @@ diida;Noun;;overtro;superstition
 diilageađgi;Noun;;teglstein;
 diila;Noun;;teglstein;
 dikkáskit;Verb;;å begynne å krangle;
-Diksovuotna;Proper noun;;Duksfjorden (Nordkapp) ;
 diksu;Noun;;hyse, kolje;
 diktagirji;Noun;;diktbok;
 dikta;Noun;;dikt;poem
@@ -1612,7 +1534,6 @@ diskotehka;Noun;;diskotek;discotheque
 dispa;Noun;;disp;
 dispalávdegoddi;Noun;;dispensasjonsutvalg;
 disposišuvdna;Noun;;disposisjon;disposition
-Ditnuidvággi;Proper noun;;Flintdalen (Alta) ;
 divat;Noun;;avgift;
 divatmáksu;Noun;;kontingent;contingent
 divga;Noun;;bjølle;
@@ -1620,10 +1541,7 @@ divvut;Verb;;å reparere, å rette på;
 divodit;Verb;;å reparere;
 divohat;Noun;;verksted;workshop
 divrras;Adjective;;dyr, kostbar;
-Divrevággi;Proper noun;;Bjørnskardalen (Tromsø) ;
 divri;Noun;;dyr, insekt;
-Divrrák;Proper noun;;Dyrøy (Troms) ;
-Divttasvuotna;Proper noun;;Tysfjord (Nordland) ;
 divuhit;Verb;;å få reparert;
 divustit;Verb;;å rette på;
 diđolaš;Adjective;;bevisst;conscious
@@ -1686,9 +1604,6 @@ doaresbealli;Noun;;veggrøft;
 doaresfágalaš;Adjective;;tverrfaglig;
 doaresluodda;Noun;;sideveg;
 doaresmuorra;Noun;;tverrstokk;
-Doaresvuotna;Proper noun;;Tverrfjorden (Hammerfest) ;
-Doaresvuonvággi;Proper noun;;Tverrfjorddalen (Loppa) ;
-Doaresvággi;Proper noun;;Tverrdalen (Tranøy) ;
 doarggistit;Verb;;å skjelve;
 doarjja;Noun;;sikring;protection
 doarjalit;Verb;;å støtte;
@@ -1703,7 +1618,6 @@ doarridit;Verb;;å forfølge;
 doarrunvuoibmi;Noun;;lyst til å kjempe;
 doarvi;Noun;;tilstrekkelig mengde;
 doassa;Noun;;eske;box
-Doasku;Proper noun;;Torsken (Troms) ;
 doavki;Adjective;;dum;foolish
 doavtterbálvalus;Noun;;legetjeneste;
 doavttergoansta;Noun;;legekunst;medicine
@@ -1727,7 +1641,6 @@ dohkketmeahttun;Adjective;;ubrukelig, udugelig, uakseptabel;
 dohkká;Noun;;dukke;Alternative form of dukka
 dohkálaš;Adjective;;høvelig, tjenlig;
 dohppa;Noun;;slire;sheath
-Dohpparvággi;Proper noun;;Finndalen (Balsfjord) ;
 dohppet;Verb;;å gripe;
 dohppehit;Verb;;å få et napp;
 dohppestit;Verb;;å ta fort;
@@ -1751,21 +1664,17 @@ dolkadit;Verb;;å gjøre lei;
 dollagáddi;Noun;;ved bålet;
 dollet;Verb;;å gripe, å ta et tak;
 dollestit;Verb;;å holde litt;
-Dollevággi;Proper noun;;Brennelvdalen (Porsanger) ;
 dollár;Noun;;dollar;dollar
 dološáigi;Noun;;gammel tid, gamle dager;
 dološ;Adjective;;gammeldags;old-fashioned
 dopmu;Noun;;støv;dust
 dot;Pronoun;;det lengst borte;
 dot;Pronoun;;som det lengst borte;
-Donjevuotna;Proper noun;;Mehamnfjorden (Gamvik) ;
 dorggiidit;Verb;;å bli skjelven;
 dorka;Noun;;skinnkofte, skinnkofte med hårene inn;
-Dorskevuotna;Proper noun;;Olderfjorden (Kvænangen) ;
 dorski;Noun;;torsk;cod
 dorte;Noun;;rokk;spinning wheel
 dorve;Noun;;valthorn;
-Dorvonjárga;Proper noun;;Dorvinjarga;
 dorvu;Noun;;tillit;confidence
 dorvvastit;Verb;;å stole på;
 dorvvolaš;Adjective;;trygg, tillitsfull;
@@ -1816,13 +1725,11 @@ duhát;Numeral;;1000;
 duhátjahki;Noun;;tusenår;
 duhátjahkeulbmil;Noun;;tusenårsformål;
 duihmi;Adjective;;dum, tungnem;
-Duikkášvuotna;Proper noun;;Lille Altafjorden (Kvænangen) ;
 don;Other;;med deg;
 duippas;Adjective;;klosset, tøvet;
 duipi;Noun;;klossmajor;
 duiskalaš;Noun;;tysker;German
 duiska;Adjective;;tysk;German
-Duiska;Proper noun;;Tyskland;Germany
 duiskkagiella;Noun;;tysk språk;
 duodji;Noun;;håndarbeid, håndverk;
 duoggi;Noun;;klump;lump
@@ -1873,7 +1780,6 @@ duokkáraš;Adjective;;slik som det der;
 duolbbas;Adjective;;flat;flat
 duolbačiehka;Noun;;stump vinkel;obtuse angle
 duolddahit;Verb;;å få til å koke;
-Duolljevággi;Proper noun;;Skinskardet (Bardu) ;
 duollodoaimmahat;Noun;;tollvesen;
 duolmmastit;Verb;;å trø;
 duolvvas;Adjective;;skitten;dirty
@@ -1886,12 +1792,9 @@ duopmogirku;Noun;;domkirke;cathedral
 duopmostuollu;Noun;;domstol;court
 duopmostuolloláhka;Noun;;domstollov;
 duopmár;Noun;;dommer;judge
-Duopmásvággi;Proper noun;;Tomasdalen (Kvænangen) ;
 duorastat;Noun;;torsdag;Thursday
 duorga;Noun;;riskvist;
-Duorga;Proper noun;;Lenvikmarka;
 duorgu;Noun;;fiskesnøre;
-Duorppalvuotna;Proper noun;;Øyfjorden (Hasvik) ;
 duoršu;Noun;;stokkand;
 duot;Pronoun;;av det der;
 duot;Pronoun;;til det der;
@@ -1915,7 +1818,6 @@ durddas;Adjective;;skitten, tilsølt;
 durddidit;Verb;;å skitne til;
 durdut;Verb;;å bli tilsølt, å skitten;
 durdebivttas;Noun;;klesplagg for skittent arbeid;
-Duortnus;Proper noun;;Torneå (Finland) ;
 durget;Verb;;å dekke telt- eller gammegolv med ris;
 don;Other;;du (har);
 duski;Noun;;ergelse;
@@ -1934,7 +1836,6 @@ dutki;Noun;;forsker;researcher
 dutkkus;Noun;;eksamen;exam
 don;Other;;til deg;
 duvdit;Verb;;å støtte;
-Duviika;Proper noun;;Tovik;
 duvvá;Noun;;due;bird of the family Columbidae
 duđđat;Verb;;å tumle, å vase;
 duđavaš;Adjective;;fornøyd;pleased
@@ -1958,8 +1859,6 @@ dáhpáhuvvat;Verb;;å hende, å skje;
 dáhttut;Verb;;å ville, å ønske;
 dáhton;Noun;;dato;date
 dáhttu;Noun;;ønske, vilje;
-Dáibaravuotna;Proper noun;;Mårøyfjord;
-Dáibáravuotna;Proper noun;;Mårøyfjorden (Lebesby) ;
 dát;Pronoun;;disse;these
 dáidda;Noun;;kunst;art
 dát;Pronoun;;til disse;
@@ -1977,7 +1876,6 @@ dáiddolaš;Adjective;;kyndig;experienced
 dáidu;Noun;;kunnskap;knowledge
 dáiddár;Noun;;kunstner;artist.
 dáiddárráđđi;Noun;;kunstnerråd;
-Dáigevuotna;Proper noun;;Tyfjorden (Gamvik) ;
 dáigi;Noun;;deig;dough
 dát;Pronoun;;med disse;
 dáikkihit;Verb;;å summe seg;
@@ -2011,12 +1909,9 @@ dállas;Noun;;sennegress nok til et par komager;
 dállet;Verb;;å riste;
 dállearka;Noun;;tallerken;plate or dish
 dállodoallu;Noun;;husstand;household
-Dállogilli;Proper noun;;Korpilompelo (Finland) ;
 dállu;Noun;;gård, hus;
-Dálmmát;Proper noun;;Kjelmøya (Finnmark) ;
 dálolaš;Noun;;gårdbruker;
 dálon;Noun;;bufinn, fastboende;
-Dálošvággi;Proper noun;;Olderdalen (Kåfjord) ;
 dálset;Verb;;å vrøvle, å tøyse;
 dálueamit;Noun;;husmor;housewife
 dálvat;Verb;;å bli vinter;
@@ -2028,14 +1923,12 @@ dálveguohtumat;Noun;;vinterbeite;
 dálveorohat;Noun;;vinterboplass;
 dálveriemut;Noun;;vinterfestival;
 dálvi;Noun;;vinter;winter
-Dálvvesvággi;Proper noun;;Olderdalen (Kåfjord) ;
 dálááigi;Noun;;nåtid;present
 dáláš;Adjective;;nåtidens;
 dámmá;Noun;;hoppe;mare
 dát;Pronoun;;denne;this; this one
 dáncat;Verb;;å trampe;
 dát;Pronoun;;som dette;
-Dánmárku;Proper noun;;Danmark;Denmark
 dánsa;Noun;;dans;dance
 dánset;Verb;;å danse;
 dánskalaš;Adjective;;dansk;Danish
@@ -2044,7 +1937,6 @@ dánska;Adjective;;dansk;Danish
 dánsut;Verb;;å danse;
 dánsun;Noun;;dansing;
 dápmot;Noun;;aure, ørret;
-Dápmotvággi;Proper noun;;Vasskardet (Bardu) ;
 dáppe-olmmoš;Noun;;menneske herfra;
 dáppeorru;Noun;;en som bor her;
 dárra;Noun;;tare;
@@ -2093,14 +1985,11 @@ dávdesonahat;Noun;;miltbrann;anthrax
 dávggas;Adjective;;elastisk, spenstig;
 dávgesahá;Noun;;baufil;
 dávgi;Noun;;bue;bow
-Dávggát;Proper noun;;Karlsvogna;
 dávistit;Verb;;å svare, å gi gjenlyd, å gi respons, å reagere på;
 dávvir;Noun;;eiendel, skatt, verdi;
 dávvirvuorká;Noun;;museum;museum
 dáčča;Noun;;nordmann, svenske;
-Dášvággi;Proper noun;;Nordmannsvikdalen (Lebesby) ;
 dáža;Noun;;nordmann;Norwegian
-Dážavággi;Proper noun;;Nordmannvikdalen (Kåfjord) ;
 e-boasta;Noun;;e-post;e-mail or email
 e-maila;Noun;;e-post;e-mail or email
 e-poasta;Noun;;e-post;e-mail or email
@@ -2137,8 +2026,6 @@ eahppel;Noun;;eple;apple
 eahpádus;Noun;;tvil;doubt
 eahpáraš;Noun;;utburd;
 eaibmi;Noun;;raring, dust;
-Eaibujohka;Proper noun;;Eibyelv;
-Eaibuvággi;Proper noun;;Eibydalen;
 eaiggát;Noun;;eier;owner
 eaiggáduššat;Verb;;å eie;
 eaiggáduššanráđđejupmi;Noun;;eierbeføyelse;
@@ -2225,7 +2112,6 @@ eanavuoigatvuohta;Noun;;landrettighet;
 eanavuovdinláhka;Noun;;jordsalgslov;
 eanetlohku;Noun;;flertall;majority
 eatnu;Noun;;stor elv, flod;
-Eanodat;Proper noun;;Enontekiö (Finland) ;
 eanu;Noun;;onkel;uncle
 eappel;Noun;;eple;apple
 eappelhádja;Noun;;eplelukt;
@@ -2236,7 +2122,6 @@ earri;Noun;;mengde;alternative form of mengd
 earenoamášvuohta;Noun;;eiendommelighet;
 earenoamáš;Adjective;;spesiell, ekstra;
 earenomáš;Adjective;;spesiell, ekstra;
-Earnjoasvággi;Proper noun;;Erdalen (Kvalsund) ;
 earru;Noun;;avskjed;goodbye
 earránit;Verb;;å skilles;
 earráneapmi;Noun;;skilsmisse;divorce
@@ -2263,7 +2148,6 @@ eatnjehas;Adjective;;ubehagelig, nifs;
 eatnogáddi;Noun;;elvebredd;riverbank
 eatnovanas;Noun;;elvebåt;riverboat
 eattehit;Verb;;å bli sint;
-Eavrovággi;Proper noun;;Øradalen (Loppa) ;
 eaŋgalasgiella;Noun;;engelsk språk;
 eaŋkil;Adjective;;enkel;easy
 eaŋkillatnja;Noun;;enkeltrom;
@@ -2292,8 +2176,6 @@ elošteaddji;Noun;;samboer;A live-in partner; a person with whom one lives toget
 elrávdnji;Noun;;elektrisitet, strøm;
 endor;Noun;;område langt unna;
 energiijageavaheapmi;Noun;;energibruk;
-Englánda;Proper noun;;England;England
-Enodat;Proper noun;;Enontekiö (Finland) ;
 erenoamášoahpahus;Noun;;spesialundervisning;
 erenoamášpedagogihkka;Noun;;spesialpedagogikk;
 erenoamášvuohta;Noun;;eiendommelighet;
@@ -2306,15 +2188,12 @@ erohallan;Noun;;sortering;
 erohus;Noun;;forskjell;difference
 erttet;Noun;;ribbein;rib
 erttetdákti;Noun;;ribbein;rib
-Estteeana;Proper noun;;Estland;Estonia
 etihkka;Noun;;etikk;ethics
 etnalaš;Adjective;;etnisk;ethnic
 etáhtta;Noun;;etat;
 etáhta;Noun;;etat;
-Eurohpáluodda;Proper noun;;Europaveg;
 euro;Noun;;euro;euro
 evangelium;Noun;;evangelium;gospel
-Evenášši;Proper noun;;Evenes (Nordland) ;
 evre;Noun;;øre;øre
 evttohit;Verb;;å foreslå, å avgi innstilling;
 evttohanvuoigatvuohta;Noun;;forslagsrett;
@@ -2346,7 +2225,6 @@ fasket;Verb;;å kapre;
 faskut;Verb;;å skrape;
 faskkon;Noun;;skrape;to scrape
 fasti;Adjective;;stygg, fæl;
-Fastovággi;Proper noun;;Fastdalen (Lyngen) ;
 favorihttamusihkka;Noun;;favorittmusikk;
 fađđut;Verb;;å vifte;
 faŋuhit;Verb;;å strekke seg;
@@ -2381,7 +2259,6 @@ fiehtarat;Noun;;buksebånd;
 fielbmá;Noun;;lita stille elv, stille sted i ei lita elv;
 fiellosahá;Noun;;snekkersag;
 fiellu;Noun;;fjøl, bord;
-Fielvuotna;Proper noun;;Korsfjorden (Alta) ;
 fierrat;Verb;;å rulle;
 fieradit;Verb;;å rulle, å tumle;
 fierbmečalbmi;Noun;;garnmaske;
@@ -2424,7 +2301,6 @@ finadit;Verb;;å stikke innom;
 finddar;Noun;;flyndre;
 finjučiehka;Noun;;skjev vinkel, skeiv vinkel;
 finjučála;Noun;;kursiv;
-Finnmárku;Proper noun;;Finnmark;Finnmark
 finnmárkulaš;Noun;;finnmarksværing;
 finála;Noun;;finale;final
 finánsalávdegoddi;Noun;;finansutvalg;
@@ -2440,7 +2316,6 @@ fitmatvuohta;Noun;;observasjonsevne;
 fitnodat;Noun;;firma, foretak;
 fitnodatregisttar;Noun;;foretaksregister;
 fiásko;Noun;;fiasko;fiasco
-Fiškonjárga;Proper noun;;Fiskenes;
 foanda;Noun;;fond;fund
 foarbma;Noun;;form;form
 fokus;Noun;;fokus;focus
@@ -2457,7 +2332,6 @@ friddjaáigi;Noun;;fritid;leisure
 friija;Adjective;;fri;free
 friijaminuhtta;Noun;;friminutt;friminutt m
 frimearka;Noun;;frimerke;stamp
-Frostadiggeláhka;Proper noun;;Frostatingslov;
 fuoikut;Verb;;å jamre, å ynke seg;
 fulkkežat;Noun;;slektninger;indefinite plural of slektning
 fuolki;Noun;;slektning;relative
@@ -2465,7 +2339,6 @@ fuollat;Verb;;å bry seg om;
 fuolla;Noun;;omsorg;care
 fuotni;Adjective;;dårlig;bad
 fuobmát;Verb;;å oppdage;
-Fuoitnjárga;Proper noun;;Bunes;
 fuolahit;Verb;;å sørge for;
 fuolaheapme;Adjective;;likegyldig;
 fuolaheaddji;Noun;;forsørger;breadwinner
@@ -2525,9 +2398,7 @@ fáktet;Verb;;å passe, å vokte;
 fállat;Verb;;å tilby, å by på;
 fálaldat;Noun;;tilbud;offer
 fáldi;Noun;;fogd, fut;
-Fálesvággi;Proper noun;;Kvalvikdalen (Kvalsund) ;
 fális;Noun;;kval;whale
-Fállevuotna;Proper noun;;Kvalfjorden (Hammerfest) ;
 fálli;Noun;;hauk;hawk
 fápmu;Noun;;makt, styrke;
 fámolaš;Adjective;;mektig;mighty; powerful
@@ -2547,7 +2418,6 @@ fátmmastit;Verb;;å omfavne;
 fávdnát;Adjective;;bra, dyktig;
 fávli;Noun;;dyp;deep
 fávllit;Adjective;;dypest;indefinite superlative degree of dyp
-Fávrresvággi;Proper noun;;Favresdalen (Nordreisa) ;
 fávru;Noun;;vakker person, staselig person;
 fávru;Adjective;;skjønn, vakker;
 fáŋga;Noun;;fange;convict
@@ -2563,9 +2433,7 @@ gaccestit;Verb;;å spise en skjefull;
 gazzut;Verb;;å klore;
 gahkit;Verb;;å gnage;
 gahperdiehppi;Noun;;luedusk;
-Gahpervággi;Proper noun;;Kaperdalen (Tranøy) ;
 gahpir;Noun;;lue;beanie
-Gahpirvuotna;Proper noun;;Kipparfjorden (Hasvik) ;
 gahččat;Verb;;å falle;
 gahčat;Verb;;å spørre;
 gaibagahpir;Noun;;skyggelue;peaked cap
@@ -2583,7 +2451,6 @@ galbmaguolli;Noun;;frossenfisk;
 galbmaskábe;Noun;;kjøleskap;fridge or refrigerator
 galbmit;Verb;;å fryse til;
 galbmot;Verb;;å fryse;
-Galbárvággi;Proper noun;;Eliasdalen (Tromsø) ;
 galgat;Verb;;å skulle;
 galjedit;Verb;;å gjøre videre;
 gallji;Adjective;;vid, rommelig;
@@ -2618,22 +2485,16 @@ garrudit;Verb;;å banne, å forbanne;
 garrusátni;Noun;;banneord;
 garvit;Verb;;å unngå;
 garvilit;Verb;;å unnvike;
-Garžavággi;Proper noun;;Liveltskardet (Bardu) ;
 gassat;Adjective;;tykk;imperative of tykkja
-Gaska-Amerihkká;Proper noun;;Mellom-Amerika;Central America
-Gaska-Dorskavuotna;Proper noun;;Mellafjorden (Kvalsund) ;
-Gaska-Nuorti;Proper noun;;Midtøsten;
 gaskaahki;Noun;;middelalder;the Middle Ages
 gaskaahkásaš;Adjective;;middelaldrende;middle-aged
 gaskabeaivvit;Noun;;middag;dinner
 gaskabeaivi;Noun;;midt på dagen;
-Gaskabeaivággi;Proper noun;;Middagskardet (Narvik) ;
 gaskabiebmu;Noun;;mellommåltid;
 gaskaboddosaš;Adjective;;midlertidig;temporary
 gaskafága;Noun;;mellomfag;
 gaskaidja;Noun;;midnatt;midnight
 gaskaijabeaivváš;Noun;;midnattsol;
-Gaskamearra;Proper noun;;Middelhavet;the Mediterranean Sea
 gaskamearri;Noun;;gjennomsnitt;average
 gaskamearálaš;Adjective;;gjennomsnittlig;average
 gaska;Noun;;mellomrom, avstand;
@@ -2644,13 +2505,11 @@ gaskasiidu;Noun;;midtside;
 gaskasuorbma;Noun;;langfinger;middle finger
 gaskavahkku;Noun;;onsdag;Wednesday
 gaskavuohta;Noun;;forhold, relasjon;
-Gaskavággi;Proper noun;;Mellomdalen (Tromsø) ;
 gaskaáigi;Noun;;middelalder;the Middle Ages
 gaskačáhci;Noun;;glassmanet;
 gaskit;Verb;;å ribbe, å plukke;
 gaskkalduhttit;Verb;;å avbryte;
 gaskkalduvvat;Verb;;å bli avbrutt;
-Gaskkasvággi;Proper noun;;Strømskardet (Bardu) ;
 gaskkustit;Verb;;å formidle;
 gassačoalli;Noun;;tykktarm;large intestine
 gastit;Verb;;å nyse;
@@ -2666,8 +2525,6 @@ gažadeaddji;Noun;;spørsmålstiller;
 gažaldat;Noun;;spørsmål;question
 gažaldatskovvi;Noun;;spørreskjema;questionnaire
 geahpa;Noun;;bøtenål, garnnål;
-Geaccevuotna;Proper noun;;Smalfjorden (Hasvik) ;
-Geaccevággi;Proper noun;;Smalfjorddalen (Hasvik) ;
 geafi;Adjective;;fattig;poor
 geaffi;Adjective;;fattig;poor
 geafi;Noun;;legdslem;
@@ -2712,7 +2569,6 @@ geaidnogalba;Noun;;veiskilt;road sign
 geaidnoguorra;Noun;;vegkant;roadside
 geaidnoláhka;Noun;;veglov;
 geaidnoravda;Noun;;vegkant;roadside
-Geaidnovággi;Proper noun;;Iselvdalen (Kvalsund) ;
 geaidnočuovga;Noun;;gatelys;street light or streetlight
 geaidnu;Noun;;vei, veg;
 geaigguhit;Verb;;å strekke ut, å holde utstrakt;
@@ -2720,8 +2576,6 @@ geat;Other;;med hvem;
 geaigát;Verb;;å stikke fram, å stikke ut;
 geat;Other;;hvem (har);
 gii;Other;;med hvem;
-Geaippilvággi;Proper noun;;Kippeldalen (Kåfjord) ;
-Geairavággi;Proper noun;;Gæiradalen (Nordreisa) ;
 geallat;Verb;;å pusse, å polere;
 gealbu;Noun;;gagn, nytte;
 gealboguovddáš;Noun;;kompetansesenter;
@@ -2729,7 +2583,6 @@ gealdda;Noun;;spenning;excitement
 gealdagas;Noun;;spenn;span
 gealdit;Verb;;å spenne;
 geallir;Noun;;kjeller;basement or cellar
-Gealovággi;Proper noun;;Kjervelvdalen (Målselv) ;
 gealva;Noun;;kjevle;rolling pin
 geamus;Adjective;;uklar, disig;
 geamádat;Noun;;dis, disig luft;
@@ -2746,7 +2599,6 @@ geargat;Verb;;å bli ferdig;
 gearggus;Adjective;;klar;clear
 gearggusvuohta;Noun;;beredskap;preparedness
 gearjidit;Verb;;å tigge;
-Gearvuotna;Proper noun;;Bekkarfjorden (Alta) ;
 gii;Other;;hvem (har);
 gii;Other;;til hvem;
 geassit;Verb;;å dra, å trekke;
@@ -2769,7 +2621,6 @@ geasseorohat;Noun;;sommerboplass;
 geasseruškat;Adjective;;sommerbrun;
 geassesadji;Noun;;seter;indefinite plural of sete
 geassesiivu;Noun;;sommerføre;
-Geassevággi;Proper noun;;Sommarbuktdalen (Alta) ;
 geassinbáddi;Noun;;trekkband;
 geassádit;Verb;;å trekke seg;
 geasuhit;Verb;;å tiltrekke;
@@ -2791,14 +2642,10 @@ geavahus;Noun;;bruk;use
 geavatlaš;Adjective;;praktisk;practical
 geavŋŋis;Noun;;stort stryk;
 geavja;Noun;;hank;handle
-Geavlavuotna;Proper noun;;Lille Kvalfjorden (Alta) ;
-Geavlavuonvággi;Proper noun;;Lille Kvalfjorddalen (Alta) ;
 geavri;Noun;;trinse;
-Geazzevuotna;Proper noun;;Evapollen (Lebesby) ;
 geađaš;Noun;;tinning;temple
 geađgegavja;Noun;;steinstøv;
 geađgejuolgi;Noun;;grunnmur;foundation
-Geađgevággi;Proper noun;;Tverrdalen (Skånland) ;
 geađgi;Noun;;stein;stone
 geađđut;Verb;;å bli dunkel;
 geaŧŧu;Noun;;vogge;cradle
@@ -2807,7 +2654,6 @@ gefot;Verb;;å bli fattig;
 gehppesmielki;Noun;;lettmelk;
 geiget;Verb;;å strekke ut, å rekke fram;
 geinnodat;Noun;;flyttevei;
-Geinnotvággi;Proper noun;;Vestbotndalen (Karlsøy) ;
 gelbbolaš;Adjective;;dugelig;
 gelbbolašvuohta;Noun;;kompetanse;competence
 gelbbolašvuođaguovddáš;Noun;;kompetansesenter;
@@ -2830,7 +2676,6 @@ giddagas;Noun;;fengsel;prison
 giddanit;Verb;;å bli fast;
 giddet;Verb;;å feste;
 giehpa;Noun;;sot;soot
-Giebmegáisi;Proper noun;;Kebnekaise (Sverige) ;
 gieddi;Noun;;eng, voll;
 giehka;Noun;;gjøk;cuckoo
 giegir;Noun;;strupe;throat
@@ -2844,7 +2689,6 @@ giehta;Noun;;hand;hand
 giehtaruohtas;Noun;;håndrot;
 giehtaspeažžun;Noun;;ovasjon, applaus;
 giehtaspábba;Noun;;håndball;handball
-Giehtavuotna;Proper noun;;Kvæfjord (Troms) ;
 giehtaváibmu;Noun;;håndflate;palm
 giehtaváđđu;Noun;;jukse;jig
 giehtačeahppi;Noun;;formgiver;
@@ -2859,7 +2703,6 @@ gieldaláhka;Noun;;kommunelov;
 gieldaministtar;Noun;;kommunalminister;
 gielda;Noun;;kommune;municipality
 gieldaviessu;Noun;;kommunehus;
-Gielda;Proper noun;;Kildin;
 gielddadoavttir;Noun;;kommunelege;
 gielddahoavda;Noun;;rådmann;chief executive of a county or municipality
 gielddapolitihkka;Noun;;kommunepolitikk;
@@ -2904,16 +2747,11 @@ giellateknologiija;Noun;;språkteknologi;
 giellavealgu;Noun;;blåstrupe;
 giellaváttisvuohta;Noun;;språkproblem;
 giellačeahppi;Noun;;språkekspert;
-Giepma;Proper noun;;Kemi (Finland) ;
-Giemajohka;Proper noun;;Kemijoki;
-Giemajávri;Proper noun;;Kemijärvi;
-Giepmestatvággi;Proper noun;;Langdalen (Sørreisa) ;
 giera;Noun;;topp;the top
 gierdat;Verb;;å tåle;
 gierdameahttun;Adjective;;utålmodig;impatient
 gierdavaš;Adjective;;tålmodig;patient
 gierdu;Noun;;ring, runding;
-Gierdduidvággi;Proper noun;;Eidsnesdalen (Alta) ;
 gierdevašvuohta;Noun;;tålmodighet;patience
 gierdilvuohta;Noun;;toleranse;tolerance
 gierdodahkki;Noun;;passer;imperative of passere
@@ -2922,8 +2760,6 @@ gieris;Adjective;;kjærlig, øm;
 giessat;Verb;;å vikle, å surre, å nøste;
 giessasaddat;Verb;;å bukte seg, å sno seg;
 gietkka;Noun;;komse;
-Gievdanvággi;Proper noun;;Steindalen (Storfjord) ;
-Gievdnevággi;Proper noun;;Kjeledalen (Storfjord) ;
 gievdni;Noun;;bøtte, kjel;
 gievkkan;Noun;;kjøkken;kitchen
 gievkkanbeavdi;Noun;;kjøkkenbord;kitchen table
@@ -2937,12 +2773,10 @@ gievvudit;Verb;;å være vilter, å oppskrudd;
 gieđahallat;Verb;;å bearbeide, å behandle;
 gieđavuolli;Noun;;armhule;armpit
 gihca;Noun;;rasling;
-Gihccevággi;Proper noun;;Kidalen (Storfjord) ;
 gihcci;Noun;;geitekilling;
 gihli;Noun;;friergave;
 gihpa;Noun;;hefte;booklet
 gihppu;Noun;;bunt, klase;
-Gihpovuotna;Proper noun;;Kifjorden (Lebesby) ;
 gihčat;Verb;;å knirke;
 giimma;Noun;;irr;
 giikanastit;Verb;;å se med kikkert;
@@ -2962,8 +2796,6 @@ giksat;Verb;;å bli ferdigkokt, å bli ferdigstekt, å bli ferdigspeket;
 giksi;Noun;;plage;plague
 gikta;Noun;;synkestein, vekt;
 giktit;Verb;;å lokke;
-Gilbbesjávri;Proper noun;;Kilpisjärvi (Finland) ;
-Gilevuotna;Proper noun;;Kjøllefjorden (Lebesby) ;
 gilgat;Adjective;;blass;
 gilga;Noun;;side;page
 gilggabealle;Noun;;side;page
@@ -3037,16 +2869,13 @@ girkogirji;Noun;;kirkebok;
 girkogárdi;Noun;;kirkegård;cemetery
 girkolaš;Adjective;;kirkelig;ecclesiastical
 girkoláhka;Noun;;kirkelov;
-Girkonjárga;Proper noun;;Kirkenes (Sør-Varanger) ;
 girkoráđđi;Noun;;kirkeråd;
 girkostallat;Verb;;å delta i gudstjeneste;
 girkoverdde;Noun;;kirkeverge;churchwarden
 girkočoahkkin;Noun;;kirkemøte;
 girku;Noun;;kirke;church
-Giron;Proper noun;;Kiruna (Sverige) ;
 giron;Noun;;fjellrype;
 girsi;Noun;;tele;
-Gistovággi;Proper noun;;Kistedalen (Gamvik) ;
 gistta;Noun;;skinnhanske;
 gistu;Noun;;kiste;chest or trunk
 gitarista;Noun;;gitarist;guitarist
@@ -3054,7 +2883,6 @@ gitárra;Noun;;gitar;guitar
 gitáračuojaheaddji;Noun;;gitarspiller;
 gitárrakursa;Noun;;gitarkurs;
 givas;Adjective;;ivrig, modig;
-Givssatvággi;Proper noun;;Kjusakdalen (Balsfjord) ;
 givssidit;Verb;;å mobbe, å plage, å pine;
 givssideapmi;Noun;;mobbing;
 giđđa;Noun;;vår;spring
@@ -3066,7 +2894,6 @@ giđđageassi;Noun;;forsommer;early summer
 giđđailbmi;Noun;;vårvær;
 giđđajohtin;Noun;;vårflytting;
 giđđalodden;Noun;;vårjakt på ender;
-Giđđavággi;Proper noun;;Gammelhjemsdalen (Kvænangen) ;
 giđđaáibmu;Noun;;vårluft;
 giđđudit;Verb;;å vrimle, å flimre;
 gišvvardit;Verb;;å sprelle;
@@ -3083,10 +2910,8 @@ goahcat;Verb;;å bremse;
 goahccevuovdi;Noun;;barskog;coniferous forest
 goahkka;Noun;;kokk;cook
 goahppil;Noun;;røy;
-Goahteluovttvággi;Proper noun;;Gambuktdalen (Kvænangen) ;
 goahtemuorra;Noun;;teltstang;
 goahteuksa;Noun;;gammedør;
-Goahtečorru;Proper noun;;Breivikbotn (Finnmark) ;
 goahti;Noun;;gamme;
 goaikkanas;Noun;;dråpe;drop
 goaikkihit;Verb;;å dryppe;
@@ -3104,7 +2929,6 @@ goallu;Noun;;tranlampe, lampe;
 goallus;Noun;;sammenbundet rekke;
 goalmmát;Adjective;;tredje;third
 goalmmádas;Noun;;tredjedel, tredel;
-Goalsevággi;Proper noun;;Kvalvikdalen (Lyngen) ;
 goalsi;Noun;;fiskeand;
 goalus;Adjective;;uhyggelig;cheerless
 goalva;Noun;;båthvelv;
@@ -3141,7 +2965,6 @@ goarvi;Noun;;berg;mountain or hill
 goaskit;Noun;;tantebarn;
 goaskin;Noun;;ørn;eagle
 goaski;Noun;;tante;aunt
-Goaskinvággi;Proper noun;;Kjelvik;
 goaskinčalbmi;Noun;;ørneøye;
 goastat;Verb;;å komme seg fram;
 goastadit;Verb;;å greie å få med seg;
@@ -3152,7 +2975,6 @@ goatnil;Noun;;stille sted i elva;
 goavdi;Noun;;gapahuk;lean-to
 goavddis;Noun;;runebomme;
 goavvi;Adjective;;hensynsløs;inconsiderate
-Goavkejohvággi;Proper noun;;Kokelvdalen (Kvalsund) ;
 goavki;Noun;;gløtt, åpning;
 goazan;Noun;;brems;brake
 goađáš;Noun;;liten gamme;
@@ -3165,7 +2987,6 @@ gobmi;Noun;;spøkelse;apparition
 goddit;Verb;;å drepe;
 goddesarvvis;Noun;;villreinsbukk;
 goddesáhpán;Noun;;lemen;lemming
-Goddevággi;Proper noun;;Villreindalen (Alta) ;
 goddeáldu;Noun;;simle av villrein;
 goddi;Noun;;morder, avliver;
 goddi;Noun;;villrein;
@@ -3174,7 +2995,6 @@ gohcit;Verb;;å våke;
 gohccát;Verb;;å våkne;
 gohppi;Noun;;bukt;bay or gulf
 gohppu;Noun;;kopp;cup
-Gohppalvuotna;Proper noun;;Kobbefjorden (Hammerfest) ;
 gohttensadji;Noun;;campingplass;campsite
 gohttá;Noun;;småkake;A soft biscuit or cookie
 gohččut;Verb;;å be, å befale;
@@ -3265,7 +3085,6 @@ gonagasreabbá;Noun;;kongekrabbe;
 gopmahallat;Verb;;å spøke;
 gopmirdit;Verb;;å bukke, å bøye seg;
 gopmánit;Verb;;å veltes, å kvelve;
-Gorbovuotna;Proper noun;;Ytre Billefjord (Porsanger) ;
 gordnegihppu;Noun;;kornnek;
 gordni;Noun;;korn;grain
 gorri;Noun;;proporsjon;
@@ -3288,8 +3107,6 @@ govahallat;Verb;;å forestille;
 govahallan;Noun;;illusjon;illusion
 govdat;Adjective;;brei, bred;
 govdafierpmádat;Noun;;bredbånd;broadband
-Govdavuotna;Proper noun;;Skreifjorden (Hammerfest) ;
-Govdavággi;Proper noun;;Breidalen (Tromsø) ;
 govdut;Verb;;å flyte;
 govddodit;Verb;;å holde på å flyte;
 govdodat;Noun;;bredde;wide
@@ -3317,10 +3134,8 @@ gođus;Noun;;strikketøy;
 gođđadorski;Noun;;skrei;past of skri
 gođđodorski;Noun;;gytetorsk;
 gođđoguolli;Noun;;gytefisk;
-Goškesvággi;Proper noun;;Lille-Molvik (Tana) ;
 grammatihkka;Noun;;grammatikk;grammar
 granáhtta;Noun;;granat;
-Greika;Proper noun;;Hellas;Greece
 groavaláibi;Noun;;grovbrød;coarse
 gráda;Noun;;grad;degree
 gráfalaš;Adjective;;grafisk;graphic
@@ -3344,7 +3159,6 @@ gufihttaraš;Noun;;liten hulder;
 guhkebuš;Adjective;;litt lengre;
 guhkki;Adjective;;lang;long
 guhkesbearjadat;Noun;;langfredag;Good Friday
-Guhkesvággi;Proper noun;;Langdalen (Kvænangen) ;
 guhkesáiggeperspektiiva;Noun;;langtidsperspektiv;
 guhkesčuovga;Noun;;fjernlys;
 guhkidit;Verb;;å forlenge;
@@ -3362,7 +3176,6 @@ guimmiideaset;Other;;med hverandre;
 guimmiideaset;Other;;hos hverandre, fra hverandre;
 guhte;Other;;til hvem;
 guohtut;Verb;;å beite;
-Guhtovággi;Proper noun;;Dudalen (Gratangen) ;
 guhttaduhát;Numeral;;6000;
 guhttalogi;Numeral;;60;The cardinal number sixty.
 guhttalogát;Adjective;;60.;
@@ -3371,7 +3184,6 @@ guhttanuppelohkái;Numeral;;16;the number sixteen
 guhttanuppelogát;Adjective;;16.;
 guhttačuođi;Numeral;;600;
 guđas;Noun;;seks personer;
-Guhturvággi;Proper noun;;Påveskardet (Bardu) ;
 guigu;Noun;;kvige;heifer
 guoika;Noun;;stryk, fossestryk;
 guikkut;Noun;;fossekall;
@@ -3388,7 +3200,6 @@ guoimmiska;Other;;med hverandre;
 guoimmáde;Other;;med hverandre;
 guoimmádet;Other;;med hverandre;
 guimmiideattet;Other;;hos hverandre, fra hverandre;
-Guitanas;Proper noun;;Kvitnes;
 guite;Noun;;kvittering;
 guoksa;Noun;;melke;to milk
 guksi;Noun;;øse, ause;
@@ -3396,7 +3207,6 @@ guovssu;Noun;;gry;to dawn
 guovttos;Noun;;de to, to personer;
 guktot;Pronoun;;begge;Alternative form of båe
 gullat;Verb;;å høre;
-Guladiggeláhka;Proper noun;;Gulatingslova;
 gulahit;Verb;;å kunngjøre;
 gulahallat;Verb;;å forstå hverandre;
 gulahallanoahpaheaddji;Noun;;kontaktlærer;
@@ -3423,13 +3233,11 @@ gullostit;Verb;;å plutselig høres;
 gullostallat;Verb;;å ryktes, å høres litt av og til;
 gullu;Noun;;hørsel;hearing
 gullát;Verb;;å begynne å høre;
-Gulpevággi;Proper noun;;Golpedalen (Kvænangen) ;
 gulustuvvat;Verb;;å ryktes, å bli alminnelig kjent;
 guopmi;Noun;;gomme, gane;
 gummebáddi;Noun;;gummistrikk;rubber band
 gummestevvel;Noun;;gummistøvel;Wellington boot
 gumpe;Noun;;ulv;wolf
-Gumpevággi;Proper noun;;Gumpedalen (Sørreisa) ;
 gumppus;Noun;;blodklubb;
 gutna;Noun;;aske;ash
 guoppar;Noun;;sopp, hattsopp;
@@ -3442,7 +3250,6 @@ guoggomasráksá;Noun;;skjoldbruskkjertel;
 guoggomasčohkka;Noun;;adamseple;Adam's apple
 guohcagit;Verb;;å råtne;
 guohcahádja;Noun;;stank;stench
-Guohcamohkki;Proper noun;;Breidvika;
 guohca;Adjective;;råtten;rotten
 guohpa;Noun;;mugg;mold
 guohppun;Noun;;muggvekst;
@@ -3501,7 +3308,6 @@ guovttis;Noun;;to personer;
 guoktá;Noun;;to personer;
 guovttes;Noun;;to personer;
 guolbba;Noun;;slette, mo;
-Guolbanvággi;Proper noun;;Bergsdalen (Storfjord) ;
 guolebeahcet;Noun;;fiskehale, spord;
 guoledákti;Noun;;fiskebein;
 guolegeaidnu;Noun;;fiskens svømmeretning;
@@ -3536,9 +3342,6 @@ guolleoaivádat;Noun;;fiskestim;
 guollerusttet;Noun;;fiskebruk;
 guolleskadjá;Noun;;fiskeskjå;
 guollešládja;Noun;;fiskeart;
-Guolmmesvuotna;Proper noun;;Litle Skogfjorden (Gamvik) ;
-Guoládat;Proper noun;;Kola;plural of Kolon
-Guoládatnjárga;Proper noun;;Kolahalvøya;
 guolástit;Verb;;å fiske;
 guolásteaddji;Noun;;fisker;indefinite plural of fisk
 guolásteapmi;Noun;;fiskeri;fishing
@@ -3546,7 +3349,6 @@ guolástus;Noun;;fiske;fishing
 guolástusbearráigeahčči;Noun;;fiskeriinspektør;
 guolástusministtar;Noun;;fiskeriminister;
 guolástuspolitihkka;Noun;;fiskeripolitikk;
-Guonnegieddi;Proper noun;;Indre Valan;
 guopparas;Noun;;svamp;sponge
 guopparmális;Noun;;rognbollesuppe;
 guorrat;Verb;;å følge spor;
@@ -3590,7 +3392,6 @@ guotteteana;Noun;;kalvingsland;
 guotteteatnan;Noun;;kalvingsland;
 guottetáigi;Noun;;kalvingstid;
 guovdageaidnulaš;Adjective;;fra Kautokeino;
-Guovdageaidnu;Proper noun;;Kautokeino (Kautokeino) ;
 guovda;Noun;;våt grasslette i skogen;
 guovdi;Noun;;sjøorm, drage;
 guovddášbellodat;Noun;;sentrumsparti, senterparti;
@@ -3662,9 +3463,7 @@ gutnabáđoš;Noun;;askeladd, askepott;
 gutnalihtti;Noun;;askebeger;ashtray
 gutneheapme;Adjective;;frekk;rude
 guttaheapme;Adjective;;udugelig, ubrukelig;
-Guvgesloapmevággi;Proper noun;;Kvitlidalen (Storfjord) ;
 guvggodit;Verb;;å blekne, å bli gulbrun;
-Guvggosvággi;Proper noun;;Markenesdalen (Balsfjord) ;
 guvnnjádit;Verb;;å bøye seg, å huke seg ned;
 guvrras;Adjective;;krokrygget;
 guvri;Noun;;krokrygget person;
@@ -3721,8 +3520,6 @@ gáhkkor;Noun;;smålom;
 gáhkkospoađđu;Noun;;kakespade;
 gáhkkočikŋa;Noun;;kakepynt;
 gáhkku;Noun;;kake;cake
-Gáhpevuotna;Proper noun;;Kamøyfjorden (Nordkapp) ;
-Gáhppovuotna;Proper noun;;Kobbefjorden (Måsøy) ;
 gáhppálat;Noun;;stykke, del;
 gáhtta;Noun;;gate;street
 gáhtat;Verb;;å angre;
@@ -3732,11 +3529,9 @@ gáhta;Noun;;gate;street
 gáhtamuš;Noun;;anger;regret
 gáhttu;Noun;;hustak;roof of a house
 gáhttet;Verb;;å vokte, å ta vare på, å bevare;
-Gáhttovuonvággi;Proper noun;;Kattfjorddalen (Tromsø) ;
 gáhččat;Verb;;å skynde seg;
 gáhčas;Noun;;øyenstikker;dragonfly
 gáibi;Noun;;hake, kjake;
-Gáibbivággi;Proper noun;;Reiersdalen (Målselv) ;
 gáibidit;Verb;;å kreve;
 gáibmi;Noun;;navnebror, navnesøster;
 gáibádus;Noun;;krav;requirement
@@ -3752,9 +3547,6 @@ gáiski;Noun;;bregne;fern
 gáisá;Noun;;høyt fjell, tind, tinde;
 gáivut;Verb;;å vifte, å fekte;
 gáivo;Noun;;brønn;well
-Gáivuotna;Proper noun;;Kåfjord (Troms) ;
-Gáivuonorrit;Proper noun;;Kåfjordbergan (Kåfjord) ;
-Gáivuonvággi;Proper noun;;Kåfjorddalen (Kåfjord) ;
 gájanas;Noun;;ekko;echo
 gávcci;Numeral;;8;
 gávcciduhát;Numeral;;8000;
@@ -3769,16 +3561,11 @@ gálla;Noun;;kål;cabbage
 gálahat;Noun;;vadested;ford
 gálašit;Verb;;å vasse;
 gálbi;Noun;;kalv;calf
-Gálbbosvággi;Proper noun;;Kjerringdalen (Kvænangen) ;
 gálbbáš;Noun;;liten kalv;
-Gálbirvággi;Proper noun;;Kalvedalen (Tromsø) ;
 gáldet;Verb;;å gjelde, å kastrere;
-Gáldu;Proper noun;;Kjeldebotn;
 gáldu;Noun;;kilde;spring
 gálgat;Verb;;å løse;
 gálggan;Noun;;kam;comb
-Gálggašluokta;Proper noun;;Sandvik;
-Gálggovuotna;Proper noun;;Store Kjerringvik (Alta) ;
 gálgu;Noun;;kone, hustru;
 gálja;Noun;;glattis, hålkeføre;
 gállaruohtas;Noun;;kålrabi;
@@ -3787,13 +3574,8 @@ gállis;Noun;;kall, mann;
 gállot;Noun;;skalle sydd av skalleskinn;
 gállu;Noun;;panne;the forehead
 gállu;Noun;;kjølig vær;
-Gállábártnit;Proper noun;;Orions belte;
 gálojeatni;Noun;;svigerinne;sister-in-law
-Gálsa;Proper noun;;Karlsøy (Troms) ;
 gálssot;Noun;;vinterbelling;
-Gáltovuotna;Proper noun;;Galtefjorden (Sør-Varanger) ;
-Gálttavuotna;Proper noun;;Galtefjorden (Hasvik) ;
-Gálttavággi;Proper noun;;Galtdalen (Lyngen) ;
 gálva;Noun;;tørr trestokk;
 gálvobiila;Noun;;varebil;van
 gálvobusse;Noun;;bærepose;carrier bag
@@ -3805,35 +3587,25 @@ gáma;Noun;;fottøy;footwear
 gámasgottur;Noun;;skinnet på alle fire skankene;
 gámas;Noun;;leggskinn;
 gámasuoidni;Noun;;sennegress;
-Gámavuotna;Proper noun;;Komagfjorden (Alta) ;
 gámmir;Noun;;kammers;indefinite genitive singular of kammer
 gámmár;Noun;;kammer, rom;
 gánda;Noun;;gutt;boy
 gánddaš;Noun;;liten gutt;
-Gánesvággi;Proper noun;;Kanasdalen (Kvænangen) ;
 gánnehit;Verb;;å lønne seg;
 gánnáhit;Verb;;å lønne seg;
 gánnáhahtti;Adjective;;lønnsom;profitable
 gárrat;Verb;;å surre;
 gáranas;Noun;;ravn;raven
 gáranasruitu;Noun;;sjøpinnsvin, sjøpinnsvin;
-Gáranasvuotna;Proper noun;;Ramfjorden (Tromsø) ;
-Gárasavvon;Proper noun;;Karesuando (Sverige) ;
 gárastat;Noun;;bånd;tape
 gárdi;Noun;;innhegning;enclosure
 gárdut;Verb;;å gjerde inn;
 gárddástallat;Verb;;å arbeide med reinen samlet i reingjerde;
-Gárdelvuotna;Proper noun;;Gaddelvågen (Kvænangen) ;
 gárdin;Noun;;stor gård, stort hus;
 gárri;Noun;;fat;plate
 gárget;Verb;;å vikle opp, å rekke opp;
 gárgu;Noun;;steinet strand, steinet grunne;
 gárgidit;Verb;;å rømme;
-Gárgiáávži;Proper noun;;Gargiadalen;
-Gárgolašvággi;Proper noun;;Skarddalen (Nordreisa) ;
-Gárgán;Proper noun;;Nordkjosbotn (Balsfjord) ;
-Gárjelvággi;Proper noun;;Russedalen (Balsfjord) ;
-Gárnjárga;Proper noun;;Karnes;
 gárrut;Verb;;å få seg til å gjøre noe;
 gárpamullju;Noun;;flatbrødsmølje;
 gárpa;Noun;;flatbrød;
@@ -3874,8 +3646,6 @@ gávnnit;Noun;;sengetøy;bedclothes
 gávdni;Noun;;nytte, gagn;
 gávdnot;Verb;;å finnes;
 gávkat;Verb;;å glane, å glo;
-Gávkevuotna;Proper noun;;Kåfjorden (Nordkapp) ;
-Gávkevággi;Proper noun;;Kåfjorddalen (Nordkapp) ;
 gávnnadit;Verb;;å møtes;
 gávnnahit;Verb;;å finne ut;
 gávnnahaddat;Verb;;å bli oppdaget;
@@ -3896,12 +3666,10 @@ gávppašanlihppu;Noun;;handlelapp;
 gávppašanlistu;Noun;;handleliste;
 gávppašeapmi;Noun;;handel;trade
 gávttehas;Noun;;koftekledd person;
-Gávvalváhki;Proper noun;;Kabelvåg;
 gávvil;Adjective;;lur, listig;
 gáđaštit;Verb;;å misunne;
 gáđašvuohta;Noun;;misunnelse;envy
 gáđohus;Noun;;fortapelse;
-Gáŋgaviika;Proper noun;;Gamvik (Finnmark) ;
 gážžár;Adjective;;vrang, vrien;
 haddi;Noun;;pris;price
 haksit;Verb;;å lukte;
@@ -3925,7 +3693,6 @@ heahteuksa;Noun;;nødutgang;emergency exit
 heahteveahkki;Noun;;førstehjelp;first aid
 heahti;Noun;;nød;need
 heahttái;Adjective;;ubehjelpelig;
-Heahttá;Proper noun;;Hetta (Finland) ;
 heaibut;Verb;;å bryte, å ta tak;
 heailut;Verb;;å gynge, å svaie;
 heaisa;Noun;;heis;elevator
@@ -3936,14 +3703,11 @@ heajastaddat;Verb;;å holde et selskap, å holde bryllup;
 healbat;Verb;;å forbli;
 healbmi;Noun;;koftekant;
 healkkehit;Verb;;å kvekke til;
-Heallonjárga;Proper noun;;Fjelldal;
-Heallovággi;Proper noun;;Helledalen (Tranøy) ;
 healpu;Adjective;;lett, lettvint;
 heargegilvovuodjin;Noun;;reinkappkjøring;
 heargegilvu;Noun;;reinkappløp;
 heargevuodjin;Noun;;reinkappkjøring;
 heargevuodjingilvu;Noun;;reinkappkjøring;
-Heargevággi;Proper noun;;Norddalen (Storfjord) ;
 heargi;Noun;;kjørerein;
 hearki;Adjective;;øm, følsom;
 hearrá;Noun;;herre, storkar;
@@ -3958,14 +3722,11 @@ heastagilvu;Noun;;hesteløp;horse race
 heastamáđidja;Noun;;hestevei;
 heasta;Noun;;hest;horse
 heastaskálžu;Noun;;kamskjell;
-Heastavággi;Proper noun;;Skarddalen (Hammerfest) ;
 heasttafápmu;Noun;;hestekraft;horsepower
 heasttagáma;Noun;;hestesko;horseshoe
-Heasttalvággi;Proper noun;;Ersdalen (Loppa) ;
 heavahit;Verb;;å få til å velte over;
 heavdni;Noun;;edderkopp;spider
 heavnnisávzzat;Noun;;myrull;
-Heavošguoika;Proper noun;;Hestefoss;
 heavsmánni;Noun;;høvedsmann;
 heavval;Noun;;høvel;plane
 heavvalbeaŋka;Noun;;høvelbenk;
@@ -3991,10 +3752,8 @@ helikopter;Noun;;helikopter;helicopter
 hellodagat;Noun;;pinse;pinse m
 hellodatbeaivi;Noun;;pinsedag;
 helloduorastat;Noun;;kristihimmelfartsdag;
-Helsset;Proper noun;;Helsingfors (Finland) ;
 helvet;Noun;;helvete;Hell; a place of suffering for the damned.
 heláduorastat;Noun;;kristihimmelfartsdag;
-Henddovággi;Proper noun;;Hentodalen (Loppa) ;
 herkken;Noun;;tvare;stirring stick for cooking
 hersko;Noun;;delikatesse;delicacy
 herskkostallat;Verb;;å spise god mat;
@@ -4017,7 +3776,6 @@ hillagáhkku;Noun;;hellekake;
 hillaráddi;Noun;;pinne med glo;
 hillján;Adjective;;langsom, makelig;
 hilsku;Noun;;vassarve;
-Hilssát;Proper noun;;Hillesøy;
 himihit;Verb;;å kremte;
 himolaš;Adjective;;begjærlig, lysten;
 hipmu;Noun;;lyst, begjær;
@@ -4063,7 +3821,6 @@ hoigadit;Verb;;å skyve;
 hoksát;Verb;;å finne på;
 holbi;Noun;;koftekant;
 holga;Noun;;bjelke;beam
-Hollánda;Proper noun;;Nederland;the Netherlands
 holvut;Verb;;å ule, å hyle;
 hommát;Verb;;å sysle, å arbeide;
 hommá;Noun;;gjøremål;
@@ -4120,7 +3877,6 @@ huškut;Verb;;å slå, å banke;
 huššamearka;Noun;;stressymptom;
 hábmet;Verb;;å utforme;
 hábmen;Noun;;utforming;design
-Hábmer;Proper noun;;Hamarøy (Nordland) ;
 háddjet;Verb;;å rote, å spre;
 hádja;Noun;;lukt;smell
 háhkat;Verb;;å skaffe;
@@ -4131,7 +3887,6 @@ háhcešeatni;Noun;;eventyrskikkelse;
 háhkan;Noun;;erverv;imperative of erverve
 háhppehit;Verb;;å være snar nok, å rekke;
 háhppil;Adjective;;kjapp, snar;
-Háhpárándi;Proper noun;;Haparanda (Sverige) ;
 háhtta;Noun;;hatt;hat
 háisut;Verb;;å lukte, å stinke;
 hállat;Verb;;å snakke;
@@ -4162,14 +3917,12 @@ hállái;Adjective;;pratsom;talkative
 hálti;Noun;;himmelretning;
 hápma;Noun;;maske;mask
 hápmi;Noun;;form;form
-Hámmárfeasta;Proper noun;;Hammerfest;A town with bystatus and municipality of Finnmark
 hámsut;Verb;;å glefse etter;
 hámádat;Noun;;profil;profile
 hámálaš;Adjective;;staselig, vakker;
 hánis;Adjective;;gjerrig;mean
 hánisvuohta;Noun;;gjerrighet;
 hápman;Noun;;havn;harbour
-Hápmir;Proper noun;;Hamarøya;
 hárbmat;Verb;;å bli sint, å harm;
 hárpmas;Adjective;;ergelig, sint;
 hárdit;Verb;;å erte, å terge;
@@ -4186,7 +3939,6 @@ hárjehus;Noun;;øvelse;exercise
 hárji;Noun;;manke;
 hárjánit;Verb;;å bli vant;
 hárri;Noun;;harr;grayling
-Hárvvesvággi;Proper noun;;Bukkedalen (Narvik) ;
 hárči;Noun;;skrev;crotch
 hárččet;Noun;;gaffelformet bjørkegrein;
 háse;Noun;;hesje;type of hayrack made from vertical posts with horizontal wire strung between them
@@ -4227,7 +3979,6 @@ idjamátkkošteapmi;Noun;;nattferdsel;
 idja;Noun;;natt;night
 idjarávga;Noun;;natterangler;
 idjasadji;Noun;;losji;lodging
-Idjavuotna;Proper noun;;Ifjord (Lebesby) ;
 iežan;Other;;som meg selv;
 iežat;Other;;som deg selv;
 iežame;Other;;som oss selv;
@@ -4274,23 +4025,16 @@ iežas;Other;;med seg selv;
 iežaskapitála;Noun;;egenkapital;equity
 iežasoassi;Noun;;egenandel;
 iežá;Pronoun;;annen, annet;
-Iggavuotna;Proper noun;;Kaldfjorden;
-Ihkkot;Proper noun;;Store Ekkerøy;
 ihtalupmi;Noun;;utslett;rash; diseased skin
 ihtaluvvat;Verb;;å få utslett;
 ihtit;Verb;;å vise seg, å komme til syne, å fremkomme;
 ihttohallat;Verb;;å komme ut for spøkelser;
 ihttáš;Adjective;;morgendagens;
 ihtáš;Adjective;;morgendagens;
-Iibmavuotna;Proper noun;;Husfjorden (Hammerfest) ;
-Iidna;Proper noun;;Hinnøya (Nordland) ;
-Iinnasuolu;Proper noun;;Hinnøya (Andøy) ;
 iisamearra;Noun;;ishav;
-Iisavággi;Proper noun;;Isdalen (Loppa) ;
 ijabealli;Noun;;skyggeside;
 ijastaddat;Verb;;å overnatte;
 ijastallat;Verb;;å overnatte;
-Ijávri;Proper noun;;Ijärvi;
 ilbmat;Verb;;å utkomme;
 ilbmi;Noun;;verden;world
 ildu;Noun;;hylle;shelf
@@ -4323,31 +4067,22 @@ inuihtta;Noun;;inuit;
 investeren;Noun;;investering;investment
 investerendivat;Noun;;investeringsavgift;
 investerendoarjja;Noun;;investeringsstønad;
-Ipmeláhčči;Proper noun;;Gud Fader;
 ipmit;Noun;;tantebarn;
 ipmil;Noun;;gud;god
 ipmilbálvalus;Noun;;gudstjeneste;church service
 ipmilmeahttun;Adjective;;ugudelig;impious; ungodly
 ipmilsátni;Noun;;gudsord;
-Ipmiláhčči;Proper noun;;Gud Fader;
 ipmirdit;Verb;;å forstå, å skjønne;
 ipmárdus;Noun;;forståelse;understanding
-Irevuotna;Proper noun;;Tufjorden (Nordkapp) ;
-Irgavuotna;Proper noun;;Friarfjorden (Lebesby) ;
 irgi;Noun;;kjæreste;definite superlative degree of kjær
 irggástaddat;Verb;;å fri, å gjøre kur;
-Irlánda;Proper noun;;Irland;Ireland
 isit;Noun;;husbond, ektemann;
 isitgielda;Noun;;vertskommune;
 iskat;Verb;;å undersøke, å prøve;
 iskkadit;Verb;;å undersøke, å holde på å forsøke;
 iskkadeapmi;Noun;;undersøkelse;examination
 iskkus;Noun;;prøve;test
-Islánda;Proper noun;;Island;Iceland
 issoras;Adjective;;forferdelig;terrible
-Ittarvuotna;Proper noun;;Lenangen;
-Ittunjárga;Proper noun;;Lyngenhalvøya (Lyngen) ;
-Itália;Proper noun;;Italia;Italy
 ivdnet;Verb;;å fargelegge;
 ivdnebiktasat;Noun;;kulørte klær;
 ivdnebábir;Noun;;fargepapir;
@@ -4356,15 +4091,7 @@ ivdnekárta;Noun;;fargekart;
 ivdni;Noun;;farge;colour
 ivdnái;Adjective;;fargerik;colorful  or colourful
 ivdnásaš;Adjective;;farget;coloured  or colored
-Ivgobahta;Proper noun;;Skibotn (Storfjord) ;
 ivguheasta;Noun;;lyngshest;
-Ivgu;Proper noun;;Lyngen (Troms) ;
-Ivgumuotki;Proper noun;;Lyngseidet (Lyngen) ;
-Ivguvuotna;Proper noun;;Lyngenfjord (Troms) ;
-Ivguvuovdi;Proper noun;;Skibotndalen (Storfjord) ;
-Ivvárjohka;Proper noun;;Ivvarjok;
-Ivvárstádik;Proper noun;;Ibestad (Ibestad) ;
-Iččát;Proper noun;;Ingøy;
 iđit;Noun;;morgen;morning
 iđistit;Verb;;å dukke opp plustelig eller fort;
 iđitbiebmu;Noun;;frokost;breakfast
@@ -4377,8 +4104,6 @@ iđđesidja;Noun;;tidlig morgen;
 iđđeslávlla;Noun;;morgensang;
 iđđesroađđi;Noun;;morgenrøde;morning red
 iđđesveaigi;Noun;;morgenskumring;
-Iŋggávággi;Proper noun;;Ingadalen (Loppa) ;
-Iŋggášguolbba;Proper noun;;Porsangermoen;
 jahki;Noun;;år;year
 jagiáigi;Noun;;årstid;season
 jagáš;Adjective;;årets;definite genitive singular of år
@@ -4446,19 +4171,15 @@ jidnii;Adjective;;høyrøstet;
 jiegis;Noun;;blåsel;
 jiekŋut;Verb;;å fryse til is;
 jiehkki;Noun;;isbre;glacier
-Jiehkervuotna;Proper noun;;Jøkelfjorden (Kvænangen) ;
 jiehkku;Noun;;skinnskrape;
 jiehkkásnáhkki;Noun;;kobbeskinn;
 jiehtanas;Noun;;jette, troll;
-Jiekŋamearra;Proper noun;;Nordishavet, Ishavet;
 jiekŋa;Noun;;is;ice
 jieŋas;Noun;;isvei;
-Jiekŋavággi;Proper noun;;Iselvdalen (Målselv) ;
 jiekŋavárri;Noun;;isfjell;iceberg
 jiekŋašaldi;Noun;;isbru;
 jiellat;Verb;;å trekke, å blåse svakt;
 jiella;Noun;;trekk, svakt luftdrag;
-Jiellevárri;Proper noun;;Gällivare (Sverige) ;
 jielti;Noun;;blodblemme;
 jietna;Noun;;lyd;sound
 jienastit;Verb;;å stemme;
@@ -4522,18 +4243,14 @@ joddofierbmi;Noun;;posegarn, garn i laksestengsel;
 joddomohkki;Noun;;stengselsgarn;
 joddonjálbmi;Noun;;inngang til et stengselsgarn;
 joddočuolda;Noun;;stengselstolpe;
-Johka;Proper noun;;Bergsfjord (Loppa) ;
 johka;Noun;;bekk, elv;
 joganjálbmi;Noun;;elvemunning;river mouth
-Joganjálbmi;Proper noun;;Elvebakken (Alta) ;
 jogaš;Noun;;bekk;brook
 joggeskuovva;Noun;;joggesko;
 johkafanas;Noun;;elvebåt;riverboat
 johkafanasčuoibmi;Noun;;elvebåtstake;
 johkagiera;Noun;;elveutspring;
 johkagáddi;Noun;;elvebredd;riverbank
-Johkalvággi;Proper noun;;Elvedalen (Kvænangen) ;
-Johkavággi;Proper noun;;Niperdalen (Måsøy) ;
 johtalit;Verb;;å rikle, slarke;
 johtalankultuvra;Noun;;veidekultur;
 johtaleaddji;Noun;;nomade;nomad
@@ -4567,7 +4284,6 @@ jorahit;Verb;;å rotere;
 jorahallat;Verb;;å snurre rundt;
 jorbbas;Adjective;;rund;round
 jorbat;Adjective;;rund;round
-Jorbavággi;Proper noun;;Runddalen (Skånland) ;
 jorbbodit;Verb;;å bli forvirret;
 jorbmi;Noun;;djup kulp;
 jorbodat;Noun;;runding, sirkel;
@@ -4626,7 +4342,6 @@ julkit;Verb;;å dundre, å drønne;
 juollut;Verb;;å at det er nok til overs;
 jumešbealli;Noun;;tvilling;twin
 jumeš;Noun;;tvilling;twin
-Junttevággi;Proper noun;;Elvbuktdalen (Loppa) ;
 juobbá;Pronoun;;den ene;
 juobbágoabbá;Pronoun;;den ene av de to;
 juogadit;Verb;;å dele;
@@ -4655,7 +4370,6 @@ juolgevuođđu;Noun;;fotsåle;sole
 juolggeheapme;Adjective;;dårlig til beins;
 juolludit;Verb;;å avse;
 juopmu;Noun;;syregress;
-Juomvággi;Proper noun;;Elsnesdalen (Storfjord) ;
 juotna;Noun;;list, intrige;
 juonalaš;Adjective;;lur, listig;
 juorbut;Verb;;å vagge, å rugge;
@@ -4682,14 +4396,12 @@ juovlapáhkka;Noun;;julepakke;
 juovlaruohtta;Noun;;julaften;Christmas Eve
 juovlaskeaŋka;Noun;;julegave;Christmas present
 juovlastállu;Noun;;julenisse;Santa Claus
-Juovlavuotna;Proper noun;;Austertana (Tana) ;
 juovlačikŋa;Noun;;julepynt;
 juovzzas;Adjective;;ustø, vaklende;
 juovzut;Verb;;å vakle;
 juoŋastit;Verb;;å fiske med garn under isen;
 juoŋasteapmi;Noun;;garnfiske under isen;
 jurrat;Verb;;å dure;
-Juranjohka;Proper noun;;Ropselv;
 jurbolaš;Adjective;;ustø;
 jurbolas;Adjective;;ustø;
 jurdda;Noun;;tanke;thought
@@ -4706,7 +4418,6 @@ justiisalávdegoddi;Noun;;justiskomité;
 justiisaministtar;Noun;;justisminister;minister of justice
 juvla;Noun;;hjul;wheel
 juvlastuollu;Noun;;rullestol;wheelchair
-Juvošvággi;Proper noun;;Josdalen (Nordreisa) ;
 jápmit;Verb;;å dø;
 jábmi;Noun;;død, lik;
 jábálaš;Adjective;;rik;rich
@@ -4721,9 +4432,6 @@ jáhkehahtti;Adjective;;trolig, sannsynlig;
 jáhkihit;Verb;;å få til å tro;
 jáhkkemeahttun;Adjective;;utrolig;incredible
 jáhkku;Noun;;forestilling;performance
-Jáhkotnjárga;Proper noun;;Malangshalvøya (Troms) ;
-Jáhkovuotna;Proper noun;;Revsbotn (Kvalsund) ;
-Jáhpan;Proper noun;;Japan;Japan
 jáhti;Noun;;garnlenke;
 jáldu;Noun;;svalt vinddrag;
 jáldobiegga;Noun;;sval vind;
@@ -4748,7 +4456,6 @@ jávohuhttit;Verb;;å få til å tystne;
 jávohuvvat;Verb;;å bli taus;
 jávrebodni;Noun;;innsjøbunn;bottom of a lake
 jávregáddi;Noun;;innsjøbredd;
-Jávregáddi;Proper noun;;Kjønna;
 jávri;Noun;;innsjø;lake or inland sea
 jávrráš;Noun;;liten innsjø;
 kafea;Noun;;kafé;café or cafe
@@ -4762,13 +4469,11 @@ kapasitehta;Noun;;kapasitet;capacity
 kapellána;Noun;;kapellan;chaplain
 kapihtal;Noun;;kapittel;chapter
 kapteaidna;Noun;;kaptein;captain
-Karamearra;Proper noun;;Karahavet;
 karaokerusttet;Noun;;karaokeutstyr;
 kartoŋga;Noun;;kartong;
 kaseahtta;Noun;;kassett;cassette
 kaseahttačuojanas;Noun;;kassettspiller;
 katastrofa;Noun;;katastrofe;disaster
-Keaisváhki;Proper noun;;Gjesvær;
 keaksa;Noun;;kjeks;biscuit
 keallir;Noun;;kjeller;basement or cellar
 kievkkan;Noun;;kjøkken;kitchen
@@ -4813,7 +4518,6 @@ kontu;Noun;;konto;account
 konvenšuvdna;Noun;;konvensjon;convention
 konvoluhtta;Noun;;konvolutt;envelope
 kopioriginála;Noun;;kopioriginal;
-Korea;Proper noun;;Korea;Korea
 kristtalaš;Adjective;;kristen;Christian
 kristtalašvuohta;Noun;;kristendom;Christianity
 kristálla;Noun;;krystall;crystal
@@ -4881,11 +4585,9 @@ kántorveahkki;Noun;;kontorassistent;
 kártadoaimmahat;Noun;;kartverk;
 kárta;Noun;;kart;unripe fruit or berries
 kártet;Verb;;å kartlegge;
-Kárášjohka;Proper noun;;Karasjok (Karasjok) ;
 kássa;Noun;;kasse;box
 lapmat;Verb;;å huke seg ned, å sige;
 ladju;Noun;;bly;lead
-Ladnečoalbmi;Proper noun;;Bussesund;
 lagadit;Verb;;å bringe nærmere;
 lagamus;Adjective;;nærmest;indefinite superlative degree of nær
 lagamus;Noun;;nærmeste;definite superlative degree of nær
@@ -4937,7 +4639,6 @@ lavdnjegoahti;Noun;;torvgamme;
 lavdnječuohppan;Noun;;torvstikking;
 lavdnječuohppansadji;Noun;;torvteig;
 lavdnji;Noun;;torv;need
-Lavttevuotna;Proper noun;;Brennelvfjorden (Porsanger) ;
 lađas;Noun;;ledd;joint
 lea;Verb;;er;present tense of vera and vere
 leabbut;Verb;;å bre ut, å folde ut;
@@ -4955,9 +4656,6 @@ leahttu;Noun;;fart;speed
 leahttorádji;Noun;;fartsgrense;speed limit
 lei;Verb;;var;wary
 leaibi;Noun;;older, or;
-Leaibbášvággi;Proper noun;;Oldervik;
-Leaibevuopmi;Proper noun;;Oldereidnes;
-Leaibevuotna;Proper noun;;Olderfjord (Porsanger) ;
 leaika;Noun;;spøk;joke
 leaikkastit;Verb;;å spøke, å vitse;
 leaikkastallat;Verb;;å spøke;
@@ -4968,7 +4666,6 @@ leaipput;Noun;;flettverk på laksestengsel;
 leairaboagán;Noun;;skinnbelte;
 leaksu;Noun;;lekse;lesson
 leaktu;Noun;;fart, hastighet;
-Leakševággi;Proper noun;;Søkkmyrdalen (Alta) ;
 leakšá;Noun;;myrområde;
 lei;Verb;;vært;past participle of være
 lei;Verb;;er;present tense of vera and vere
@@ -4983,17 +4680,13 @@ leaska;Noun;;enke, enkemann;
 leasmedávda;Noun;;gikt;
 leasmi;Noun;;gikt;
 leavvat;Verb;;å bre seg;
-Leavdnjavuotna;Proper noun;;Vesterbotn (Porsanger) ;
 leavgabeaivi;Noun;;flaggdag;
 leavgageassin;Noun;;flaggheising;
 leavga;Noun;;flagg;flag
 leavgastággu;Noun;;flaggstang;flagpole
-Leavdnja;Proper noun;;Lakselv (Porsanger) ;
 leaččan;Verb;;er;present tense of vera and vere
 leaččan;Verb;;er;present tense of vera and vere
 leađgut;Verb;;å blinke, å glimte;
-Leađđovággi;Proper noun;;Langdalen (Målselv) ;
-Leaŋgáviika;Proper noun;;Lenvik (Troms) ;
 lebbet;Verb;;å bre ut, å folde ut;
 ledjon;Noun;;løve;lion
 leiket;Verb;;å skjenke, å helle;
@@ -5022,7 +4715,6 @@ lieksa;Noun;;stor synkestein;
 lieksi;Noun;;tran;
 liepma;Noun;;buljong;
 liemas;Noun;;løype;Make way! or give way!; shout applied in cross-country skiing to make the skier in front vacate the ski track.
-Lietuva;Proper noun;;Litauen;Lithuania
 lievla;Noun;;damp;steam
 lieđbmá;Noun;;åreblad;
 lieđđi;Noun;;blomst;flower
@@ -5061,7 +4753,6 @@ lihtter;Noun;;liter;litre  or liter
 liiba;Noun;;sjanse, høve;
 liibma;Noun;;lim;glue
 liibmet;Verb;;å lime;
-Liidditvuotna;Proper noun;;Lysbotn (Lenvik) ;
 liidnaseakti;Noun;;lineagn;
 liidnavuogga;Noun;;lineangel;
 liidnegákti;Noun;;bomullskofte;
@@ -5109,9 +4800,6 @@ liánta;Noun;;blyant;pencil
 liškkastit;Verb;;å skvette, å skvulpe over;
 liškut;Verb;;å skvette, å skvulpe over;
 liššá;Noun;;ljå;scythe
-Loabát;Proper noun;;Lavangen (Troms) ;
-Loabák;Proper noun;;Lavangen (Troms) ;
-Loabákvuotna;Proper noun;;Lavangen (Lavangen) ;
 loadda;Noun;;lodd;lot
 loaggi;Noun;;person som er kortbent;
 loaggut;Verb;;å stabbe, å vagge;
@@ -5147,9 +4835,7 @@ lobálaš;Adjective;;lovlig;lawful
 loddet;Verb;;å jakte på fugl;
 loddeinflueansa;Noun;;fugleinfluensa;avian influenza
 loddejievži;Noun;;måltrost;
-Loddevággi;Proper noun;;Fuglelvdalen (Hasvik) ;
 loddi;Noun;;fugl;bird
-Lodegat;Proper noun;;Lødingen;A municipality of Ofoten district
 lodji;Adjective;;tam, rolig;
 lotnut;Verb;;å betale, å løse ut;
 lohkat;Verb;;å lese;
@@ -5188,7 +4874,6 @@ lokta;Noun;;loft;loft or attic
 loktanit;Verb;;å heve seg;
 loktet;Verb;;å løfte;
 loktestit;Verb;;å løfte;
-London;Proper noun;;London;London
 lonet;Verb;;å låne;
 loneheaddji;Noun;;belåner;
 lonejeaddji;Noun;;lånegiver;
@@ -5212,7 +4897,6 @@ luhkkár;Noun;;klokker;indefinite plural of klokke
 luohku;Noun;;høy som er slått og ligger på marka;
 luohpat;Verb;;å slutte, å gi opp;
 luhppu;Noun;;bratt kleiv;
-Luhppovággi;Proper noun;;Luppodalen (Balsfjord) ;
 luohttit;Verb;;å stole på;
 luhčadávda;Noun;;diaré;diarrhoea  or diarrhea
 luhča;Noun;;skitt, avføring, søle;
@@ -5221,13 +4905,11 @@ luoikat;Verb;;å låne bort;
 luistet;Verb;;å gå på skøyter;
 luiste;Noun;;skøyte;skate
 luoitit;Verb;;å slippe, å løse;
-Lujávri;Proper noun;;Lovosero (Russland) ;
 luokta;Noun;;bukt;bay or gulf
 lukti;Noun;;starrgress;
 luktá;Noun;;starrgress;
 lulli;Noun;;sør;south
 lulit;Adjective;;sørligst;indefinite superlative degree of sørlig
-Lulli-Amerihkká;Proper noun;;Sør-Amerika;South America
 lullisápmi;Noun;;sørsame;
 lullisámegiella;Noun;;sørsamisk;Southern Sami
 lullisápmelaš;Noun;;sørsame;
@@ -5326,8 +5008,6 @@ lágalaš;Adjective;;lovlig;lawful
 lágamánneriekti;Noun;;lagmannsrett;court of appeal
 lágamánniriekti;Noun;;lagmannsrett;court of appeal
 láhki;Noun;;måte, vis;
-Lágesvuotna;Proper noun;;Laksefjorden (Lebesby) ;
-Lággu;Proper noun;;Laggo;
 lágidit;Verb;;å arrangere;
 lágidanlávdegoddi;Noun;;arrangementkomité;
 lágideaddji;Noun;;arrangør;
@@ -5385,7 +5065,6 @@ lákcagáhkkobihttá;Noun;;bløtkakestykke;
 lákcagáhkku;Noun;;bløtkake;A layer cake
 lákcajiekŋa;Noun;;iskrem;ice cream
 lákca;Noun;;fløte, rømme;
-Lákkovuotna;Proper noun;;Langfjorden (Alta) ;
 lávttas;Adjective;;fuktig;humid
 láktat;Verb;;å bli fuktig;
 láktadit;Verb;;å fukte, å væte;
@@ -5394,7 +5073,6 @@ lámis;Adjective;;vanfør, ufør, lam;
 lámpu;Noun;;lampe;lamp
 lámpá;Noun;;lampe;lamp
 látna;Noun;;haug, stabel;
-Lánavuotna;Proper noun;;Landersfjorden (Lebesby) ;
 látnjá;Noun;;ungbjørk;
 lápmašuvvat;Verb;;å bli vanfør, å bli skadet;
 lássa;Noun;;glass;glass
@@ -5412,7 +5090,6 @@ lássestit;Verb;;å låse;
 láttat;Noun;;molte;feminine plural of molto
 láttoš;Noun;;liten dam;
 láttán;Noun;;finlender;Finn )
-Látvia;Proper noun;;Latvia;Latvia
 lávdat;Verb;;å spre seg utover;
 lávdi;Noun;;scene;stage
 lávdegoddeevttohus;Noun;;komitéinnstilling;
@@ -5433,7 +5110,6 @@ lávgunlatnja;Noun;;baderom;bathroom
 lávka;Noun;;ransel;
 lávket;Verb;;å ta et skritt;
 lávkerássi;Noun;;løkvekst;
-Lávkgieddi;Proper noun;;Løkvoll (Kåfjord) ;
 lávki;Noun;;løk;Alternative form of lauk
 lávkut;Verb;;å skritte;
 lávlla;Noun;;sang;song
@@ -5451,8 +5127,6 @@ lávvardat;Noun;;lørdag;Saturday
 lávvomuorra;Noun;;teltstang til lavvo;
 lávvordat;Noun;;lørdag;Saturday
 lávvordateahket;Noun;;lørdagskveld;
-Lávvordatvággi;Proper noun;;Gammelværdalen (Loppa) ;
-Lávvárvuotna;Proper noun;;Vester-Lafjorden (Nordkapp) ;
 lávži;Noun;;tømme;to empty
 lávžá;Noun;;klegg;horsefly
 láđas;Adjective;;fullmåne;full moon
@@ -5539,10 +5213,8 @@ meahcceguovlu;Noun;;utmarksområde;
 meahcceráđđehus;Noun;;skogsforvaltning;
 meahccevisti;Noun;;skogsstue;
 meahcci;Noun;;utmark;
-Meahcevággi;Proper noun;;Sivertskaret (Målselv) ;
 meahciealli;Noun;;vilt dyr;
 meahcástit;Verb;;å klare seg i villmarka;
-Meahkovuotna;Proper noun;;Sørfjorden (Hasvik) ;
 meaidit;Verb;;å slå, å hogge, å meie;
 mealli;Noun;;styreåre, padleåre;
 mealgat;Adjective;;nokså mye;
@@ -5564,8 +5236,6 @@ mearkkašahtti;Adjective;;betydningsfull;important
 mearkkašeapmi;Noun;;kommentar, bemerkning;
 mearkkašupmi;Noun;;betydning;meaning
 mearkut;Verb;;å merke;
-Mearrabahta;Proper noun;;Bottenhavet;
-Mearrabađaluokta;Proper noun;;Bottenviken;
 mearrabivdu;Noun;;fiske;fishing
 mearrabodni;Noun;;sjøbotn;
 mearragoaskin;Noun;;havørn;sea eagle
@@ -5586,7 +5256,6 @@ mearrádus;Noun;;bestemmelse;decision
 mearrádusevttohus;Noun;;vedtaksforslag, forslag til vedtak;
 meassut;Noun;;festlighet;
 meattáhus;Noun;;feil;error
-Meavki;Proper noun;;Mauken (Troms) ;
 meavrresgárri;Noun;;runebomme;
 meađđen;Noun;;rogn;roe
 meađđenmeastu;Noun;;kaviar;caviar
@@ -5610,7 +5279,6 @@ messostallat;Verb;;å delta i festligheter;
 mii;Other;;til oss;
 miehkki;Noun;;sverd;sword
 miehtat;Verb;;å innrømme, å gå med på;
-Miehtagohppi;Proper noun;;Mevika;
 miehtebiegga;Noun;;medvind;
 miehteluohkká;Noun;;nedoverbakke;
 miehterávdnji;Noun;;medstrøm;
@@ -5642,12 +5310,10 @@ mielli;Noun;;elvemel;
 mielstudeanta;Noun;;medstudent;
 mielvázzi;Noun;;person som deltar i brudefølge;
 mielčuovvu;Noun;;ledsager;present of ledsage
-Miennavuotna;Proper noun;;Risfjorden (Berlevåg) ;
 mierká;Noun;;tåke, skodde;
 miessi;Noun;;reinkalv;reindeer calf
 mieskkas;Adjective;;morken, råtten;
 mieskat;Verb;;å morkne;
-Miessegieddi;Proper noun;;Holmenes (Kåfjord) ;
 miessejoavku;Noun;;miessi-gruppe;
 miessemearkun;Noun;;reinkalvmerking;
 miessemánnu;Noun;;mai;May
@@ -5696,7 +5362,6 @@ moalla;Noun;;mål, blink;
 moalkkas;Adjective;;kroket;
 moalkemuorra;Noun;;krokete tre;
 moalkesoabbi;Noun;;krokete stokk;
-Moalkevuotna;Proper noun;;Krokfjorden (Sør-Varanger) ;
 moalki;Noun;;krumming;
 moallabáhčinvejolašvuohta;Noun;;målsjanse;
 moalladuostu;Noun;;målmann, keeper;
@@ -5752,12 +5417,8 @@ morašlaš;Adjective;;sørgelig;
 morašsáhka;Noun;;sørgebudskap;
 morihit;Verb;;å våkne;
 morála;Noun;;moral;
-Moskavuotna;Proper noun;;Ullsfjorden (Tromsø) ;
-Moskavuovdi;Proper noun;;Lakselvdalen (Troms) ;
 mosku;Noun;;skodde i mørke, svart skodde;
 moskkus;Adjective;;helt overskyet;
-Moskkuvággi;Proper noun;;Moskodalen (Nordreisa) ;
-Moskovággi;Proper noun;;Måskodalen (Alta) ;
 movttet;Adjective;;i godt humør, optimistisk;
 movttiidahttit;Verb;;å oppmuntre, å motivere;
 movttáskit;Verb;;å bli glad, å bli oppmuntret;
@@ -5813,7 +5474,6 @@ muohtakino;Noun;;snøkino;
 muohta;Noun;;snø;snow
 muohtaoakti;Noun;;snøbyge;snow shower or snowshower
 muohtaskohter;Noun;;snøskuter;alternative form of snøscooter
-Muohtavággi;Proper noun;;Snødalen (Kåfjord) ;
 muohtaáddjá;Noun;;snømann;snowman
 muohtačalbmi;Noun;;snøfnugg;snowflake
 muohtovuoidi;Noun;;sminkør;
@@ -5829,7 +5489,6 @@ muorraduodji;Noun;;sløyd;
 muorrageahči;Noun;;tretopp;
 muorragiera;Noun;;tretopp;
 muorrajalŋŋis;Noun;;trestubbe;
-Muorralvuotna;Proper noun;;Snefjorden (Måsøy) ;
 muorranamma;Noun;;navnemerke;
 muorraviessu;Noun;;vedskjul;woodshed; an outhouse for storing firewood
 muorravisti;Noun;;vedskjul;woodshed; an outhouse for storing firewood
@@ -5838,10 +5497,7 @@ muortu;Noun;;småsei;
 muoseheapme;Adjective;;urolig;restless
 muosehuhttit;Verb;;å forstyrre;
 muosáhit;Verb;;å smake;
-Muosát;Proper noun;;Måsøy;A municipality of Finnmark
-Muotkevuotna;Proper noun;;Eidvågen (Hammerfest) ;
 muotki;Noun;;eid;oath
-Muottavággi;Proper noun;;Bjørndalen (Loppa) ;
 muovjámiessi;Noun;;reinkalv i det første hårskiftet;
 muoŧŧá;Noun;;tante;aunt
 muoŧŧal;Noun;;tantebarn;
@@ -5877,8 +5533,6 @@ máhcastit;Verb;;å brette;
 máhcastat;Noun;;fold, brett;
 máhccut;Verb;;å brette;
 máhkat;Noun;;onkelbarn;
-Máhkarávju;Proper noun;;Magerøya (Nordkapp) ;
-Máhkilvuotna;Proper noun;;Magkeilfjorden (Gamvik) ;
 máhtajeaddji;Noun;;disippel;disciple
 máhttit;Verb;;å kunne;
 máhttu;Noun;;kvalifikasjon;
@@ -5903,9 +5557,6 @@ máksinkássa;Noun;;betalingskasse;
 máksinnákca;Noun;;likviditet;
 máksu;Noun;;betaling;payment
 mála;Noun;;maling;paint
-Málatvuopmi;Proper noun;;Målselv (Troms) ;
-Málatvuotna;Proper noun;;Malangen (Troms) ;
-Máldovuotna;Proper noun;;Vesterbukta (Tana) ;
 málet;Verb;;å male;
 málli;Noun;;suppe;soup
 málenbeavdi;Noun;;malebord;
@@ -5917,7 +5568,6 @@ málesbeavdi;Noun;;middagsbord;dinner table
 máleslihtti;Noun;;kokekar;
 málesruitu;Noun;;middagsgryte;
 málestangursa;Noun;;kokkekurs;
-Málesvuotna;Proper noun;;Sagfjorden (Sør-Varanger) ;
 málistit;Verb;;å lage middag;
 mállásat;Noun;;middag;dinner
 mális;Noun;;kokt mat;
@@ -5960,15 +5610,12 @@ mánáš;Noun;;lite barn;
 márrat;Verb;;å bruse, å dure;
 márfi;Noun;;pølse;sausage or hot dog
 márfut;Verb;;å lage pølse;
-Márjjavággi;Proper noun;;Mariadalen (Tana) ;
 márkan;Noun;;marked;market
 márkanastit;Verb;;å markedsføre;
 márkanbáiki;Noun;;kirkested;
 márkanfápmu;Noun;;markedsmakt;
 márkanšillju;Noun;;torg;city square
-Márregohppi;Proper noun;;Sørvær;
 mársu;Noun;;kurv;basket
-Márttavággi;Proper noun;;Mortensdalen (Storfjord) ;
 mátkedihtor;Noun;;bærbar datamaskin;
 mátkeealáhus;Noun;;turistnæring;
 mátkegollu;Noun;;reiseutgift;
@@ -5982,15 +5629,12 @@ mátkešukkoláde;Noun;;tursjokolade;
 mátki;Noun;;reise;journey
 mátkkoštit;Verb;;å reise, å ferdes;
 mátkkošteaddji;Noun;;reisende;present participle of reise
-Mátta-Várjjat;Proper noun;;Sørvaranger (Finnmark) ;
 máttarváhnen;Noun;;forfeder;
 máttaráddjá;Noun;;oldefar, stamfar;
 máttaráhkku;Noun;;oldemor, stammor;
 máttasápmi;Noun;;sørsame;
 máttasámegiella;Noun;;sørsamisk;Southern Sami
 máttasápmelaš;Noun;;sørsame;
-Máttavuotna;Proper noun;;Sørfjorden (Lebesby) ;
-Máttavággi;Proper noun;;Tverrdalen (Narvik) ;
 máttit;Adjective;;sørligst;indefinite superlative degree of sørlig
 mávssahit;Verb;;å hevne, å gjengjelde;
 mávssolaš;Adjective;;dyrebar;
@@ -6017,7 +5661,6 @@ máššu;Noun;;ro;calm
 mášoheapme;Adjective;;rastløs, urolig;
 máŧoheapme;Adjective;;umulig;impossible
 máŧolaš;Adjective;;mulig;possible
-Måske;Proper noun;;Musken (Tysfjord) ;
 nagadit;Verb;;å greie, å klare;
 nagir;Noun;;søvn;sleep
 nagirvárri;Noun;;søvn;sleep
@@ -6034,7 +5677,6 @@ nammaláhpat;Noun;;sju års gammel hanrein;
 nammapárra;Noun;;navnepar;
 nammariekti;Noun;;namsrett;
 nammasaš;Adjective;;med navnet;
-Nammavággi;Proper noun;;Namdalen (Tromsø) ;
 nammačuorvun;Noun;;navneopprop;
 namuhit;Verb;;å nevne;
 nanus;Adjective;;solid, sterk;
@@ -6061,7 +5703,6 @@ nealgeáigi;Noun;;hungersnød;famine
 nealgi;Noun;;sult;hunger
 nealgudeaddji;Noun;;sultestreiker;
 neaskit;Verb;;å skrape skinn;
-Neaskinvuotna;Proper noun;;Kobbvågen (Sør-Varanger) ;
 neavri;Adjective;;elendig, dårlig;
 neavva;Noun;;råd, formaning;
 neavvut;Verb;;å formane, å gi råd;
@@ -6075,10 +5716,8 @@ niehku;Noun;;drøm;dream
 niehkki;Noun;;nakke;nape; the back of the neck
 niehkoboddu;Noun;;drømmestund;
 niehkomáilbmi;Noun;;drømmeverden;dreamworld
-Nieidaluokta;Proper noun;;Trollvik (Kåfjord) ;
 nieidamánná;Noun;;jentebarn;
 nieida;Noun;;jente;girl
-Nieidavággi;Proper noun;;Krekendalen (Loppa) ;
 nieidačivga;Noun;;jentunge;young girl
 nieiddaš;Noun;;lita jente;
 nierra;Noun;;kinn;cheek
@@ -6142,7 +5781,6 @@ njealjádas;Noun;;fjerdedel;quarter or fourth
 njealjádasfinála;Noun;;kvartfinale;quarter-final
 njealljelogát;Adjective;;40.;
 njealljenuppelogát;Adjective;;14.;
-Njeareveadji;Proper noun;;Nervei (Finnmark) ;
 njeazzát;Verb;;å geipe;
 njeađgat;Verb;;å fyke;
 njeašši;Noun;;våtmark;wetland
@@ -6163,7 +5801,6 @@ njivžžihit;Verb;;å flamme opp;
 njižži;Noun;;spene;Alternative form of spanne
 njiŋŋelas;Noun;;hunndyr;
 njiŋŋálas;Noun;;hunndyr, av hunkjønn;
-Njižževuotna;Proper noun;;Hønsebyfjorden (Hammerfest) ;
 njoahci;Adjective;;sein, langsom;
 njoaiddu;Noun;;lang skråning;
 njoallut;Verb;;å slikke;
@@ -6204,13 +5841,11 @@ njunušravdačiekči;Noun;;kantspiss;
 njunuščiekči;Noun;;spiss;sharp
 njunuščoahkkin;Noun;;toppmøte;summit
 njuozas;Adjective;;bløt, slapp;
-Njuohttejávri;Proper noun;;Nuortijärvi (Finland) ;
 njuovčča;Noun;;tunge;tongue
 njuolggadus;Noun;;regel;rule
 njuolggadusčálus;Noun;;regelverk;set of rules
 njuolggosátta;Noun;;direktesending;
 njuolggočiehka;Noun;;rett vinkel;right angle
-Njuollaborvággi;Proper noun;;Steindalen (Tranøy) ;
 njuorra;Noun;;grunne;definite singular of grunn
 njuorasmit;Verb;;å bli rørt;
 njuoras;Adjective;;øm, mild, svak;
@@ -6219,7 +5854,6 @@ njuorasmuvvat;Verb;;å bli rørt;
 njuorasnuvvat;Verb;;å bli rørt;
 njuoratmánná;Noun;;spebarn;
 njuorju;Noun;;sel, kobbe;
-Njuorjjogohvággi;Proper noun;;Kobbebuktdalen (Alta) ;
 njuorjju;Noun;;sel, kobbe;
 njuorrasit;Verb;;å bli rørt;
 njuoskkas;Adjective;;våt, bløt;
@@ -6268,8 +5902,6 @@ njámmat;Verb;;å sope, å feie;
 njárbat;Adjective;;tynn;thin
 njárga;Noun;;halvøy;peninsula
 njáskat;Verb;;å kviste;
-Njávdán;Proper noun;;Neiden (Finnmark) ;
-Njávdánvuotna;Proper noun;;Neidenfjorden (Sør-Varanger) ;
 njávvi;Noun;;ragg, skjegg hos rein og geitebukk;
 njávešeatni;Noun;;eventyrskikkelse;
 njávgit;Verb;;å mjaue;
@@ -6282,7 +5914,6 @@ noaidi;Noun;;sjaman;shaman
 noaiddáš;Noun;;liten noaidi;
 noaidegárri;Noun;;runebomme;
 noaidevuohta;Noun;;sjamanisme;
-Noammervággi;Proper noun;;Nomedalen (Kåfjord) ;
 noavkkuhit;Verb;;å støvsuge;
 noađđi;Noun;;bør, byrde;
 noddet;Verb;;å nå, å rekke;
@@ -6298,10 +5929,6 @@ nomineret;Verb;;å nominere;
 noras;Noun;;lårbein, margbein;
 nordat;Verb;;å puffe, å støte;
 nordadit;Verb;;å puffe, å støte;
-Nordkáhppa;Proper noun;;Nordkapp (Finnmark) ;
-Nordkáhppašleađđu;Proper noun;;Nordkapp-platå (Finnmark) ;
-Nordlánda;Proper noun;;Nordland;A county of Norway
-Norga;Proper noun;;Norge;Norway
 norggabealle;Noun;;norsk side;
 norggameašttirgilvu;Noun;;norgesmesterskap;
 norggameašttir;Noun;;norgesmester;Norwegian champion )
@@ -6342,17 +5969,12 @@ nuoraidskuvla;Noun;;ungdomsskole;school
 nuorri;Noun;;sund;sound
 nuorrabárra;Noun;;ungt kjærestepar;
 nuorravuohta;Noun;;ungdom;youth
-Nuortabađaeana;Proper noun;;Østerbotten;
 nuortalaš;Adjective;;skoltesamisk;Skolt Sami
 nuortalaš;Noun;;østsame;
 nuortalašgiella;Noun;;østsamisk språk;
-Nuortamearra;Proper noun;;Østersjøen;
 nuorta;Noun;;aust, øst;
-Nuortariika;Proper noun;;Østerrike;Austria
 nuortasápmi;Noun;;østsame;
 nuortasápmelaš;Noun;;østsame;
-Nuortavuotna;Proper noun;;Nordfjorden (Hasvik) ;
-Nuortaváhki;Proper noun;;Nordvågen;
 nuorttat;Adjective;;østligst;indefinite superlative degree of østlig
 nuorttit;Adjective;;østligst;indefinite superlative degree of østlig
 nuorvu;Noun;;forkjølelse;cold
@@ -6387,7 +6009,6 @@ náhkkebivttas;Noun;;skinnplagg;
 náhkkeboagán;Noun;;skinnbelte;
 náhkkegahpir;Noun;;skinnlue;
 náhkkesoffá;Noun;;skinnsofa;
-Náhkkevággi;Proper noun;;Nakkedalen (Tromsø) ;
 náhkkádit;Verb;;å jule opp;
 náhppi;Noun;;trebolle;
 náhpol;Noun;;propp;plug
@@ -6398,7 +6019,6 @@ náittosbárra;Noun;;brudepar;bridal couple
 náittosdilli;Noun;;ekteskap;marriage
 náittosgovva;Noun;;brudebilde, bryllupsbilde;
 náittospárra;Noun;;brudepar;bridal couple
-Náivuotna;Proper noun;;Neverfjord (Kvalsund) ;
 nákca;Noun;;evne, kraft;
 nákcet;Verb;;å greie;
 nákkosgirji;Noun;;doktoravhandling;
@@ -6425,8 +6045,6 @@ návli;Noun;;nagle;
 návrraš;Noun;;nepe;turnip
 návste;Noun;;naust;boathouse
 návstu;Noun;;naust;boathouse
-Návuotna;Proper noun;;Kvænangen;
-Návvuotna;Proper noun;;Neverfjord;
 náđđut;Verb;;å krype sammen;
 oabbábealle;Noun;;stesøster;stepsister
 oabbábealli;Noun;;stesøster;stepsister
@@ -6438,7 +6056,6 @@ oadjudit;Verb;;å gjøre trygg;
 oaffar;Noun;;offer;sacrifice
 oaffaruššat;Verb;;å ofre;
 oaggut;Verb;;å fiske;
-Oaggovuotna;Proper noun;;Strupen (Lyngen) ;
 oaggungilvu;Noun;;fiskekonkurranse;
 oaggunáigi;Noun;;fisketid;
 oahkut;Verb;;å gå sakte;
@@ -6594,7 +6211,6 @@ ohcanskovvi;Noun;;søknadsskjema;
 ohcanáigemearri;Noun;;søknadsfrist;
 ohcanáigi;Noun;;søknadsfrist;
 ohcci;Noun;;søker, skjerper;
-Ohcejohka;Proper noun;;Utsjok (Finland) ;
 ohppiidráđđi;Noun;;elevråd;
 oidnot;Verb;;å synes;
 oidnostit;Verb;;å vises litt;
@@ -6649,7 +6265,6 @@ olgohivsset;Noun;;utedo;
 olgolávdi;Noun;;utescene;
 olgomáilbmi;Noun;;utomverdenen;
 olgoriikadepartemeanta;Noun;;utenriksdepartement;Ministry of Foreign Affairs
-Olgoriikadepartemeanta;Proper noun;;Utenriksdepartementet;
 olgoriikagávppašeapmi;Noun;;utenrikshandel;
 olgoriikalaš;Noun;;utlending;foreigner or alien
 olgoriikaministtar;Noun;;utenriksminister;foreign minister
@@ -6687,12 +6302,10 @@ olmmošvuoigatvuohta;Noun;;menneskerettighet;human right
 olmmošvuoigatvuođaláhka;Noun;;menneskerettighetslov;
 olmmoščearda;Noun;;folkeslag;people
 olmmáiolmmoš;Noun;;mannsperson;
-Olmmáivággi;Proper noun;;Manndalen (Kåfjord) ;
 olmmáštallat;Verb;;å gjøre seg til;
 olus;Pronoun;;mange personer;
 olugat;Pronoun;;mange mennesker;
 olámuddu;Noun;;rekkevidde;range
-Omasvuotna;Proper noun;;Storfjorden (Storfjord) ;
 omman;Noun;;stekeovn;oven
 opmu;Noun;;gjørmehull;
 opmodat;Noun;;eiendom;property
@@ -6708,7 +6321,6 @@ organisašuvdna;Noun;;organisasjon;organisation
 organiseret;Verb;;å organisere;
 orgána;Noun;;organ;organ
 originála;Noun;;original;original
-Orjježiidvággi;Proper noun;;Sørfjorddalen (Loppa) ;
 orkána;Noun;;orkan;hurricane
 orrut;Verb;;å være, å bli;
 orodit;Verb;;å oppholde seg;
@@ -6784,7 +6396,6 @@ ovddidanfoanda;Noun;;utviklingsfond;
 ovddidanprošeakta;Noun;;utviklingsprosjekt;
 ovddimus;Adjective;;først, fremst;
 ovddolaš;Adjective;;underlig, merkelig;
-Ovddádusbellodat;Proper noun;;Fremskrittspartiet;
 ovdošit;Verb;;å forutse;
 ovdánit;Verb;;å utvikle seg, å gå framover, å avansere;
 ovdánahttit;Verb;;å utvikle;
@@ -6889,11 +6500,8 @@ politiijaguovlu;Noun;;politidistrikt;
 politiija;Noun;;politi;police
 politiijameašttir;Noun;;politimester;police commissioner
 popmusihkka;Noun;;popmusikk;pop music
-Porsáŋgu;Proper noun;;Porsanger (Porsanger) ;
-Porsáŋgguvuotna;Proper noun;;Porsangerfjorden (Porsanger) ;
 positiiva;Adjective;;positiv;positive
 positiivvalaš;Adjective;;positiv;positive
-PP-bálvalus;Proper noun;;PPB/PPT;
 preassadieđáhus;Noun;;pressemelding;press release
 preassadoarjja;Noun;;pressestøtte;
 preassagovva;Noun;;pressefoto;
@@ -6983,15 +6591,11 @@ reabbáealli;Noun;;krepsdyr;crustacean
 readdju;Noun;;jakke, frakk;
 reahka;Noun;;slede;sled
 reaggut;Verb;;å kjenne stikkende smerte;
-Reahkkejávri;Proper noun;;Räkkijärvi (Finland) ;
-Reahpen;Proper noun;;Reppen;
 reahpen;Noun;;ljor;
 reaidadoarjja;Noun;;kontantstøtte;
 reaidu;Noun;;verktøy, hjelpemiddel;
-Reaisavuotna;Proper noun;;Bugøyfjorden (Sør-Varanger) ;
 reaisu;Noun;;reise;journey
 reakčanit;Verb;;å bli bulket;
-Reakčavuotna;Proper noun;;Litle Leirpollen (Tana) ;
 reastaluvvat;Verb;;å gå konkurs;
 reasta;Noun;;rest;remainder
 reatká;Noun;;einer;
@@ -7003,7 +6607,6 @@ reaškit;Verb;;å skratte;
 reaškkihit;Verb;;å få til å le;
 reašmi;Noun;;tau i overkant og underkant av fiskegarn;
 reašši;Noun;;utleire;
-Reaššvuotna;Proper noun;;Rafsbotn (Alta) ;
 redakšuvdnalávdegoddi;Noun;;redaksjonskomité;
 refleaksa;Noun;;refleks;reflection
 refušuvdnagáibádus;Noun;;refusjonskrav;
@@ -7047,7 +6650,6 @@ ritnut;Verb;;å bli belagt med rim;
 rieban;Noun;;rev;fox
 riebangolli;Noun;;kråkesølv;
 riebansilba;Noun;;kråkesølv;
-Riebevággi;Proper noun;;Revdalen (Skånland) ;
 riepmat;Verb;;å begynne;
 riehpu;Noun;;stakkar;poor soul
 riedjadit;Verb;;å skråle;
@@ -7060,10 +6662,6 @@ riegádanbeaivedearvvuođat;Noun;;førdelsdagshilsen;
 riegádanbeaivi;Noun;;fødselsdag;birthday
 riegádeapmi;Noun;;fødsel;birth
 riehppi;Noun;;botndal;
-Riehpovuotna;Proper noun;;Repparfjorden (Kvalsund) ;
-Riehppevággi;Proper noun;;Reppidalen (Storfjord) ;
-Riehpponávži;Proper noun;;Repparfjorddalen;
-Riehppovuotna;Proper noun;;Repparfjord;
 rieibmu;Noun;;skrål, leven;
 riekta;Adjective;;riktig;right
 riektecealkámuš;Noun;;kjennelse;verdict
@@ -7085,7 +6683,6 @@ rievdadit;Verb;;å forandre;
 rievdadeapmi;Noun;;endring;change
 rievdadus;Noun;;endring;change
 rievdna;Noun;;gryn;
-Rievdnavággi;Proper noun;;Stordalen (Tromsø) ;
 rievidit;Verb;;å røve;
 rievssat;Noun;;rype, lirype;
 rievssatbivdu;Noun;;rypejakt;
@@ -7126,8 +6723,6 @@ riikkasearvi;Noun;;landsforening;
 riikkastivra;Noun;;landsstyre;
 riikkaviidosaš;Adjective;;riksdekkende;
 riikkačoahkkin;Noun;;landsmøte;meeting with representatives from all over the country
-Riikovággi;Proper noun;;Grasdalen (Lavangen) ;
-Riimmat;Proper noun;;Nordmannset;
 riipu;Noun;;snegl;snail
 rimssas;Adjective;;fillet;
 rimsebivttas;Noun;;fillet klesplagg;
@@ -7139,7 +6734,6 @@ risenbuvru;Noun;;risengrynsgrøt;
 risku;Noun;;sølje;
 rismánná;Noun;;gudbarn;
 risnieida;Noun;;guddatter;
-Rissevuotna;Proper noun;;Risfjorden (Nordkapp) ;
 rissi;Noun;;ris, kvist;
 rista;Noun;;kors;cross
 ristbárdni;Noun;;gudsønn;
@@ -7156,10 +6750,7 @@ ristáhčči;Noun;;gudfar;godfather
 risviellja;Noun;;gudbror;
 risváhnen;Noun;;fadder;
 ritma;Noun;;rytme;rhythm
-Rivdnjevuotna;Proper noun;;Straumen (Nordkapp) ;
-Rivgovággi;Proper noun;;Jomfrudalen (Loppa) ;
 rivgu;Noun;;ikke-samisk kvinne;
-Rivtták;Proper noun;;Gratangen (Gratangen) ;
 rivvet;Verb;;å røve, å ta med makt;
 riđđu;Noun;;kuling;strong wind or gale
 riŋget;Verb;;å ringe;
@@ -7170,7 +6761,6 @@ riššu;Noun;;dusj;spray
 riššadoassa;Noun;;fyrstikkeske;
 rišša;Noun;;svovel;sulfur or sulphur
 riššasággi;Noun;;fyrstikk;match
-Roabavuotna;Proper noun;;Grovfjorden (Skånland) ;
 roadda;Noun;;balltre;bat
 roakkas;Adjective;;dyp, grov;
 roahkan;Noun;;huk;imperative of huke
@@ -7187,14 +6777,12 @@ roakči;Noun;;bulk;
 roamššas;Adjective;;ujevn, ru;
 roamšeluodda;Noun;;ujevn veg;
 roamši;Noun;;ujevnhet;
-Roandin;Proper noun;;Trondheim;Trondheim
 roasmmuhuvvat;Verb;;å bli skadet, å skade seg;
 roassu;Noun;;ulykke;accident
 roastil;Adjective;;dristig;
 roattus;Adjective;;grov, dyp;
 roavis;Adjective;;grov;coarse
 roavvi;Noun;;brent mark med ungskog;
-Roavenjárga;Proper noun;;Rovaniemi;
 roavgu;Noun;;skinnfell;
 roavku;Noun;;hulrom under is;
 roavvaláibi;Noun;;grovbrød;coarse
@@ -7218,24 +6806,17 @@ rohkkáhit;Verb;;å angripe;
 rohkos;Noun;;bønn;prayer
 rohkosviessu;Noun;;bedehus;
 rohtašuvvat;Verb;;å ligne på, å slektes på;
-Rohtovággi;Proper noun;;Kratdalen (Tana) ;
 rohttet;Verb;;å rykke;
 rohttu;Noun;;epidemi;epidemic
 rohtu;Noun;;krattskog;
 rohči;Noun;;trang del av ei elv med strøm;
 rokkastit;Verb;;å ta fram;
-Rokkilvággi;Proper noun;;Røyeldalen (Nordreisa) ;
 rolla;Noun;;rolle;role
 ropmi;Adjective;;stygg;ugly
-Romsa;Proper noun;;Tromsø;Tromsø
-Romssasuolu;Proper noun;;Tromsøya (Tromsø) ;
-Romssavággi;Proper noun;;Tromsdalen (Tromsø) ;
 romána;Noun;;roman;novel
-Románia;Proper noun;;Romania;Romania
 rotnu;Noun;;gjeldsimle;
 ropmodat;Noun;;stygghet;
 rosset;Verb;;å romstere med husarbeid;
-Rostavuotna;Proper noun;;Hamnefjorden (Hammerfest) ;
 rosvu;Noun;;kjeltring;
 rovvi;Noun;;enkel bru;
 ruodjat;Verb;;å skråle, å snakke høyt;
@@ -7273,12 +6854,9 @@ ruivvas;Adjective;;tilsølet, som er i uorden;
 ruivet;Verb;;å rote;
 ruoksat;Adjective;;rød;red
 ruksesivdni;Noun;;rødfarge;
-Ruksesmearra;Proper noun;;Rødehavet;
 ruksesrieban;Noun;;rødrev;red fox
 ruksesruoivil;Noun;;dompap;bullfinch
 ruksesruškat;Adjective;;rødbrun;
-Ruksesvuotna;Proper noun;;Holmengråfjorden (Sør-Varanger) ;
-Ruksesvággi;Proper noun;;Rauddalen (Bardu) ;
 rukta;Noun;;krutt;gunpowder
 rukto;Noun;;rute;square
 ruoktu;Noun;;heim, hjem;
@@ -7293,20 +6871,16 @@ runiidit;Verb;;å bli grønn;
 runodit;Verb;;å grønnes;
 ruobbi;Noun;;utslett;rash; diseased skin
 ruohkastit;Verb;;å klø litt;
-Ruohkkevággi;Proper noun;;Krokdalen (Bardu) ;
 ruohtastit;Verb;;å løpe avgårde;
 ruohtas;Noun;;rot;root
-Ruohtogeahči;Proper noun;;Skogende;
 ruoinnas;Adjective;;mager;thin
 ruoksi;Noun;;jur;
 ruoksát;Verb;;å se rød ut;
 ruonas;Noun;;grønnsak;vegetable
 ruonas;Adjective;;grønn;green
 ruoná;Adjective;;grønn;green
-Ruonáeana;Proper noun;;Grønland;Greenland
 ruossa;Noun;;kors;cross
 ruossaliidni;Noun;;brudgomsskjerf;
-Ruossavuotna;Proper noun;;Korsfjorden (Sør-Varanger) ;
 ruosttas;Adjective;;rusten;rusty
 ruosta;Noun;;rust;rust
 ruostut;Verb;;å ruste, å bli rusten;
@@ -7314,7 +6888,6 @@ ruovdi;Noun;;jern;Alternative form of jarn
 ruovdecuoŋu;Noun;;jernskare;
 ruovdemáđidja;Noun;;jernbanespor;railway track
 ruovderaŧŧi;Noun;;jernbane;railway
-Ruovdevuotna;Proper noun;;Jarfjorden (Sør-Varanger) ;
 ruovgat;Verb;;å grynte, å snøfte;
 ruovggas;Noun;;grynting;
 ruovji;Noun;;del av slakt, lem;
@@ -7339,10 +6912,6 @@ ruoškkehit;Verb;;å knake;
 ruoššabealle;Noun;;russisk side;
 ruoššagiella;Noun;;russisk;Russian
 ruošša;Noun;;russer;Russian
-Ruošša;Proper noun;;Russland;Russia
-Ruoššavuotna;Proper noun;;Nord-Leirvågen (Sør-Varanger) ;
-Ruoššavággi;Proper noun;;Russedalen (Lyngen) ;
-Ruoŧŧa;Proper noun;;Sverige;Sweden
 ruoŧabealle;Noun;;svensk side;
 ruoŧagiella;Noun;;svensk;Swedish
 ruoŧŧelaš;Noun;;svenske;definite singular of svensk
@@ -7373,13 +6942,11 @@ ruvvet;Verb;;å gni;
 ružžu;Noun;;djup trang kløft;
 ruđaheapme;Adjective;;blakk, pengelens;
 ruđalaš;Adjective;;pengemessig;
-Ruŋgu;Proper noun;;Spansdalen (Lavangen) ;
 ruŋgu;Noun;;skrott;body
 ruškat;Adjective;;gulbrun, brun;
 ruškesránis;Adjective;;brungrå;
 ruškkodahttit;Verb;;å få til å bli brunaktig;
 rušpi;Noun;;gulrot;carrot
-Ruššovággi;Proper noun;;Trangdalen (Skånland) ;
 ráhpi;Noun;;slam, søle;
 rábmot;Verb;;å skryte;
 ráhput;Verb;;å skrape, å rake;
@@ -7422,24 +6989,19 @@ ráhkásnuvvat;Verb;;å forelske seg;
 ráhppa;Noun;;trapp;stairs
 ráhpat;Adjective;;bra, flink;
 ráhpis;Adjective;;ulendt;
-Ráhpesvággi;Proper noun;;Rappdalen (Lyngen) ;
 ráhppá;Noun;;trapp;stairs
 ráhtat;Verb;;å skramle, å slamre;
 ráhtis;Noun;;hjul;wheel
-Ráhttonasvággi;Proper noun;;Brattnesdalen (Loppa) ;
 ráhtu;Noun;;åtsel;carrion
 ráidalas;Noun;;stige, trapp;
 ráidu;Noun;;raid, rekke;
 ráinnas;Adjective;;rein, ren;
-Ráidná;Proper noun;;Reinøya (Troms) ;
 ráidočiekčan;Noun;;seriefotball;
 ráidočiekčantabealla;Noun;;seriefotballtabell;
 ráigat;Verb;;å lage hull;
 ráigi;Noun;;hull;hole
 ráigánit;Verb;;å bli hullet;
 ráipi;Noun;;tamp;
-Ráisavuotna;Proper noun;;Sørreisa;
-Ráisa;Proper noun;;Nordreisa (Troms) ;
 ráisku;Noun;;fille;rag
 ráivut;Verb;;å kave, å famle;
 rájusgiddagas;Noun;;varetektsfengsling;
@@ -7472,24 +7034,18 @@ rátnu;Noun;;grene, pledd, matte;
 ránodit;Verb;;å gråne, å lysne av dag;
 ránoš;Noun;;lite teppe;
 ránska;Adjective;;fransk;French
-Ránská;Proper noun;;Frankrike;France
 rántet;Noun;;sted man hogger ved;
 ránto;Adjective;;kresen;discerning
 rápmaeaktu;Noun;;rammebetingelse;
 rássi;Noun;;gras, urt;
-Rássevággi;Proper noun;;Grasdalen (Loppa) ;
 rásttis;Noun;;trost;thrush
 rátkit;Verb;;å skille, å skille rein;
 rátkkačiekčan;Noun;;kvalifisering;
 rátkkašit;Verb;;å skille;
-Ráneš;Proper noun;;Ringvassøya (Tromsø) ;
-Ráttovuotna;Proper noun;;Smalfjorden (Tana) ;
-Rávalgieddi;Proper noun;;Ravelsnes;
 ráva;Noun;;formaning;
 rávdat;Verb;;å trekke;
 rávdi;Noun;;smed;smith
 rávdu;Noun;;røye;alternative form of røyr
-Rávdá;Proper noun;;Rødøy (Nordland) ;
 rávdnjebiire;Noun;;strømkrets;
 rávdnjegáldu;Noun;;strømkilde;
 rávdnji;Noun;;strøm;power
@@ -7497,7 +7053,6 @@ rávdnjái;Adjective;;med mye strøm;
 rávis;Adjective;;voksen;definite masculine singular of voks
 rávesolmmoš;Noun;;voksen;definite masculine singular of voks
 rávga;Noun;;draug;corporeal undead from Norse mythology and Norwegian folklore
-Rávjavuotna;Proper noun;;Rafjorden (Gamvik) ;
 rávjá;Noun;;hannhund, hannulv;
 rávkat;Verb;;å vekke;
 rávki;Noun;;stakkar;poor soul
@@ -7528,7 +7083,6 @@ sadjit;Verb;;å bryne, å file;
 sadjin;Noun;;bryne;
 sadji;Noun;;sted, plass;
 sadjingeađgi;Noun;;bryne;
-Sadjinvággi;Proper noun;;Heindalen (Nordreisa) ;
 sajus;Noun;;plass hvor den er lett å finne;
 sadjásaš;Adjective;;vikarierende, stedfortreder;
 sadjásaš;Noun;;vikar;indefinite plural of vik
@@ -7538,7 +7092,6 @@ sahet;Verb;;å sage;
 sahkanit;Verb;;å bli unnfanget;
 sahkkehit;Verb;;å befrukte;
 sahá;Noun;;sag;saw
-Sahávággi;Proper noun;;Sagdalen (Nordreisa) ;
 saidnat;Verb;;å hikste;
 saŋas;Adjective;;isfri, snøfri;
 sakŋidit;Verb;;å klø;
@@ -7548,15 +7101,11 @@ salastat;Noun;;omfavning, klem;
 salgat;Verb;;å tine;
 sallit;Noun;;sild;herring; Clupea harengus
 sallut;Verb;;å favne;
-Salvvasvággi;Proper noun;;Salvasskardet (Bardu) ;
 saláhtta;Noun;;salat;salad
 saláhta;Noun;;salat;salad
-Sapmavággi;Proper noun;;Kildalen (Nordreisa) ;
 sarretmálli;Noun;;blåbærsuppe;
 sarrit;Noun;;blåbær;bilberry
 sarvva;Noun;;elg;elk
-Sarvvesvuotna;Proper noun;;Kolvik (Porsanger) ;
-Sarvvesvággi;Proper noun;;Reindalen (Lyngen) ;
 sarvvis;Noun;;reinsbukk;male reindeer
 sattáhaddat;Verb;;å sveve;
 savdadit;Verb;;å yre, å småregne;
@@ -7575,7 +7124,6 @@ seaguhit;Verb;;å blande;
 seaguhus;Noun;;blanding;alloy
 seahkka;Noun;;sekk;bag or sack
 seahkanit;Verb;;å bli blandet, å rotet;
-Seahkkavuotna;Proper noun;;Kullfjorden (Måsøy) ;
 seahtu;Noun;;stand, stilling;
 seaibi;Noun;;hale;tail
 seaidni;Noun;;vegg;wall
@@ -7642,19 +7190,13 @@ servodatviessu;Noun;;samfunnshus;
 servvodat;Noun;;samfunn;society
 servvodatfarmasiija;Noun;;samfunnsfarmasi;
 servvodatviessu;Noun;;samfunnshus;
-Sevdnjosvággi;Proper noun;;Fosselvdalen (Hammerfest) ;
 sevnnjodit;Verb;;å bli mørkt;
 sevsa;Noun;;saus;sauce
 sexa;Noun;;sex;sex
-Sibirjá;Proper noun;;Sibir (Russland) ;
 siedja;Noun;;materie, verk, sårvæske;
 sii;Other;;til dem;
 sidnái;Adjective;;langsint;
 sieidi;Noun;;seide;to practice seid
-Sieiddevuotna;Proper noun;;Myrfjorden (Måsøy) ;
-Sieiddevággi;Proper noun;;Krokelvdalen (Måsøy) ;
-Sieidevuotna;Proper noun;;Finnkongkeila (Gamvik) ;
-Siellakvuotna;Proper noun;;Salangen (Salangen) ;
 siellu;Noun;;sjel;soul
 siepman;Noun;;frø, sæd;
 sierralohpi;Noun;;dispensasjon;dispensation
@@ -7686,12 +7228,10 @@ siibma;Noun;;fortom;
 siidaguoibmi;Noun;;nabo;neighbour  or neighbor
 siida;Noun;;reinby, teltby;
 siidaveahkki;Noun;;hjemmehjelp;
-Siidavuotna;Proper noun;;Straumfjorden (Nordreisa) ;
 siidu;Noun;;side;page
 siilosuoidni;Noun;;silogress;
 siivui;Adjective;;snill, rolig;
 siivu;Noun;;føre;condition of roads or other surfaces; typically in terms of snow and/or ice
-Siivvarvággi;Proper noun;;Sivertdalen (Alta) ;
 siktet;Verb;;å sikte;
 silba;Noun;;sølv;This term needs a translation to English. Please help out and add a translation
 sildi;Noun;;sild;herring; Clupea harengus
@@ -7699,15 +7239,11 @@ silkebalva;Noun;;perlemorsky;
 silkečuvla;Noun;;silkekjole;
 silki;Noun;;silke;silk
 silli;Noun;;sil;
-Silvetváhki;Proper noun;;Segelvik (Kvænangen) ;
-Simmaidvággi;Proper noun;;Finnvikdalen (Tromsø) ;
-Simmáviihvággi;Proper noun;;Ytredalen (Tromsø) ;
 sii;Other;;dem;them
 sii;Other;;med dem;
 sii;Other;;som dem;
 sitnu;Noun;;fint fjellgras;
 sirdašuvvat;Verb;;å flytte på seg;
-Sirddavággi;Proper noun;;Sildadalen (Loppa) ;
 sirdit;Verb;;å flytte;
 sirdin;Noun;;flytting;move
 sirkus;Noun;;sirkus;circus
@@ -7734,7 +7270,6 @@ sistebuvssat;Noun;;skinnbukse;
 sisti;Noun;;garvet skinn;
 sisttisdoallat;Verb;;å inneholde;
 sitkat;Adjective;;seig, utholdende;
-Sittarvuotna;Proper noun;;Skarvbergvika (Porsanger) ;
 sivva;Noun;;grunn, årsak;
 sivaheapme;Adjective;;uskyldig;Alternative form of uskuldig
 sivahallat;Verb;;å anklage for, å påtale;
@@ -7744,12 +7279,10 @@ sivdnideaddji;Noun;;skaper;present of skapa
 sivdnádus;Noun;;skapning;creature
 siviilaáittardeaddji;Noun;;sivilombudsmann;
 sivjjot;Noun;;svoger;brother-in-law
-Sivlu;Proper noun;;Forsøl;
 sivvu;Noun;;gysning;
 sivvat;Adjective;;forsiktig, nøye;
 siđvát;Verb;;å myse;
 skadjá;Noun;;skjul, skur;
-Skandinávia;Proper noun;;Skandinavia;Scandinavia
 skandála;Noun;;skandale;scandal
 skeaikit;Verb;;å skratte;
 skealbma;Noun;;skøyer;
@@ -7759,7 +7292,6 @@ skeaŋka;Noun;;gave;present or gift
 skelbmošit;Verb;;å lure;
 skelbmošeapmi;Noun;;lureri;
 skerttet;Noun;;grytekrok;
-Skerttetvággi;Proper noun;;Skjerdingdalen (Loppa) ;
 skeŋket;Verb;;å forære, å gi;
 skihpat;Verb;;å skrante;
 skibas;Adjective;;sykelig;
@@ -7769,12 +7301,9 @@ skierat;Noun;;saks;scissors
 skierbmut;Verb;;å halte;
 skierbmá;Noun;;person som halter;
 skierri;Noun;;dvergbjørk;dwarf birch
-Skiervá;Proper noun;;Skjervøya (Skjervøy) ;
-Skiessvuotna;Proper noun;;Lille-Porsangen (Lebesby) ;
 skihkka;Noun;;skikk;custom
 skihpár;Noun;;kamerat, venn;
 skiipa;Noun;;skip;ship
-Skiipavuotna;Proper noun;;Skipsfjorden (Nordkapp) ;
 skillat;Verb;;å klinge, å klirre;
 skilleduorastat;Noun;;skjærtorsdag;
 skire;Noun;;skjære;form removed with the spelling reform of 1938; superseded by skjera
@@ -7794,17 +7323,13 @@ skohtercross;Noun;;skutercross;
 skohtercrossa;Noun;;skotercross;
 skohtervuoddji;Noun;;skuterkjører;
 skorpiuvdna;Noun;;skorpion;scorpion
-Skottlánda;Proper noun;;Skotland;
 skovvi;Noun;;skjema, blankett;
 skruva;Noun;;skrue;screw or bolt
 skruvva;Noun;;skrue;screw or bolt
 skuohppu;Noun;;futteral, hylster, bøssing;
 skuhrrat;Verb;;å snorke;
 skuolfi;Noun;;ugle;owl
-Skulvavággi;Proper noun;;Skulvadalen (Tromsø) ;
 skunjihit;Verb;;å knise plutselig en gang;
-Skuohtavuotna;Proper noun;;Vesterpollen (Nordkapp) ;
-Skuonasvággi;Proper noun;;Trolldalen (Loppa) ;
 skuovva;Noun;;sko;shoe
 skurbat;Verb;;å pirke, å grave;
 skurtnjas;Adjective;;motløs, unnselig;
@@ -7857,7 +7382,6 @@ skuvlašillju;Noun;;skolegård;school playground
 skuvlet;Verb;;å undervise;
 skuvlejupmi;Noun;;utdanning;education
 skuvlen;Noun;;skolering;
-Skuvvanvárri;Proper noun;;Skoganvarre (Porsanger) ;
 skuŋka;Noun;;skremsel;scary thing
 skužistit;Verb;;å fnise;
 skáhpi;Noun;;rogn, rognetre;
@@ -7870,7 +7394,6 @@ skádja;Noun;;ekko;echo
 skáhppa;Noun;;skap;Alternative form of skåp
 skáhppe;Noun;;skap;Alternative form of skåp
 skáhpe;Noun;;skap;Alternative form of skåp
-Skáhpevággi;Proper noun;;Skavelvdalen (Tromsø) ;
 skáhppu;Noun;;eske;box
 skáidi;Noun;;åmot, land mellom to elver som møtes;
 skáidnet;Verb;;å rispe, å skjære;
@@ -7879,15 +7402,10 @@ skálbmet;Verb;;å hogge i stykker;
 skállu;Noun;;bøtte;bucket
 skálvi;Noun;;snøskavl;
 skálžu;Noun;;skjell;mussel
-Skánik;Proper noun;;Skånland (Troms) ;
-Skánit;Proper noun;;Skånland (Troms) ;
-Skáravuotna;Proper noun;;Skarfjorden (Gamvik) ;
 skárfa;Noun;;skarv;bird of the family Phalacrocoracidae
-Skárfvággi;Proper noun;;Skardalen (Kåfjord) ;
 skárrit;Noun;;saks;scissors
 skárta;Noun;;skorpe;crust
 skávhli;Noun;;gråmåke;
-Skávlevággi;Proper noun;;Måsedalen (Lyngen) ;
 skávli;Noun;;gråmåke;
 skávžá;Noun;;helskjegg, hakeskjegg;
 smartá;Noun;;slå, skåte;
@@ -7895,7 +7413,6 @@ smarvi;Noun;;hårkrøll;
 smiehttat;Verb;;å tenke, å fundere;
 smiehtadit;Verb;;å tenke, å gruble;
 smiehttamuš;Noun;;tenking, grubling;
-Smiervuotna;Proper noun;;Smørfjorden (Porsanger) ;
 smirezastit;Verb;;å tygge drøv;
 smirezasti;Noun;;drøvtygger;
 smáhkka;Noun;;smak;taste
@@ -7903,7 +7420,6 @@ smáhkkomuorra;Noun;;hoggstabbe;
 smáhkku;Noun;;flis, spon;
 smáhkohallat;Verb;;å holde på å smake;
 smáiti;Adjective;;veik;weak
-Smálkovággi;Proper noun;;Smalakdalen (Balsfjord) ;
 smávis;Adjective;;liten;small
 smávvafanasbivdi;Noun;;småbåtfisker;
 smávvafanas;Noun;;småbåt;
@@ -7958,7 +7474,6 @@ soarpi;Noun;;skum;foam
 soarvi;Noun;;tørrfuru;
 soavli;Noun;;snøslaps;
 soavvil;Noun;;harr;grayling
-Soađegilli;Proper noun;;Sodankylä (Finland) ;
 soađis;Noun;;flis, splint;
 sohpat;Verb;;å skave, å gnage kjøtt av beinet;
 sodjat;Verb;;å bøye seg;
@@ -7968,7 +7483,6 @@ soffá;Noun;;sofa;sofa or couch
 sohka;Noun;;slekt, ætt;
 sogalaš;Noun;;slektning;relative
 soggi;Noun;;plass innerst ved veggen;
-Soggovuotna;Proper noun;;Østerbotn (Porsanger) ;
 sohkabealli;Noun;;kjønn;sex or gender
 sohkabealearri;Noun;;kjønnskvote;
 sohkabealperspektiiva;Noun;;kjønnsperspektiv;
@@ -8003,8 +7517,6 @@ sosiálaoahpaheaddji;Noun;;sosiallærer;
 sosiálačálli;Noun;;sosialsekretær;
 sotnabeaiskuvla;Noun;;søndagsskole;
 sotnabeaivi;Noun;;søndag;Sunday
-Sotnabeaivággi;Proper noun;;Søndagsdalen (Kvænangen) ;
-Sovjetlihttu;Proper noun;;Sovjetunionen;the Soviet Union
 sovppá;Noun;;såpe;soap
 spagát;Noun;;kløvsal;
 sparaidit;Verb;;å dirre, å vibrere;
@@ -8080,17 +7592,11 @@ stoalpu;Noun;;stolpe;pole or post
 stoarbma;Noun;;storm;storm
 stohpu;Noun;;stue;living room
 stohkki;Noun;;råtten trestokk;
-Stohkkavuotna;Proper noun;;Tømmervika (Lebesby) ;
 stohpogálvu;Noun;;møbel;furniture
-Stohpovuotna;Proper noun;;Stønesbotn (Lenvik) ;
 storbmet;Verb;;å blåse opp til storm;
 strategiija;Noun;;strategi;strategy
 streaŋga;Noun;;streng;strict
 stresset;Verb;;å stresse;
-Strommavuotna;Proper noun;;Kongsfjorden (Berlevåg) ;
-Strovmmavággi;Proper noun;;Straumdalen (Hammerfest) ;
-Stránddavuotna;Proper noun;;Strandbukta (Nordkapp) ;
-Stránddavággi;Proper noun;;Stranddalen (Nordkapp) ;
 studeanta;Noun;;student;student
 studeret;Verb;;å studere;
 studio;Noun;;studio;studio
@@ -8101,11 +7607,7 @@ stuollu;Noun;;stol;chair
 stunžet;Verb;;å plaske;
 stuolločielgi;Noun;;stolrygg;
 stuoris;Adjective;;stor;large
-Stuoragohppi;Proper noun;;Storbukt;
-Stuorajárvággi;Proper noun;;Bjørndalen (Loppa) ;
 stuoraservodat;Noun;;storsamfunn;
-Stuoravuotna;Proper noun;;Gyfjorden (Hammerfest) ;
-Stuoravággi;Proper noun;;Stordalen (Bardu) ;
 stuorebuš;Adjective;;litt større;
 stuoridit;Verb;;å forstørre;
 stuorrut;Verb;;å bli stor;
@@ -8115,8 +7617,6 @@ stuorradiggeáirras;Noun;;stortingsrepresentant;Norwegian Member of Parliament
 stuorradiggi;Noun;;storting;
 stuorraservodat;Noun;;storsamfunn;
 stuorrasáidi;Noun;;storsei;
-Stuorravuotna;Proper noun;;Storfjorden (Lebesby) ;
-Stuorvihvággi;Proper noun;;Storvikdalen (Loppa) ;
 stábat;Adjective;;stripet;
 stábbasáidi;Noun;;stabbsei, mellomstor sei;
 stádadoarjja;Noun;;statsstøtte;
@@ -8144,7 +7644,6 @@ stáinnir;Noun;;steinbit;wolffish
 stáinnat;Noun;;simle som ikke får kalv;
 stálli;Noun;;stål;steel
 stállja;Noun;;stall;stable
-Stállovággi;Proper noun;;Elvevolldalen (Storfjord) ;
 stállu;Noun;;samisk eventyrfigur;
 stáloš;Noun;;liten stallo;
 stálpi;Noun;;ulv;wolf
@@ -8185,7 +7684,6 @@ suidnet;Verb;;å senne;
 son;Other;;med henne, med han;
 suoidni;Noun;;gras, høy;
 suittet;Noun;;hestetømme;
-Suivvevággi;Proper noun;;Kobbryggdalen (Bardu) ;
 sujahaddat;Verb;;å beskylde;
 sujalaš;Adjective;;skyldig;guilty
 suodji;Noun;;ly, vern;
@@ -8214,23 +7712,17 @@ suohpa;Noun;;vadested;ford
 suohpan;Noun;;lasso;
 suohtas;Adjective;;morsom, hyggelig;
 suohtastallat;Verb;;å more seg;
-Suoidneleakši;Proper noun;;Myrlandet;
 suoidnemánnu;Noun;;juli;July
-Suoidnevággi;Proper noun;;Sennedalen (Tromsø) ;
 suoivva;Noun;;skygge;definite singular of skygg
 suoivvan;Noun;;skygge;definite singular of skygg
 suoivvanhápmi;Noun;;skyggeform;
 suokkardit;Verb;;å granske;
 suola;Noun;;tyv;thief
-Suollatvággi;Proper noun;;Bentsjorda (Storfjord) ;
 suollemas;Adjective;;hemmelig;secret
 suollemassátni;Noun;;passord;password
-Suoločielgi;Proper noun;;Saariselkä (Finland) ;
 suoládit;Verb;;å stjele;
-Suopma;Proper noun;;Finland;Finland
 suomabealle;Noun;;finsk side;
 suomagiella;Noun;;finsk;Finnish
-Suomaluokta;Proper noun;;Finskebukta;
 suomuorra;Noun;;tverrstang over ildsted;
 suotna;Noun;;sene;tendon
 suonjardit;Verb;;å stråle;
@@ -8248,8 +7740,6 @@ suorganit;Verb;;å bli redd, å forskrekket;
 suorggahit;Verb;;å skremme;
 suorggahahtti;Adjective;;skremmende;
 suorgi;Noun;;forgreining, linje;
-Suorggomohkki;Proper noun;;Reiervik;
-Suorrevággi;Proper noun;;Instebotndalen (Karlsøy) ;
 suorsá;Noun;;and;duck
 suoskat;Verb;;å tygge;
 suoskangumme;Noun;;tyggegummi;chewing gum
@@ -8260,7 +7750,6 @@ suovasbiergu;Noun;;røykakjøtt;
 suovasluossa;Noun;;røykalaks;
 suovdi;Noun;;gjelle på fisk, tokn;
 suovka;Noun;;krattskog;
-Suovka;Proper noun;;Nyborgmoen;
 suovvabuokči;Noun;;røykdykker;
 suođđat;Verb;;å lekke luft;
 surbmi;Noun;;gryn;
@@ -8274,7 +7763,6 @@ son;Other;;til han, til henne;
 suttolaš;Adjective;;syndig;
 suvdit;Verb;;å ferge, å frakte i båt;
 suvddár;Noun;;skomaker;shoemaker
-Suvdovuotna;Proper noun;;Sørfjorden (Kvænangen) ;
 suvri;Noun;;syre;acid
 suvrut;Verb;;å bli sur;
 suvrris;Adjective;;sur;sour
@@ -8320,7 +7808,6 @@ sáidemullju;Noun;;seimølje;
 sáiggas;Adjective;;fillet;
 sáigobivttas;Noun;;hullete klesplagg;
 sáitebálkesteaddji;Noun;;spydkaster;
-Sáitevuotna;Proper noun;;Meltefjorden (Hasvik) ;
 sáiti;Noun;;spyd;spear
 sáivaguolli;Noun;;ferskvannsfisk;freshwater fish
 sáivaguolásteapmi;Noun;;ferskvannsfiske;
@@ -8329,22 +7816,15 @@ sáivačáhcebiologiija;Noun;;ferskvannsbiologi;
 sáivačáhceguolli;Noun;;ferskvannsfisk;freshwater fish
 sákta;Noun;;saft;juice
 sálaš;Noun;;bytte, fangst;
-Sálašoaivi;Proper noun;;Tromsdalstinden (Tromsø) ;
-Sálašvággi;Proper noun;;Tromsdalen (Tromsø) ;
 sálbmagirji;Noun;;salmebok;hymnbook or hymnal
 sálbma;Noun;;salme;hymn
 sále;Noun;;sal;large room in which parties and meetings and similar are held; a hall
 sálga;Noun;;kjøttstykke;piece of meat
 sálket;Verb;;å tømme;
-Sállan;Proper noun;;Sørøya (Hasvik) ;
-Sállannuorri;Proper noun;;Sørøysund (Finnmark) ;
-Sállir;Proper noun;;Kvaløya (Tromsø) ;
 sáltet;Verb;;å salte;
 sálteguolli;Noun;;saltfisk;
 sálteluossa;Noun;;spekelaks, saltlaks;
 sáltemárfi;Noun;;spekepølse;
-Sáltesávju;Proper noun;;Veidnes (Finnmark) ;
-Sáltevággi;Proper noun;;Saltdalen (Tromsø) ;
 sálti;Noun;;salt;salty
 sálttis;Adjective;;salt, saltet;
 sálvu;Noun;;sprekk;crack
@@ -8353,13 +7833,11 @@ sámecup;Noun;;samecup;
 sámediggejoavku;Noun;;sametingsgruppe;
 sámediggelistu;Noun;;sametingsliste;
 sámediggepresideanta;Noun;;sametingspresident;
-Sámediggeráđđi;Proper noun;;Sametingsrådet;
 sámediggeráđđi;Noun;;sametingsråd;
 sámediggeválga;Noun;;sametingsvalg;
 sámediggeáigodat;Noun;;sametingsperiode;
 sámediggeáirras;Noun;;sametingsrepresentant;
 sámediggi;Noun;;sameting;
-Sámediggi;Proper noun;;Sametinget;
 sámefoanda;Noun;;samefond;
 sámegiella;Noun;;samisk;Sami
 sámegielat;Adjective;;samiskspråklig;
@@ -8374,7 +7852,6 @@ sámegieloahpahus;Noun;;samiskundervisning;
 sámegieloahppu;Noun;;samiskopplæring;
 sámegieloahppi;Noun;;samiskelev;
 sámegákti;Noun;;samekofte;
-Sámekommišuvdna;Proper noun;;Lappekommisjonen;
 sámekonvenšuvdna;Noun;;samekonvensjon;
 sámekultuvra;Noun;;samekultur;
 sámeleavga;Noun;;sameflagg;
@@ -8394,15 +7871,11 @@ sámesearvi;Noun;;sameforening;
 sámeservodat;Noun;;samisk samfunn;
 sámeskuvla;Noun;;sameskole;
 sámevuohta;Noun;;samiskhet;
-Sámevuotna;Proper noun;;Nordre Tverrfjorden (Loppa) ;
-Sámevuonvággi;Proper noun;;Nordre Tverrfjorddalen (Loppa) ;
 sámeálbmot;Noun;;samefolket;
 sámeálbmotfoanda;Noun;;samefolkets fond;
 sámeávvudeapmi;Noun;;samefeiring;
 sámeášši;Noun;;samesak;
-Sápmi;Proper noun;;Sameland;
 sámil;Noun;;mose;moss
-Sámiráđđi;Proper noun;;Samerådet;
 sámivuohta;Noun;;samiskhet;
 sámástit;Verb;;å snakke samisk;
 sátni;Noun;;ord;word
@@ -8419,8 +7892,6 @@ sárgut;Verb;;å streke, å tegne, å risse;
 sárggodit;Verb;;å holde på med å tegne;
 sárgundiibmu;Noun;;tegnetime;
 sárgunprográmma;Noun;;tegneprogram;
-Sárranjárga;Proper noun;;Sarnes;
-Sárravuotna;Proper noun;;Sarnesfjorden;
 sátku;Noun;;båtplass;
 sátnegeavaheapmi;Noun;;ordbruk;
 sátnegirji;Noun;;ordbok;dictionary
@@ -8439,7 +7910,6 @@ sáttoborga;Noun;;sandstorm;sandstorm
 sáttobábir;Noun;;sandpapir;sandpaper or sanding paper
 sáttogeađgi;Noun;;sandstein;sandstone
 sáttogáddi;Noun;;sandstrand;sandy beach
-Sáttovuotna;Proper noun;;Kinnar-Sandfjorden (Lebesby) ;
 sáttošloahtta;Noun;;sandslott;sandcastle
 sávvat;Verb;;å ønske;
 sávahahtti;Adjective;;ønskelig;desirable
@@ -8452,10 +7922,8 @@ sávzadoalli;Noun;;sauebonde;sheep farmer
 sávzadoallu;Noun;;sauehold;
 sávza;Noun;;sau;sheep
 sávzanávet;Noun;;sauefjøs;
-Sážžá;Proper noun;;Senja (Tranø) ;
 sáđđat;Verb;;å pese;
 sáđga;Noun;;flat grasmo;
-Sáđgejohka;Proper noun;;Sargejok;
 sáŋgár;Noun;;helt;hero
 tabealla;Noun;;tabell;table
 tabeallavuoiti;Noun;;tabelltopp;
@@ -8502,7 +7970,6 @@ tiŋga;Noun;;ting;thing
 toardna;Noun;;tårn;tower
 toga;Noun;;tog;train
 tonna;Noun;;tonn;ton
-Troandin;Proper noun;;Trondheim;Trondheim
 tráhppa;Noun;;trapp;stairs
 tráhppastealli;Noun;;trappetrinn;stair or step
 tráhppá;Noun;;trapp;stairs
@@ -8528,14 +7995,10 @@ tákta;Noun;;takt;time
 tálla;Noun;;tall;number
 távval;Noun;;tavle;board
 tøffa;Adjective;;tøff;tough
-Ubmi;Proper noun;;Umeå (Sverige) ;
 udju;Adjective;;sjenert;shy
 udnot;Verb;;å unne;
-Uffirvuotna;Proper noun;;Ofjorden (Hasvik) ;
 uhcci;Adjective;;liten;small
 uhcahaš;Noun;;lite barn;
-Uhcavuotna;Proper noun;;Langfjorden (Sør-Varanger) ;
-Uhcavuonašvággi;Proper noun;;Svartdalen (Kvænangen) ;
 uhccut;Verb;;å bli mindre, å minske;
 uhcidit;Verb;;å forminske;
 uhkidit;Verb;;å true;
@@ -8552,12 +8015,9 @@ ulbmiljoavku;Noun;;målgruppe;target audience or target group
 ulbmilmearrádus;Noun;;formålsbestemmelse;
 ulbmilparagráfa;Noun;;formålsparagraf;
 ulda;Noun;;hulder;supernatural being
-Ulddašvággi;Proper noun;;Botnelvdalen (Alta) ;
 ullobuvssat;Noun;;ullbukse;
 ullobáidi;Noun;;ullgenser;
 ullofabrihkka;Noun;;ullfabrikk;
-Ullovuotna;Proper noun;;Ullsfjorden (Loppa) ;
-Ullovuonvággi;Proper noun;;Ullsfjorddalen (Loppa) ;
 ullu;Noun;;ull;wool
 umáhttu;Adjective;;uvant, uøvd;
 unni;Adjective;;liten;small
@@ -8582,8 +8042,6 @@ ustit;Noun;;venn, kamerat;
 ustitlaš;Adjective;;vennlig;friendly
 ustitvuohta;Noun;;vennskap;friendship
 uvdna;Noun;;peis, grue;
-Uvdujohka;Proper noun;;Munkelv;
-Uvduvuotna;Proper noun;;Munkefjorden (Sør-Varanger) ;
 uvja;Noun;;dun;down
 uvlu;Noun;;humle;hop
 uvllorássi;Noun;;løvetann;dandelion
@@ -8658,13 +8116,10 @@ veahkkái;Adjective;;hjelpsom;helpful
 veahtas;Adjective;;for lite salt;
 veahtu;Noun;;hefte, hindring;
 veaháš;Pronoun;;litt;some
-Veahčervuotna;Proper noun;;Vesterbotn (Måsøy) ;
 veažir;Noun;;hammer;hammer
 veaigeguovssu;Noun;;aftenskjær;
 veaigeroađđi;Noun;;skumringsrøde;
 veaigi;Noun;;skumring;dusk
-Veaiggosvuotna;Proper noun;;Fægfjorden (Kvalsund) ;
-Veaikevággi;Proper noun;;Kopparskardet (Bardu) ;
 veaiki;Noun;;kobber;copper
 veajet;Noun;;fiskeyngel;
 veajuheapme;Adjective;;kraftløs;
@@ -8702,7 +8157,6 @@ vearsa;Noun;;vers;verse
 veasku;Noun;;veske;bag
 veasta;Noun;;vest;west
 veavdit;Verb;;å vente, å hale med seg;
-Vehávággi;Proper noun;;Litlelvdalen (Nordreisa) ;
 veiggodit;Verb;;å skumre, å mørkne;
 vejolaš;Adjective;;mulig;possible
 vejolašvuohta;Noun;;mulighet;opportunity
@@ -8721,10 +8175,7 @@ viehkalit;Verb;;å løpe avgårde;
 viehkanskuovva;Noun;;joggesko;
 viehkis;Adjective;;slu;
 viehkki;Noun;;løper;bishop
-Vieksevággi;Proper noun;;Indre Vikselvdalen (Kvænangen) ;
 vievssis;Noun;;hveps;
-Viektavuotna;Proper noun;;Bårdfjorden (Hammerfest) ;
-Viektavuonvággi;Proper noun;;Bårdfjorddalen (Hammerfest) ;
 vielgat;Adjective;;kvit, hvit;
 vielgát;Verb;;å se hvit ut;
 viellja;Noun;;bror;brother
@@ -8735,7 +8186,6 @@ vielljabealle;Noun;;stebror;stepbrother
 vielljabealli;Noun;;stebror;stepbrother
 vielppis;Noun;;hvalp;puppy
 vielti;Noun;;bakke, fjellside;
-Vieravuotna;Proper noun;;Veidnesfjorden (Nesseby) ;
 vierca;Noun;;vær;weather
 vieris;Adjective;;fremmed;foreign
 viergi;Noun;;skinnkant;
@@ -8753,8 +8203,6 @@ viessohoiddár;Noun;;vaktmester;caretaker
 viessoráfi;Noun;;husfred;state of agreement and friendliness between the inhabitants of a home
 viessoseaidni;Noun;;husvegg;
 viessočoavdda;Noun;;husnøkkel;
-Viestarbađaeana;Proper noun;;Vesterbotten;
-Viestterálas;Proper noun;;Vesterålen (Nordland) ;
 viežžat;Verb;;å hente;
 viežžalit;Verb;;å hente fort, å hente noe som ikke er langt borte;
 viggat;Verb;;å prøve, å streve;
@@ -8789,7 +8237,6 @@ vilbealli;Noun;;fetter;cousin
 vilddas;Adjective;;ustyrlig, vilter;
 vilgesbivttahas;Noun;;hvitkledd person;
 vilgesbivttat;Adjective;;hvitkledd;
-Vilgesmearra;Proper noun;;Kvitsjøen;
 vilggodit;Verb;;å blekne, å bli hvit;
 villas;Adjective;;vill, vilter;
 vilppastit;Verb;;å kaste et blikk;
@@ -8812,7 +8259,6 @@ viđeš;Noun;;femtall, femmer;
 viđát;Adjective;;femte;fifth
 viššat;Verb;;å orke, å gidde;
 viššal;Adjective;;flittig;diligent
-Voagat;Proper noun;;Vågan;An island municipality of Lofoten district
 vovdna;Noun;;vogn;wagon in the original sense
 vuoddji;Noun;;sjåfør;driver
 vuodjit;Verb;;å kjøre;
@@ -8829,7 +8275,6 @@ vuhtodit;Verb;;å bysse;
 vuohttut;Verb;;å vogge;
 vuhttot;Verb;;å spores;
 vuohčut;Verb;;å piple;
-Vuohčču;Proper noun;;Vuotso;
 vuoidat;Verb;;å smøre;
 vuiget;Verb;;å sanne;
 vuoigŋat;Verb;;å puste;
@@ -8865,12 +8310,10 @@ vuodjudit;Verb;;å senke;
 vuogas;Adjective;;høvelig, passelig, behagelig;
 vuogádat;Noun;;framgangsmåte;
 vuohkadit;Verb;;å true;
-Vuohpošnjárga;Proper noun;;Bringneshalvøya;
 vuohppát;Verb;;å hamle, å skåte;
 vuohtaráipi;Noun;;dragreim;
 vuoidalit;Verb;;å smøre fort;
 vuoiddas;Noun;;smurning;
-Vuoiddasvuotna;Proper noun;;Ivarsfjorden (Gamvik) ;
 vuoigat;Adjective;;åpenhjertig;
 vuoigatvuohta;Noun;;rettighet;right
 vuoigatvuođalávdegoddi;Noun;;rettighetsutvalg;
@@ -8879,7 +8322,6 @@ vuoiggalaš;Adjective;;redelig;
 vuoissahat;Noun;;sting, smerte;
 vuoittáhallat;Verb;;å tape;
 vuoivvas;Noun;;lever;liver
-Vuoivuotna;Proper noun;;Pollen (Lyngen) ;
 vuoivvasmeastu;Noun;;leverpostei;
 vuoivvasnjuvddus;Noun;;leverpostei;
 vuoiŋŋahat;Noun;;åndedrett;
@@ -8894,20 +8336,16 @@ vuojadanbáiki;Noun;;svømmeplass;
 vuojadandiibmu;Noun;;svømmetime;
 vuojadanálddis;Noun;;svømmebasseng;alternative form of symjebasseng
 vuojadeapmi;Noun;;svømming;swimming
-Vuojatluohvággi;Proper noun;;Hallarvikdalen (Alta) ;
 vuojašit;Verb;;å kjøre stadig;
 vuojaš;Noun;;stjertand;
 vuojehit;Verb;;å drive, å jage;
 vuojihit;Verb;;å frakte;
 vuojuhit;Verb;;å senke;
 vuoján;Noun;;kjørerein;
-Vuokkátdiggi;Proper noun;;Omgangstinget;
-Vuoksavuotna;Proper noun;;Oksefjorden (Lebesby) ;
 vuoksá;Noun;;okse;bull
 vuoktačuohppi;Noun;;frisør;hairdresser
 vuoktašámpu;Noun;;hårsjampo;
 vuola;Noun;;øl;beer
-Vuolevággi;Proper noun;;Tepphaugdalen (Tromsø) ;
 vuolgga;Noun;;opprinnelse;origin
 vuolggahit;Verb;;å få i gang;
 vuolit;Adjective;;nedre;lower
@@ -8938,9 +8376,6 @@ vuordnut;Verb;;å sverge, å avlegge ed;
 vuordámuš;Noun;;forventning;expectation
 vuorjat;Verb;;å plage, å sjenere;
 vuorjašuvvat;Verb;;å plages;
-Vuorjánjohka;Proper noun;;Grense Jakobselv;
-Vuorkeljohka;Proper noun;;Kobbholmvassdraget;
-Vuorkelvuotna;Proper noun;;Kobbholmfjorden (Sør-Varanger) ;
 vuorká;Noun;;arkiv;archive
 vuorkágovva;Noun;;arkivfoto;
 vuorru;Noun;;tur, omgang;
@@ -8970,11 +8405,9 @@ vuostálat;Noun;;motbakke;
 vuostálastit;Verb;;å protestere;
 vuostálasti;Noun;;motstander;indefinite plural of motstand
 vuostáláibi;Noun;;ostesmørbrød;
-Vuotkevuotna;Proper noun;;Lillefjord (Måsøy) ;
 vuotnabahta;Noun;;fjordbotn;
 vuotnaguolásteaddji;Noun;;fjordfisker;
 vuotnaguovlu;Noun;;fjordområde;
-Vuotnasiida;Proper noun;;Sjøvegan;
 vuovdaleaddji;Noun;;selger;seller
 vuovda;Noun;;hulrom;cavity
 vuovdi;Noun;;skog;forest
@@ -8989,9 +8422,7 @@ vuovdái;Adjective;;glupsk;
 vuovssadit;Verb;;å spy;
 vuovssanasdávda;Noun;;oppkastsyke;
 vuovssihit;Verb;;å få til å spy;
-Vuođavuotna;Proper noun;;Gulgofjorden (Berlevåg) ;
 vuođđu;Noun;;bunn, grunn, underside, fundament;
-Vuođđavuotna;Proper noun;;Gulgofjorden (Berlevåg) ;
 vuođđoealáhus;Noun;;basisnæring, primærnæring;
 vuođđojurdda;Noun;;prinsipp;principle
 vuođđokursa;Noun;;grunnkurs;
@@ -9000,12 +8431,9 @@ vuođđooahppu;Noun;;grunnutdanning;
 vuođđoskuvla;Noun;;grunnskole;any school for children aged 6 to 16-17
 vuođđudit;Verb;;å grunnlegge;
 vuođđudus;Noun;;stiftelse, grunnleggelse;
-Vuošvággi;Proper noun;;Lyngsdalen (Lyngen) ;
 vuoššat;Verb;;å koke;
 vuoššanruitu;Noun;;kokekar;
 vuoššastit;Verb;;å koke fort;
-Vuoŧkevuotna;Proper noun;;Lillefjorden (Måsøy) ;
-Vuoŧkevuonvággi;Proper noun;;Lillefjorddalen (Måsøy) ;
 vurket;Verb;;å lagre;
 vuđolaš;Adjective;;grundig, grunnleggende;
 váccašit;Verb;;å spasere;
@@ -9024,7 +8452,6 @@ váhnen;Noun;;forelder;parent
 váhnenságastallan;Noun;;foreldresamtale;
 váhnenčoahkkin;Noun;;foreldremøte;
 váža;Noun;;simle;
-Váhčir;Proper noun;;Gällivare (Sverige) ;
 váibat;Verb;;å bli trøtt;
 váibadit;Verb;;å trøtte ut;
 váibbas;Adjective;;trøtt;past participle of trø
@@ -9099,7 +8526,6 @@ válga;Noun;;valg;election
 válgastivra;Noun;;valgstyre;
 válgaáigodat;Noun;;valgperiode;
 válljet;Verb;;å velge;
-Váltovuotna;Proper noun;;Småstrauman (Sør-Varanger) ;
 vánddardit;Verb;;å vandre, å streife;
 vánddardeaddji;Noun;;vandrer;present tense of vandre
 vánddis;Noun;;dvergspissmus;Eurasian pygmy shrew
@@ -9112,12 +8538,9 @@ váraheapme;Adjective;;uforsiktig;
 váralaš;Adjective;;farlig;dangerous
 váran;Noun;;bringebær;raspberry
 várdu;Noun;;utsiktsplass;
-Várdnasuolu;Proper noun;;Vannøya (Tromsø) ;
 várdát;Verb;;å speide, å holde utkik;
 várri;Noun;;fjell;mountain
-Várggát;Proper noun;;Vardø (Finnmark) ;
 várjalit;Verb;;å forsvare, å beskytte;
-Várjjat;Proper noun;;Varanger (Finnmark) ;
 várkat;Verb;;å verke;
 várret;Verb;;å advare;
 várregilga;Noun;;fjellside;mountainside
@@ -9137,7 +8560,6 @@ vásihit;Verb;;å erfare, å oppleve;
 vástidit;Verb;;å svare;
 vástádus;Noun;;svar;answer
 vásáhus;Noun;;opplevelse;experience
-Váttavuotna;Proper noun;;Vannfjorden (Nordkapp) ;
 váttisvuohta;Noun;;problem;problem
 vávjit;Verb;;å mistenke;
 vávvá;Noun;;dukke;Alternative form of dukka
@@ -9152,35 +8574,7 @@ vázzát;Verb;;å begynne å gå;
 váđđu;Noun;;jukse;jig
 váđot;Noun;;åkerbær;
 váŋkái;Adjective;;kraftig, røslig;
-Ábeskovvu;Proper noun;;Abisko;
-Áhkkil;Proper noun;;Akkala;
-Áhkárvuotna;Proper noun;;Akkarfjorden (Hammerfest) ;
-Áhkárvággi;Proper noun;;Kjerringdalen (Alta) ;
-Áhkávággi;Proper noun;;Kjerringdalen (Kåfjord) ;
-Áhtávuotna;Proper noun;;Efjorden;
-Áibanášši;Proper noun;;Langnes (Kåfjord) ;
-Áilu;Proper noun;;Helgøya;
-Áisejohka;Proper noun;;Andselv;
-Áitevággi;Proper noun;;Lille Kufjorddalen (Alta) ;
-Ákŋoluokta;Proper noun;;Hasvik (Finnmark) ;
-Ákŋovuotna;Proper noun;;Hasfjorden (Hasvik) ;
-Ákšovuotna;Proper noun;;Øksfjord (Loppa) ;
-Ákšovuonbahta;Proper noun;;Øksfjordbotn (Loppa) ;
-Ákšovuonvuopmi;Proper noun;;Oksfjorddalen;
 Álaheadju;Proper noun;;Alta (Finnmark) ;
-Álddesjávri;Proper noun;;Altevatnet;
-Álletnjárga;Proper noun;;Alliknjarg;
-Áltá;Proper noun;;Alta (Alta) ;
-Ánddasuolu;Proper noun;;Andøy (Nordland) ;
-Áravuopmi;Proper noun;;Vassdalen;
-Áravággi;Proper noun;;Vassdalen (Narvik) ;
-Árresvuotna;Proper noun;;Eiterfjorden (Måsøy) ;
-Árresvággi;Proper noun;;Sørstraumdalen (Kvænangen) ;
-Átteváhki;Proper noun;;Advik;
-Áttánvuotna;Proper noun;;Adamsfjorden (Lebesby) ;
-Ávva;Proper noun;;Havøya;
-Ávčavággi;Proper noun;;Nord-Heggedalen (Lenvik) ;
-Ålánda;Proper noun;;Åland;Åland
 áhpi;Noun;;vid myrstrekning, treløs slette;
 ábolaš;Adjective;;nyttig;useful
 áhpu;Noun;;nytte;to use
@@ -9421,32 +8815,7 @@ váŋkái;Adjective;;kraftig, røslig;
 áššálaš;Adjective;;skyldig, tiltalt;
 áššáskuhttit;Verb;;å skylde på, å anklage;
 áŧestus;Noun;;vanskelighet, trengsel;
-Čalmmasvággi;Proper noun;;Finnkjerkvika (Lebesby) ;
-Čeavetjávri;Proper noun;;Sevettijärvi (Finland) ;
-Čeađevággi;Proper noun;;Skognesdalen (Tromsø) ;
-Čiekŋalvággi;Proper noun;;Signaldalen (Storfjord) ;
-Čielgevuotna;Proper noun;;Ryggefjorden (Måsøy) ;
-Čievččasvággi;Proper noun;;Isdalen (Målselv) ;
-Čižževuotna;Proper noun;;Spurvfjorden (Sør-Varanger) ;
-Čoahkenvuotna;Proper noun;;Oterfjorden (Sør-Varanger) ;
-Čoarddavággi;Proper noun;;Finnskaret (Balsfjord) ;
-Čoađgevággi;Proper noun;;Tjårdadalen (Narvik) ;
-Čohkaláhttá;Proper noun;;Store Latøya;
-Čohkkiras;Proper noun;;Jukkasjärvi (Sverige) ;
-Čorgaš;Proper noun;;Nordkinn (Finnmark) ;
-Čunovággi;Proper noun;;Altevasskardet (Målselv) ;
-Čuolejávri;Proper noun;;Tjuolisjärvi;
 Čuollovuotna;Proper noun;;Tarmfjorden (Tana) ;
-Čuolovuotna;Proper noun;;Holmfjord (Porsanger) ;
-Čuonjávággi;Proper noun;;Sennedalen (Tromsø) ;
-Čuovgavuotna;Proper noun;;Selvika (Måsøy) ;
-Čáhcegárnjárga;Proper noun;;Vidjenes;
-Čáhcesuolu;Proper noun;;Vadsø (Vadsø) ;
-Čáhcevággi;Proper noun;;Vassdalen (Balsfjord) ;
-Čáhppesmearra;Proper noun;;Svartehavet;the Black Sea
-Čáhppesnjárga;Proper noun;;Svartnes;
-Čáhppesvággi;Proper noun;;Svartdalen (Lenvik) ;
-Čávkkus;Proper noun;;Oteren (Storfjord) ;
 čatnat;Verb;;å binde, å forbinde, å kople;
 čadnot;Verb;;å knyttes til;
 čagaldahkes;Adjective;;kilen;definite singular of kile
@@ -9906,8 +9275,6 @@ váŋkái;Adjective;;kraftig, røslig;
 čázet;Noun;;komag, sommerkomag;
 čázádat;Noun;;vassdrag, vassfar;
 čáđbmi;Noun;;fregne;freckle
-Šortavággi;Proper noun;;Vassvikdalen, s (Hammerfest) ;
-Šveica;Proper noun;;Sveits;Switzerland
 šaddat;Verb;;å vokse;
 šaddadit;Verb;;å dyrke;
 šaddanbeaidoalut;Noun;;bursdagsselskap;

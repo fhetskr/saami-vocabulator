@@ -168,7 +168,7 @@ class LuleDictReader(HTMLParser):
 		if tag == 'tr':
 			self.reading_entry = False
 			self.td_num = 0
-			if self.entries and not self.entries[-1].word:
+			if self.entries and ((not self.entries[-1].word) or len(self.entries[-1].word) == 1):
 				self.entries.pop()
 		if tag == 'td':
 			self.spans_seen = 0
@@ -252,24 +252,14 @@ def findNorwegianTranslations(word_list):
 			# if something doesn't work then just ignore it
 			pass
 
-
+psm_words = readWordlistFile('pite_saami_wordlist.txt')
 lsm_words = readWordlistFile('lule_saami_wordlist.txt')
-
-# get the pite saami data
-page_html = ''
-# in the final version the script will download assets if needed
-with open('pite_wordlist.html', 'rb') as f:
-	page_html = f.read().decode()
-reader = PiteWordlistReader()
-psm_words = reader.feed(page_html)
-writeWordlistFile(psm_words, 'pite_saami_wordlist.txt')
-
-# get the north saami data
 nsm_words = readWordlistFile('north_saami_wordlist.txt')
 
-print("There are {} words in the Pite Saami dictionary, and {} in the North Saami one\n".format(len(psm_words), len(nsm_words)))
+print("There are {} words in the Pite Saami dictionary, {} in Lule, and {} in the North Saami one\n".format(len(psm_words), len(lsm_words), len(nsm_words)))
 
 pite_matches_so_far = []
+lule_matches_so_far = []
 north_matches_so_far = []
 # I picked this list totally arbitrarily, but it has given decent results
 threshholds = [1.0, 0.95, 0.9, 0.8, 0.7, 0.6, 0.5]
@@ -285,8 +275,10 @@ for similarity_threshold in threshholds:
 	psm_pos_counter = {}
 	nsm_pos_counter = {}
 	psm_words_matched = []
+	lsm_words_matched = []
 	nsm_words_matched = []
 	pite_new_counter = 0
+	lule_new_counter = 0
 	north_new_counter = 0
 	f.write(('-' * 80) + '\n')
 	
@@ -294,7 +286,7 @@ for similarity_threshold in threshholds:
 	f.write('New Pite Saami words matched:\n\n')
 	for entry in psm_words:
 		# check if the Pite Saami words match at the current similarity threshold
-		if similar(entry.word, entry.translations.get('swe')) >= similarity_threshold and entry.pos != 'Proper noun':
+		if similar(entry.word, entry.translations.get('swe')) >= similarity_threshold:
 			psm_words_matched.append(entry.word)
 			if (not entry in pite_matches_so_far):
 				pite_matches_so_far.append(entry)
@@ -309,12 +301,24 @@ for similarity_threshold in threshholds:
 		len(psm_words_matched), (len(psm_words_matched) / len(psm_words)) * 100, pite_new_counter, similarity_threshold * 100))
 	for pos in psm_pos_counter:
 		f.write("{}: {} ({:.2f}%)\n".format(pos, psm_pos_counter[pos], (psm_pos_counter[pos]/len(psm_words_matched)) * 100))
-	f.write('\n')
+	f.write('\n\n')
 
+	f.write('New Lule Saami words matched:\n\n')
+	for entry in lsm_words:
+		if similar(entry.word, entry.translations.get('nor')) >= similarity_threshold:
+			lsm_words_matched.append(entry)
+			if (not entry in lule_matches_so_far):
+				lule_matches_so_far.append(entry)
+				lule_new_counter += 1
+				f.write('{} - {}\n'.format(entry.word, entry.translations['nor']))
+	f.write('\n{} words matched ({:.2f}%, {} new) for Lule Saami at the {}% threshold\n\n'.format(
+		len(lsm_words_matched), (len(lsm_words_matched) / len(lsm_words)) * 100, lule_new_counter, similarity_threshold * 100))
+			
+	
 	f.write('\nNew North Saami words matched:\n\n')
 	for entry in nsm_words:
 		# now check the North Saami words
-		if similar(entry.word, entry.translations.get('nor')) >= similarity_threshold and entry.pos != 'Proper noun':
+		if similar(entry.word, entry.translations.get('nor')) >= similarity_threshold:
 			nsm_words_matched.append(entry)
 			if (not entry in north_matches_so_far):
 				north_matches_so_far.append(entry)

@@ -29,11 +29,8 @@ agev;Adverb;alltid, jämt och ständigt;alltid, jamt og bestandig;always, contin
 ágŋobessudaga;Noun;årtullar på båt, av björkvidja;tollegang av bjørk;oarlocks made of birch switch
 ágŋobessudak;Noun;årtull på båt, av björkvidja;tollegang av bjørk;oarlock made of birch switch
 agŋot;Verb;sträcka sig upp, sträcka sig efter något;;stretch, reach for something
-Áhkábákkte;Proper noun;Áhkábákkte;;
 áhkarmuärrje;Noun;åkerbär;åkerbær;arctic raspberry
 áhkatj;Noun;maka, hustru, fru;ektemake, hustru, frue;wife
-Áhkávárák;Proper noun;Akkavarebor;;inhabitant of Akkavare
-Áhkávárre;Proper noun;Akkavare;;
 áhkká;Noun;mormor, farmor, nära äldre kvinnlig släkting, även gudinna;mormor, farmor, nær eldre kvinnelig slektning;grandmother, closely related older female family members, goddess
 áhkkám;Noun;min fru  [áhkká:;;my wife
 áhpe;Noun;stor myr;stor myr;big marsh
@@ -100,7 +97,6 @@ aj;Adverb;också;også;also, too
 akademiker;Noun;akademiker;akademiker;academic
 ákksjo;Noun;yxa;øks;ax
 ákksjoájjvo;Noun;yxegg;økseegg;edge of an ax blade
-Ákksjotjålbme;Proper noun;Ákksjotjålbme;;
 akkta;Numeral;ett;en;one
 akkta bále;Other;en gång;på en gang;once, one time
 akkta dajvan;Other;på ett ställe;på en plass;in one place
@@ -127,7 +123,6 @@ akktalåkvuostas;Numeral;elfte;ellevte;eleventh
 akktalåkåktsát;Numeral;nittonde;nittende;nineteenth
 akktalåkåktse;Numeral;nitton;nitten;nineteen
 akkusatijjva;Noun;ackusativ;akkusativ;accusative
-Aksamnjárrga;Proper noun;Vaksamnjárgga;;
 aksjuvdna;Noun;auktion;auksjon;auction
 aksågájk;Adverb;detsamma;det samme;nevermind, it's all the same
 aktajienak;Noun;entonig;ensformig;monotonous
@@ -161,11 +156,9 @@ aldagis;Noun;blixt;lyn;lightning, flash
 áldar;Noun;ålder;alder;age
 aldas;Noun;ovanläder på framdelen av en sko;overlær på framdelen av en sko;leather on front top part of shoe
 aledit;Verb;befordra, höja, höja priset;befordre;promote, raise, increase the price
-Aleldis;Proper noun;Örnvik;;
 alemus;Adjective;längst västerut, västligaste;lengst vest, vestligste;most westward
 alep;Adjective;västra, västligare;vestligere;western, westerly
 alep fábmo;Other;högre makt;høyere makt;higher power
-Alesgiehtje;Proper noun;Västerfjäll;;
 alfabähtta;Noun;alfabete;alfabetet;alphabet
 álgeduvvuja;Verb;påbörjas;begynner;began
 álgeduvvut;Verb;påbörja;begynne;begin
@@ -234,9 +227,6 @@ anedit;Verb;hålla i, hålla fast;holde i, holde fast;hold on to
 anedit tjåhken;Other;hålla ihop;hålle sammen;keep together
 aneduvvum;Verb;begagnats, använts;oppbrukt, ødelagt;used
 ánjas;Noun;sena i fram- och bakben;sene i fram- bakbein;leg tendon
-Ánna;Proper noun;Anna;;Anna
-Ánnda;Proper noun;Anders;;Anders
-Ánnde;Proper noun;Anders;;Anders
 áno;Verb;du ber om något, tigger;du ber om noe, tigger;you request
 ánodallat;Verb;tigga flera gånger;tigge flere ganger;request several times
 ánode;Verb;de ber om något, tigger;de ber om noe, tigger;they request
@@ -268,13 +258,7 @@ arbmo;Noun;nåd, barmhärtighet;nåde, barmhjertighet;mercy
 arbmogasstet;Verb;förbarma;forbarme;take mercy upon
 arbmogisvuohta;Noun;barmhärtighet;barmhjertighet;mercy
 árbålmáj;Noun;änkeman;enkemann;widower
-Árdna;Proper noun;Árdna;;Árdna
 árdnas;Noun;örn;ørn;eagle
-Árjapluovek;Proper noun;arjeplogsbo;innbygger i Arjeplog;inhabitant of Arjeplog
-Árjapluovve;Proper noun;Arjeplog;;
-Árjeluovve;Proper noun;Arjeplog;;
-Árjepluovek;Proper noun;arjeplogsbo;innbygger i Arjeplog;inhabitant of Arjeplog
-Árjepluovve;Proper noun;Arjeplog;;
 armov vaddet;Other;benåda;benåde;pardon
 árodit;Verb;sinka, fördröja;sinke;stall
 árrabävvla;Noun;tidig barmark;tidlig barmark;bare ground early in the season
@@ -313,7 +297,6 @@ arrvat;Other;pigg;opplagt, våken, klar;alert, awake
 árrvopåsstå;Noun;värdepost;verdipost;certified mail
 artånåsse;Noun;dränglön i form av slaktren;lønn til dreng i form av en slaktet rein;payment for a reindeer hand in form of a slaughtered reindeer
 árvas;Adjective;givmild, generös;gavmild, generøs;generous
-Árves;Proper noun;Árves;;
 ásaldit;Verb;trä upp nät på nätpinne eller finger;tre garn på garnpinne;string up fishing net
 ásatjit;Verb;anskaffa lite eftersom;skaffe litt ettersom;procure a little bit at a time
 asedis;Adjective;tunn;tynn;thin
@@ -572,7 +555,6 @@ barrgobäjjve;Noun;arbetsdag;arbeidsdag;workday
 barrgosadje;Noun;arbetsplats;arbeidsplass;workplace
 barrgovadde;Noun;arbetsgivare;arbeidsgiver;employer
 barrjedit;Verb;svära;bannskap;swear, curse
-Bárrka;Proper noun;Bárrka;;Bárrka
 bárrko;Noun;bark;bark;bark
 bárro;Noun;våg på vatten;bølge på vannet;wave
 barrte;Noun;krångligt fjäll;vanskelig fjell;difficult mountain
@@ -616,14 +598,12 @@ basskedit;Verb;göra trängre, förminska;lage trangere, forminske;make tighter,
 basstel;Adjective;vass;kvass;sharp
 basstelis;Adjective;vass;kvass;sharp
 basstu;Noun;bastu;badstue;sauna
-Bassåjjve;Proper noun;Bassåjjve, heliga fjället;;
 bateridja;Noun;batteri;batteri;battery
 bátjastit;Verb;skadeskjuta;skadeskyte;wound by shooting
 bátsadis;Noun;kvarbliven sak eller mat;restemat eller ting som har blitt til overs;remainder, leftover
 bavredis;Adjective;kavat, pigg;modig, dristig;awake, alert
 bavredit;Verb;piggna till, kvickna till;bli opplagt;become alert
 bavrek;Noun;kavat, pigg person;modig, dristig;awake, alert person
-Bávval;Proper noun;Paul;;Paul
 bavvre;Adjective;kavat, pigg;modig, dristig;awake, alert
 bebbmusbåtsoj;Noun;matren;matrein;reindeer intended as food
 beddit;Verb;bädda;re seng;make a bed
@@ -655,14 +635,12 @@ bessuga;Noun;långa smala ungbjörkar;lange smale ungbjørker;tall thin young bi
 bessuk;Noun;lång smal ungbjörk;lange smale ungbjørker;tall thin young birch tree
 bevkudit;Verb;ripläte;rype som låter;chirp
 bibliotähkka;Noun;bibliotek;bibliotek;library
-Bidám;Proper noun;Piteå;Piteå;Piteå
 biddjudit;Verb;bli varande;bli værende;come into existence
 bidduma;Noun;styrfjäder på sjöfågel;styrefjær på sjøfugl;guide feather on a sea bird
 biddusåhkko;Noun;tovad strumpa, tovad socka;tovet strømpe;felt socks
 bidjudit;Verb;bosätta, bli bofast;bosette seg, bli bofast;settle
 bidtjársábme;Noun;samisk nybyggare;nybygger;Saami settler
 bidtjit;Verb;bygga;bygge;build
-Bidumiedno;Proper noun;Pite älv;Pite elv;Pite river
 biebmodak årrot;Other;fasta;faste;fast
 biebmojt;Noun;maten;maten;food
 biebmov lieggistit;Other;värma maten snabbt;varme mate raskt;warm food up quickly
@@ -710,7 +688,6 @@ bielhäggaj;Noun;springa av rädsla tills man stupar;springe i redsel til man ko
 bieljedak;Noun;person som hör dåligt;hører dårlig;person who is hard of hearing
 bieljeduhttet;Verb;göra döv;;deafen, make deaf
 bieljeduvvut;Verb;bli döv;bli døv;become deaf
-Bieljegájjse;Proper noun;Pieljekaise;;
 bielkajga;Verb;de två kom i dispyt;de to havnet i diskusjon;those two argued
 bielkatjit;Verb;smågräla;småkrangle;argue a little bit
 bielle;Noun;sida, halvdel;side;side, half
@@ -722,7 +699,6 @@ Bienomässo;Noun;Böndagshelgen;;
 bieras;Adverb;med rätta, borde rätteligen;burde;rightly, ought to
 bierdnes;Noun;mittenplatta på skidor, där skorna sitter;bindingen på ski;mid-plate on skis where shoes are placed
 bierjas;Noun;skynke över rökhålet i tältkåtan vid regn;duk over røykhullet i lavvo;cloth rain covering smoke hole in a tent kåta
-Bierok;Proper noun;Per;;
 biessat;Verb;slippa, komma lös;slippe;escape, come loose
 bietsastak;Noun;tät tallskog;tett furuskog;dense pine forest
 bievas;Noun;svett;svett;sweat
@@ -781,7 +757,6 @@ birrgin;Verb;vi två arbetar;vi to jobber;we two work
 birrgin;Verb;de arbetade;de jobbet;they worked
 birrgiv;Verb;jag arbetade;jeg jobbet;I worked
 birrso;Noun;bössa, gevär;børse, gevær;gun, rifle
-Birrumaiedno;Proper noun;Pite älv;Pite elv;Pite river
 bisij;Verb;han stekte;han/hun stekte;
 bisijdin;Verb;ni två stekte;dere to stekte;
 bisijdä;Verb;ni stekte;dere stekte;
@@ -805,9 +780,6 @@ bissmer;Noun;besman;bismer;steelyard
 bissot;Verb;förbli, bestå;bestå, forbli;remain
 bissti;Noun;sked;skje;spoon
 bistitj;Noun;tesked;teskje;teaspoon
-Bisum;Proper noun;Piteå;Piteå;Piteå
-Bisumiedno;Proper noun;Pite älv;Pite elv;Pite river
-Bisumist;Proper noun;från Piteå  [Bisum:;;
 bitjádit;Verb;pipa till, gnälla till;klynke, pistre;complain
 bitjas;Adjective;skrikig, gnällig;sutrete, masete, om barn;screaming, whining
 bivdár;Noun;jägare, fiskare;jeger, fisker;hunter, fisherman
@@ -1184,7 +1156,6 @@ bällogahttet;Verb;kasta något på någon;kaste noe på noen;throw something at
 bällolådde;Noun;blåhake;blåstrupe;bluethroat
 bällotjuojadem;Noun;klockklang;klokkeklang;ring of a bell
 bälltse;Noun;midja;midje;waist
-Bäno;Proper noun;Bäno;;
 bäŋŋka;Noun;bänk;benk;bench, couch
 bär;Adverb;bara;bare;only
 bärdna;Noun;björn; nalle;bjørn; bamse;bear; teddy
@@ -1344,7 +1315,6 @@ dan mieren;Other;vid den tidpunkten;på det tidspunktet;at that moment
 dan nala;Other;på den;på den;onto that
 danen;Adverb;därför;derfor, fordi;because
 danen gu;Other;eftersom;ettersom;because, since
-Danmarrka;Proper noun;Danmark;Danmark;Denmark
 dánne;Adverb;här;her;here
 danne;Adverb;där;der;there
 dánnsa;Noun;dans;;dance
@@ -1730,7 +1700,6 @@ därrulatj;Noun;en svenst eller en norrman;;Swede or Norwegian
 därustit;Verb;tala svenska/norska;;speak Swedish/Norwegian
 däsi;Other;på det här;på det her;onto/into/towards this
 dässátjij;Conjunction;till dess;til da;until
-Dävit;Proper noun;David;;
 eddnu;Noun;morbror;onkel;maternal uncle
 ednu;Noun;morbröder;onkler;maternal uncles
 ehpen vuolge;Other;ni två far inte;dere to drar ikke;you two don’t go/drive
@@ -1812,7 +1781,6 @@ fillta;Noun;filt;filt, pledd;blanket
 firkudit;Verb;skaka om;riste;shake
 firrkut;Verb;skaka;skake, riste;shake
 flággá;Noun;flagga, fana;flagg, fane;flag
-Frankrijjka;Proper noun;Frankrike;Frankrike;France
 fruvva;Noun;fru;frue;wife
 fräkktit;Verb;frakta, transportera;;transport, haul
 fuabbmát;Verb;komma på;komme på en idé, forstå;realize
@@ -1977,7 +1945,6 @@ gallen;Other;vilken tid, när;når;when
 gálles;Noun;bemärkt person;bemerket/betydningsfull person;notable person
 galles;Other;hur många personer;hvor mange personer;how many people
 galles lä sija?;Other;hur många är de?;hvor mange er de?;how many are they
-Gállesbuavvda;Proper noun;Galtispuoda;;
 gállet;Verb;vada;vade;wade
 gallga;Verb;han ska;han/hun skal;he/she shall
 gallgat;Verb;ska, skall;skal;shall
@@ -2036,7 +2003,6 @@ garrasumos;Adjective;hårdast;hardest;hardest
 garrasup;Adjective;hårdare;hardere;harder
 gárrat;Verb;snöra fast, spänna fast;snøre fast, spenne fast;tie together
 gárrde;Noun;stängsel, led, hage;gjerde, innhegning;fence, pen, corral
-Gárrdevárre;Proper noun;omgärdat fjällområde;gjerde rund fjellområde;fenced in mountain area
 garrdo;Noun;kropp, människokropp;kropp, menneskekropp;body
 gárre;Noun;skål;skål;bowl
 gárrgá;Noun;ett spår där flera djur gått;et spor der flere dyr har gått;a trail made by animals
@@ -2145,7 +2111,6 @@ gessut;Verb;dragas, släpas;dras, slepes;be drawn, be pulled
 getjukmiesse;Noun;omärkt kalv;kalv som ikke er merket;unmarked calf
 gev;Other;vem ACK;hvem;whom, whoACC
 gibbnjet;Verb;hänga ut;henge ut;hang up
-Gibbnu;Proper noun;Stenudden;;
 gibmat;Verb;para sig;pare seg;mate
 gibme;Noun;tjädervin, tjäderspel;tiurleik;capercaillie's mating display
 gibmo;Noun;kopparkittel som ärgar;kopper som har irret;copper kettle with a patina
@@ -2378,7 +2343,6 @@ guardnjot;Verb;klättra, kliva upp;klatre, klyve opp;climb up
 guarrba;Noun;brände;brent område, etter skogsbrann;burned area
 guarrbabádne;Noun;ond vargtand;`ond ulvetann`;evil wolf’s tooth
 guarrbaiednam;Noun;brände, bränt område;et brent område;burned land
-Guarrbanjárrga;Proper noun;Brännudden;;
 guarrga;Noun;trana;trane;crane
 guassŋadit;Verb;fastna i nät;fisk går seg fast i garn;become caught in a net
 guassot;Verb;gästa;;be a guest, visit
@@ -2425,7 +2389,6 @@ guhtik;Other;någon som helst, ingen;ingen;anyone
 guhtjudit;Other;kalla för något, omtala som;;name, let something be known as, call
 guhtse;Noun;första tunna snötäcket;det første tynne snødekket;first thin blanket of snow
 guhttjun;Verb;de kallade, de uppmanade;de oppmuntret;they called
-Gujjávvre;Proper noun;Gujjávvre;;
 gujjvidin;Verb;började gräva;reinene begynte å grave;began digging
 gujjvun;Verb;de grävde;de gravde;they dug
 gujt;Adverb;i alla fall;i alle fall;nevertheless, at least
@@ -2504,8 +2467,6 @@ guoktejagak;Noun;tvååring;toåring;two-year-old
 guoktes;Noun;två personer;de to;twosome
 guolban;Noun;slät tallhed;slett furumo;flat pine heath
 guolbaniednam;Noun;hedland;mo- landskap;heath, heathland
-Guoledis;Proper noun;Guoletisjávvre, 'fisklös';;Guoletisjávvre
-Guoledisjávvre;Proper noun;Guoletisjávvre;;
 guolgajt luäjjtet;Other;släppa hår, ex. om hund;slippe hår;loose hair or fur
 guoljastij;Other;renen lyfte något med hornen;reiner løfter noe med hornene;
 guoljastit;Verb;lyfta något med hornen;løfte noe med hornene;lift with antlers
@@ -2603,7 +2564,6 @@ gåbbákbielen;Noun;på bägge sidor;på begge sider;on both sides
 gåbbákbielle;Noun;en av två sidor;på begge sider;one of two sides
 gåbbátjak;Adjective;båda två;begge to;both
 gåbbátjist ådtjoj;Other;han fick av båda två;han fikk av begge;he/she received smth from both
-Gåbbdá;Proper noun;Gåbbda;;Gåbbda
 gåbbdá;Noun;spåtrumma, trumma;runebomme, tromme;drum
 gåbbde;Noun;bärighet;bæreevne;buoyancy
 gåbbdot;Verb;flyta, driva;flyte, drive;float, drift
@@ -2863,7 +2823,6 @@ hállon;Noun;hallon;bringebær;raspberry
 hállona;Noun;hallon;bringebær;raspberries
 hállva;Adverb;nästan;nesten;almost
 hállva jáhkáv;Other;jag tror nästan;nesten;I almost think/believe
-Halvar;Proper noun;Halvar;;
 hánes;Adjective;snål, girig;gjerrig, gnien;stingy, greedy
 hápkedit;Verb;tappa andan;miste pusten;loose one's breath
 happsa;Noun;färsk renspillning sommartid;fersk reinskit;fresh reindeer scat in summer
@@ -2933,7 +2892,6 @@ hilltomuorra;Noun;tibast;tysbast;mezereon
 hilsiga;Noun;hälsning;hilsen;greeting
 himmsit;Verb;oreda;uorden;mess
 hinnit;Verb;hinna, hinna i tid;rekke, komme tidsnok;manage on time
-Hiŋŋga;Proper noun;Hinga;;Hinga
 hippsin;Verb;de luktade, de vädrade;de luktete, været;they smelled
 hipsijdit;Verb;lukta fränt;lukte sterkt;smell strongly, stink
 hipsijdit;Verb;sprida lukt, lukta;spre lukt, lukte;smell, stink
@@ -3012,7 +2970,6 @@ härluk;Adjective;härlig;herlig;wonderful
 härrá;Noun;präst;prest;pastor
 härrge;Noun;tamren, härk;tamrein;domestic reindeer buck, castrated reindeer buck
 härrgebällo;Noun;härkskälla;bjelle til hannrein;reindeer bull’s bell
-Härrgevárre;Proper noun;Renberget;;
 härridit;Verb;härma;herme;imitate
 hässin;Other;hässja;hessje;hang up hay to dry
 hässta;Noun;häst;hest;horse
@@ -3173,7 +3130,6 @@ inijga;Verb;de två hade;de to hadde;those two had
 inijga;Verb;de två hade;de hadde;those two had
 inijmin;Verb;vi två hade;vi to hadde;we two had
 inijmä;Verb;vi hade;vi hadde;we had
-Inntjáválle;Proper noun;Älvsbyn;;
 inuijjta;Noun;inuit;inuitt;Inuit
 iret;Noun;i morgon;i morgen;tomorrow
 irrge;Noun;fästman;kjæreste, forloved;fiancé, future husband
@@ -3282,7 +3238,6 @@ juges;Adjective;fyllerist, alkoholist;fyllik, alkoholiker;alcoholic, drunkard
 jugestit;Verb;ta en klunk;ta en slurk;sip
 jugglo;Noun;ungar, barn;unger, barn;youth, child
 jugos;Noun;öl, vin, juice, dryck;drikk;drink, beverage
-Juhán;Proper noun;Johan;Johan;John
 juhkamgukkse;Noun;kosa att dricka ur;trekopp til å drikke av;scoop for drinking
 juhkamlihtte;Noun;mugg, dryckeskärl;kopp, drikkekar;mug, drinking vessel
 juhkat;Verb;dricka;drikke;drink
@@ -3351,7 +3306,6 @@ jåhkå;Noun;bäck;liten elv, å;stream, creek
 jåhkågádde;Noun;vid bäcken;ved bekken;bank of a stream
 jåhkågádden;Noun;vid bäcken;ved bekken;next to a stream
 jåhkåj;Noun;till bäcken;til bekken;too a stream
-Jåhkåmåhkke;Proper noun;Jokkmokk;;
 jåhtej;Noun;flyttare;;mover, a person migrating
 jåhteje;Adjective;flyttare;;mover, a person migrating
 jåhtem;Noun;flyttning;flytting;migrating, move
@@ -3360,14 +3314,12 @@ jåhtet;Verb;flytta;flytte;move, migrate
 jåhttájiv;Verb;jag började flytta;jeg begynte å flytte;I began to move
 jåhttát;Verb;börja flytta;begynne flytte;begin moving, begin migrating
 jåkksåt;Verb;hinna i kapp, hinna, fånga;nå igjen, ta igjen;catch up, manage on time, catch
-Jåkmåhkke;Proper noun;Jokkmokk;;
 jåksådallat;Verb;hinna i kapp;nå igjen noe eller noen;catch up
 jåksådit;Verb;hinna fram;rekke fram;catch up
 jållárit;Verb;snurra runt;snurre rundt;spin around
 jållebåtsoj;Noun;ren med fett, en bra matren;en mager rein;fat reindeer, a good reindeer for eating
 jålåsájjdo;Noun;renspår, hårt upptrampat renspår;hardt nedtrampet spor etter rein;reindeer trail, compacted reindeer trail
 jålåsláhtto;Noun;spår, färskt spår på snön;fersk spor i snøen;track, fresh track in the snow
-Jånnå;Proper noun;Jon, Jonas, osv.;;
 jårgedit;Verb;vända om, återvända;snu om, vende tilbake;turn around
 jårrbå;Adjective;rund, odelad;rund, udelt;round, undivided
 jårrbå gadtsa;Other;rundklöv;hov;rounded hoof, hoofed animal
@@ -3379,7 +3331,6 @@ jårrgát;Verb;vända om;vende, snu;turn over
 jårrgålit;Verb;vända, översätta;snu, oversette;turn, translate
 jårråt;Verb;ramla, snubbla, falla omkull;ramle, snuble;fall over
 jårådit;Verb;falla omkull flera gånger;ramle;fall over repeatedly
-Jåssjå;Proper noun;Josua;;Joshua
 jåvdålis;Other;omständlig, utförlig;omstendelig;complicated
 jåvvgot;Verb;bli igensnöad;bli igensnødd;get snowed in
 jåvvlå;Noun;jul;jul;Christmas
@@ -3390,7 +3341,6 @@ jåvvlåguossa;Noun;julgran;juletre;Christmas tree
 jåvvlåidja;Noun;julnatt;julenatt;Christmas night
 jåvvlåmánno;Noun;december;desember;December
 jåvvlåt;Verb;säga, yttra;si, ytre, uttale;say, utter, pronounce
-Jåvvná;Proper noun;Jonas;Jonas;Jonas
 jäbba;Adjective;blyg;blyg, sjenert;shy
 jägge;Noun;myr, myrmark;myr;marsh, bog
 jäggemuorje;Noun;tranbär;tranebær;bog cranberries
@@ -3424,7 +3374,6 @@ kano;Adverb;kanske;kanskje;maybe
 kánser;Noun;cancer;cancer;cancer
 karaalmatj;Noun;mansperson;mannsperson;male, man
 katetjiesa;Noun;katekes;katekisme;catechism
-Katrijdna;Proper noun;Katrin;;
 klabjobägga;Noun;virvelvind;virvelvind;whirlwind, tornado
 klavdadit;Verb;lufsa;luske;lumber
 klihtar;Noun;kreatur, boskap;kreatur, buskap;creature, livestock
@@ -3439,15 +3388,12 @@ komuvdna;Noun;kommun;kommune;municipality
 konjáhkka;Noun;cognac;konjakk;cognac
 krádjat;Verb;grymta, om vajor och kalvar;grynte;grunt
 kráhka;Noun;krage;krage;collar
-Krájja;Proper noun;Kraja;;Kraja
 krákksot;Verb;kraxa;krakse;croak, caw
 krakktjot;Verb;kräva någon;kreve;need someone
-Kráktergruobba;Proper noun;Fjällfors;;
 krápptat;Verb;tolerera;tolerere;tolerate
 krápptjoga;Noun;handskar;hanske;leather gloves
 krápptjot;Verb;krama, mjuka upp skinnhandskar;klemme, myke opp skinnhansker;soften leather gloves
 kráptjok;Noun;handska;hanske;furless leather glove
-Krehtta;Proper noun;Greta;;Greta
 krikksja;Noun;kricka;krikkand;common teal
 kristagis;Adjective;kristen;kristen;Christian
 kristáhttje;Noun;gudfar;gudfar;godfather
@@ -3488,7 +3434,6 @@ kårrjå;Noun;korg;korg;basket
 käffidit;Verb;ta en kaffepaus, fika;koke kaffe, ta kaffepause;take a coffee break
 källi;Noun;man, gubbe;mann, gubbe;man, old man
 kämmpit;Verb;kamma;kamme;comb
-Lábbás;Proper noun;Labbas;;
 lábbla;Noun;isvakar;isråk;holes in the ice
 labmahit;Verb;ligga under skydd, t.ex. under utskjutande sten;ligge i ly;lay under a shelter, e.g. under an overhang
 ladas;Noun;ledknöl;leddknokkel på rein;joint
@@ -3563,7 +3508,6 @@ lassánit;Verb;öka, bli fler;øke, bli flere;increase, gain
 lasse;Noun;tillägg, något mera;tillegg, noe mer;supplement, addition
 lásse;Noun;lås;lås;lock
 lasska;Noun;vävt band längst ner på kvinnokolten;;woven band at the bottom of a woman's Saami frock
-Lassko;Proper noun;Lasko;;
 lassta;Noun;löv, blad;løv;leaf
 lasstavuobme;Noun;lövskog;lauvskog;deciduous forest
 lastabijjla;Noun;lastbil;;truck
@@ -3806,7 +3750,6 @@ lärrkit;Verb;fara illa;skade seg;fare badly
 lärrkit;Verb;fara illa;skade seg;not fare well
 läsjmudallat;Verb;sträcka på benen en stund;strekke på bena en stund;stretch one’s legs briefly
 läsjmudit;Verb;gymnastisera;trene, gjøre gymnastikk;exercise
-Lässe;Proper noun;Lasse, Lars;Lasse, Lars;Lars
 lässiji dån?;Other;låste du?;låste du?;did you lock?
 lässim;Verb;låst;har låst;locked
 lässit;Verb;låsa;låse;lock
@@ -3877,7 +3820,6 @@ mállegámmsa;Noun;blodpalt;blodklubb;blood dumpling
 mállegurrva;Noun;blodkorv;blodpølse;blood sausage
 mállen;Noun;blodig;blodig;bloody
 málletjåjjve;Noun;blodmage;blodmage;blood stomach
-Maltegis;Proper noun;Maltegis;;Maltegis
 man;Adverb;hur;;how
 man dihta;Other;varför det?;hvorfor det?;how come, why
 man ednak;Other;hur mycket;hvor mye;how much
@@ -3954,8 +3896,6 @@ mastadit;Verb;sammanblandas;sammenblandes;be mixed together
 mav;Other;vad;hva;what
 mav dån hålå?;Other;vad säger du?;hva sier du?;what are you saying?
 mava;Other;vad;hva;what
-Mávas;Proper noun;Mavas;;Mavas
-Mávasjávvre;Proper noun;Mavasjaure;;Lake Mavas
 mavdas;Other;Vad göra?;hva gjør vi?;what shall we do?
 mavvas;Other;vad då då?;hva da?;what then?
 mehtir;Noun;meter;meter;meter
@@ -4244,8 +4184,6 @@ mällgat;Adjective;långt;langt;far
 mällit;Verb;mala kött, kaffe;male for eksempel kjøtt eller kaffe;grind meat or coffee beans
 mällke;Noun;mjölk;melk;milk
 mällkebádne;Noun;mjölktand;melketann;baby tooth
-Märrgi;Proper noun;Margareta;Margareta;Margareta
-Märrgit;Proper noun;Margareta;Margareta;Margareta
 märrka;Noun;märke;merke;mark
 märrkadåbbde;Noun;renmärkeskännare;en som kjenner igjen reinmerker;person knowledgable about reindeer earmarks
 märrkot;Verb;märka renkalvar;merke;mark reindeer calves
@@ -4285,7 +4223,6 @@ nállam;Noun;avkapning;avkappet ende;cutting off
 nállat;Verb;kapa;kappe av;cut off
 nállo;Noun;nål, synål;nål, synål;needle
 nállogåhte;Noun;nålhus av horn;nålehus av horn;needle cover made of antler
-Namadis;Proper noun;Namatisfjäll, 'namnlös';;
 namajn dårrjot;Other;borga;gå god for;vouch
 námak;Noun;svidknott;knott;biting midge
 namav vaddet;Other;ge ett namn;gi et navn;give a name
@@ -4421,7 +4358,6 @@ njammat;Verb;suga;suge;suck, suckle
 njára;Noun;halskött på ren;halskjøtt på rein;neck meat on a reindeer
 njárrbe;Adjective;svag, tunn;svak, tynn;weak, thin
 njárrga;Noun;udde;odde, nes;point, cape
-Njassja;Proper noun;Njassja;;Njassja
 njávvastit;Verb;jama;mjaue;meow
 njávve;Noun;halshår på djur;håret på halsen på dyr;neck fur on an animal
 njavve;Noun;vatten som rinner över berghäll;strømdrag;running water over bare rock
@@ -4592,7 +4528,6 @@ nässte;Noun;matsäck;matsekk;food bag
 nässtebärrgo;Noun;kött i matsäcken;kjøtt i nistesekken;meat from a food bag
 nässtevuassa;Noun;matsäck;matsekk, nistesekk;food bag
 nävvre;Adjective;dålig, usel;dårlig, ussel;bad
-Oskar;Proper noun;Oskar;;Oscar
 páhper;Noun;papper, ark;papir, ark;paper
 pánna;Noun;panna, stekpanna;;pan, frying pan
 pansjuvdna;Noun;pension;pensjon;pension
@@ -4603,7 +4538,6 @@ perun;Noun;potatis;potet;potato
 perungavvla;Noun;potatisblast;potetkål ?;potato foliage
 perunjáffo;Noun;potatismjöl;potetmel;potato flour
 perunvuassa;Noun;potatissäck;potetsekk;potato sack
-Piera;Proper noun;Per;Per;Per
 pláhkodit;Verb;lägga sig raklång;strekke seg ut;lay stretched out
 plássá;Noun;centrum;tettsted, samfunn;downtown
 plásses;Noun;stenhäll;steinhelle, berg;stone slab
@@ -4635,7 +4569,6 @@ påjjkå;Noun;pojke;gutt;boy
 påsstå;Noun;post;post;mail, post
 pänna;Noun;penna;penn;pen
 raba njálmev;Other;öppna munnen, t.ex om fågelunge;åpne munnen for eksempel om fuglunge;open one's mouth
-Rabak;Proper noun;Rebakudden;;
 rabas;Adjective;öppen;åpen;open
 rabas tjáhtse;Other;öppet vatten;åpent vann;open water
 rábastit;Verb;borsta, sopa;børste, koste;brush, sweep
@@ -4732,7 +4665,6 @@ rássjodállke;Noun;regnväder;regnvær;rainy weather
 rássjodit;Verb;regna;regne;rain
 rássjogárrvo;Noun;regnkläder;regnklær;rain gear
 rássjotjalbme;Noun;regndroppe;regndråpe;raindrop
-Rasska;Proper noun;Rasska;;Rasska
 rastá;Other;över;over;across
 rátkam;Noun;renskiljning;reinskilling;dividing up a reindeer herd by owner
 rátkamnávvká;Noun;skiljningsskock av ren;skillningsflokk av rein;group of separated reindeer
@@ -4762,7 +4694,6 @@ riebaga;Noun;kött som förstörts av för mycket värme vid rökning i torvkåt
 riebak;Noun;kött som förstörts av för mycket värme vid rökning i torvkåta;kjøtt som har blitt ødelagt av for mye varme under røyking;meat which was ruined by too much heat during smoking
 riebe;Noun;rödräv;rødrev;red fox
 riebnes;Noun;öppning som är bunden till en sjö under?;en åpning som er knyttet til en sjø under;opening connected to a lake
-Riebnes;Proper noun;Riebnes;;
 riegádahttet;Verb;föda;føde, næring, mat;give birth to
 riegádimbäjjve;Noun;födelsedag;bursdag;birthday
 riegádimjahke;Noun;födelseår;fødselsår;year of birth
@@ -4846,7 +4777,6 @@ ruohtastit;Verb;rusa iväg;skynde seg av gårde;run away quickly
 ruojadit;Verb;skrika, vråla;;scream, cry
 ruojas;Noun;skoskaft;skaftet på skoen;shoe shaft
 ruojvedit;Verb;stycka kött;partere kjøtt;carve up meat, butcher
-Ruopsok;Proper noun;Ruopsok;;Ruopsok
 ruoptak;Noun;falshyvel;falshøvel;plane
 ruoptogäjdno;Noun;väg tillbaka, återväg;vei tilbake, tilbakevei;way back
 ruoptojt;Adverb;tillbaka;tilbake;back
@@ -4920,7 +4850,6 @@ råhto;Noun;videsnår;vidjekjerr, kratt;willow shrub
 råhtojägge;Noun;myr med videsnår;myr med vierkratt;marsh with willow brush
 råhtot;Verb;rycka upp med roten;røske opp med roten;pull up a root
 råme;Noun;kryp, insekt;kryp;bug, insect
-Råmmså;Proper noun;Tromsö;Tromsø;Tromsø
 råmmå;Noun;rum;rom;room
 råsodit;Verb;väcka flera gånger;vekke flere ganger;wake up repeatedly
 råssne;Noun;ånga från öppet vatten vid kyla;damp fra åpent vann ved frost;vapor from open water during cold weather
@@ -4963,7 +4892,6 @@ sádde;Noun;sand;sand;sand
 sáddebáhper;Noun;sandpapper;sandpapir;sandpaper
 sáddejallga;Noun;sandslätt;sandslette;sandbank
 sáddem;Noun;vassaste spetsen i rävklyka;kvasseste spissen i revetane;sharpest point in a fox trap
-Sádenåjjve;Proper noun;Sádenåjvve;;
 sadjáj;Noun;till en plats;til en plass;to a place
 sadjáj båhtet;Other;efterträda, istället för;etterfølge;replace, represent
 sadje;Noun;plats, ställe;plass, sted;place, location
@@ -5010,7 +4938,6 @@ sáhka;Noun;nyhet, meddelande;nyhet;news, message
 sáhkadallat;Verb;berätta;;tell a story, relate a story
 sáhkadit;Verb;samtala;samtale;converse
 sáhkaguäddej;Noun;budbärare;budbærer;messenger
-Sáhkavárre;Proper noun;Sáhkavárre;;
 sahkkedit;Verb;avla;avle;beget
 sáhko;Noun;såg;sag;saw
 sáhkotjavelk;Noun;mycket mager ren;svært mager rein;very thin, meager reindeer
@@ -5036,9 +4963,7 @@ sállte;Noun;salt;salt;salt
 sálltegárre;Noun;mortel;morter;pestle
 sállteguolle;Noun;saltfisk;saltfisk;salted fish
 sálltetjuhke;Noun;saltflaska av flätade rötter;saltflaske av flettede røtter;salt jar made of woven roots
-Sállvo;Proper noun;Sállvo;;Sállvo
 sallvo;Noun;glaciär, jökel;isbre;glacier
-Sállvojåhkå;Proper noun;Sállvobäck;;
 salpek;Noun;pryl av renhorn;syl av reinhorn;tool made of reindeer antlers
 salvogasska;Noun;glaciärspricka;isbresprekk;glacial crevasse
 sámástit;Verb;tala samiska;;speak Saami
@@ -5099,7 +5024,6 @@ sejbustallat;Verb;svansa sig;?;jump around and wag one's tail
 sejjgit;Verb;sträcka ut något, släta ut;strekke noe, slette noe;flatten out
 sejjgit;Verb;räta ut, släta ut, stryka m. strykjärn;strekke, stryke;flatten out, iron out
 sejvudallat;Verb;peka långt bort;peke langt bort;point far away
-Seldut;Proper noun;Skellefteå;;
 sellgit;Verb;förgifta;forgifte;poison
 sentimehtir;Noun;centimeter;centimeter;centimeter
 sibjuk;Noun;svåger till kvinna; svägerska till en man;svåger til kvinne;a woman's brother-in-law; a man's sister-in-law
@@ -5161,7 +5085,6 @@ sillbabissti;Noun;silversked;sølvskjed;silver spoon
 sillbagietsaldak;Noun;silverbälte;sølvbelte;silver belt
 sillbagukkse;Noun;silverkosa;sølvkokse;silver cup
 sillbagåhkkå;Noun;silverkrage;sølvkrage;silver collar on a Saami frock
-Sillbajåhkå;Proper noun;Silbojåkk;;
 sillbakráhkká;Noun;silverkrage;sølvkrage;silver collar on a Saami frock
 sillbakruähkke;Noun;silverhyska;sølvkrok;silver eyelet
 sillbamállje;Noun;silverspänne;sølvspenne;silver buckle
@@ -5456,7 +5379,6 @@ skäffut;Verb;skaffa, få tag på något;skaffe, få tak i noe;get, procure, obt
 skälbma;Noun;skurk, bedragare;skurk, bedrager;villain, crook
 skäŋŋka;Noun;gåva, present;gave, presang;gift, present
 skärre;Noun;dvärgbjörk;dvergbjørk;dwarf birch, Arctic birch
-Skärrfa;Proper noun;Skärrfa;;Skärrfa
 skävvdo;Noun;väska med sybehör;veske med sysaker;bag with sewing materials
 skävvgit;Verb;tillrättavisa;irettesette, forklare;admonish
 skävvit;Verb;skava, få skavsår;vommen på rein;chafe
@@ -5538,7 +5460,6 @@ smirrjo;Noun;smedja;smie;forge
 smirrjudit;Verb;röra ihop;røre sammen;mix up, blend
 smullke;Noun;snickna spån;spikker spon;wood chips
 smuŋŋit;Verb;fantisera, hitta på;fantasere, finne på;imagine
-Smuolle;Proper noun;Smolle;;
 smållek;Noun;splitter, skärva;;shard, splinter, fragment
 smållåt;Verb;slå sönder, söndra;knuse, ødelegge;break into pieces
 småredit;Verb;vakna till;våkne;wake up
@@ -5691,9 +5612,7 @@ stuorastallat;Verb;vara högdragen;hovmodig, overlegen;act superiorly
 stuoredit;Verb;förlänga, bredda, göra något större;forlenge, lage bredere eller større;increase in size
 stuoremus;Adjective;störst;størst;biggest
 stuores;Adjective;stor;stor;big
-Stuormo;Proper noun;Stormo;;
 stuornjálmak;Noun;storpratare;en som prater mye;someone who talks big or exaggerates
-Stuornjárrga;Proper noun;Stuornjárrga;;
 stuorra;Adjective;stor;stor, diger;big
 stuorrot;Verb;bli stor;bli stor;become big
 stuovas;Adjective;stadig, stabil;når reinen holder seg på en plass og beiter i ro og fred;stable, solid
@@ -5763,7 +5682,6 @@ sujessádje;Noun;läsida;lesiden;leeward side
 sujjtit;Verb;sköta om;pleie, stelle;take care of
 sujjto;Noun;ans, skötsel;pleie;care
 sujtár;Noun;skötare, vårdare;pleier, en som passer;herder, keeper
-Sulitjälbma;Proper noun;Sulitelma;;
 sullit;Verb;kladda, spilla, kleta;søle, grise;spill, drop, smear
 sullu;Noun;holmar, öar;holmer, øyer, skjær;islands
 sullutj;Noun;liten holme;liten holme;little island
@@ -5855,7 +5773,6 @@ svarátj;Noun;liten dallring;blod som pipler, liten skjelving;small vibration
 svargatj;Noun;fika, mellanmål;lite måltid, kaffepause;snack
 svarrat;Verb;sprattla;skjelve, riste;vibrate
 svarre;Noun;dallring, vibration;skjelving;vibration
-Sverdji;Proper noun;Sverige;Sverige;Sweden
 sverik;Noun;svensk;svensk;Swedish
 Sverjigånågis;Noun;svenska kungen;svenskekongen;the Swedish king
 sviergadit;Verb;sprattla;sprelle;kick about, flounder
@@ -5881,7 +5798,6 @@ såbbátj;Noun;mindre käpp eller stav;liten stav eller stokk;small stick
 såbbe;Noun;stav;stav;stick, pole
 såbbtse;Noun;fotfäste på is eller snö;fotfeste;foothold in ice or snow
 såbbtsot;Verb;trivas, känna sig som hemma, bli hemmastadd;trives, kjenne seg hjemme;thrive, feel at home
-Såbmá;Proper noun;Finland;Finland;Finland
 såbmásijn;Other;med någon;med noen;with someone
 såbmelatj;Noun;finländare;finlender;Finn
 sådje;Noun;vinge;vinge;wing
@@ -6099,7 +6015,6 @@ tjidnin;Verb;de knöt;de knøt;they tied
 tjidtjáddjá;Noun;morfar;morfar;maternal grandfather
 tjidtjáhkká;Noun;mormor;mormor;maternal grandmother
 tjidtjájjá;Noun;morfar;morfar;maternal grandfather
-Tjidtják;Proper noun;Tjidtjak, 'moderfjället';;Tjidtjak
 tjidtje;Noun;mamma, mor;mamma, mor;mother
 tjiebet;Noun;hals;hals;throat, neck
 tjieboda birra;Other;om halsen, runt om halsen;rundt halsen;around the neck
@@ -6297,7 +6212,6 @@ tjusse;Noun;middagshetta;hetebølge midt på dagen?;midday heat
 tjusska;Noun;småfisk;småfisk;small fish
 tjuttka;Noun;vaja som inte låter den nyfödda kalven dia;simle som ikke lar den nyfødte kalven die;reindeer doe which does not allow her newborn calf to nurse
 tjuvgudit;Verb;ljusna, gry;lysne, gry;lighten, dawn
-Tjuvtasvuodna;Proper noun;Tysfjord;Tysfjord;
 tjuvudit;Verb;envist följa med;var sta/egen og fulgte med;follow stubbornly
 tjuvudit tjilmij;Other;följa med blicken;å følge med blikket;follow with one’s eyes
 tjuvvde;Noun;finger;finger;finger
@@ -6361,7 +6275,6 @@ tjårrvenarra;Noun;knivskaft av horn;knivskaft av horn;knife handle made of antl
 tjårrågatj;Noun;liten renskock;liten reinflokk;small group of reindeer
 tjårvegiehtje;Noun;spetsen av renhorn;spissen på et reinhorn;tip
 tjårvegietjmádda;Noun;hornförgrening;forgreining på horn;fork in antlers
-Tjårvek;Proper noun;Hornavan;Hornavan;Hornavan
 tjårvemáddak;Noun;roten av renhorn;roten på reinhorn;base of reindeer antlers
 tjårvemåhkke;Noun;båge av renhorn;bue på reinhorn;bend in reindeer antlers
 tjårvest;Noun;av horn;av horn;made of antler
@@ -6379,7 +6292,6 @@ tjåvvdet;Verb;lösa upp t.ex. knut, lösa problem, låsa upp lås;knyte opp, l�
 tjäbbijmus;Adjective;vackraste;vakrest;most beautiful
 tjäbbudaga;Noun;dekorationer;dekorasjon;decorations
 tjäbbudahka;Noun;dekoration;dekorasjon;decoration
-Tjäggelvas;Proper noun;Tjieggelvas;;Tjieggelvas
 tjähkkida;Verb;ryms, får plats;fikk plass;manages to find space
 tjähkkidit;Verb;få till att rymmas;får plass til;manage to find space
 tjähkkin da?;Other;rymdes de;fikk de plass?;did they fit
@@ -6751,7 +6663,6 @@ várrjaläddje;Noun;beskyddare;beskytter;guardian
 várro;Noun;vara, produkt;vare, produkt;product
 várrok;Adjective;försiktig, aktsam, varsam;forsiktig;careful, cautious
 várrto;Noun;bröstvårta, vårta;brystvorte, vorte;nipple, wart
-Varsjajåhkå;Proper noun;Varsjajokk;;
 vasjen;Noun;irriterad på någon, otålig;sint, irritert på noen, utålmodig;irritated at someone, impatient
 vássám;Verb;har passerat;har passert;has passed
 vásse;Adjective;förra, senaste, sista;forrige natt;previous
@@ -6778,7 +6689,6 @@ vastet;Adverb;fult, hemskt, skräckinjagande;stygt, fælt, skrekkinngytende;horr
 vátjam;Noun;honren, vaja;simle;reindeer cow
 vavvdam;Verb;näten har fastnat i sjöbotten eller sten;garnet sitter fast i bunnen eller i en stein;
 vavvdat;Verb;fastna; sätta sig fast; gå fast;fastne; sette seg fast; gå fast;become caught, become stuck
-Vávvka;Proper noun;Vaukagården;pleiehjem for eldre;Vaukagården
 vavvle;Noun;djup fåra i sjö och bäck;dyp fure i sjø og bekk;deep trench in a lake or creek
 vejudit;Verb;putsa;pusse;polish
 velgijt;Noun;skulderna;skuldrene;debts
@@ -6941,7 +6851,6 @@ vuajdno;Noun;synsätt, åsikt, mening;mening;opinion
 vuajjdat;Verb;smörja in;smøre inn;grease
 vuajjto;Noun;vinst;fortjeneste;profit
 vuakksá;Noun;oxe, nötkreatur;okse, storfe;cattle
-Vuallda;Proper noun;Vuolda;;
 vuallgam;Verb;farit;dratt;driven
 vuallpo;Noun;vardagskolt, kjol;hverdagskofte;everyday frock
 vuanntsá;Noun;höna;høns;chicken
@@ -6999,7 +6908,6 @@ vuodjet;Verb;köra, åka;kjøre;drive
 vuodjodit;Verb;sänka, tala nedsättande;senke;sink, talk down to
 vuodjot;Verb;sjunka, falla ner mot botten;synke, falle ned mot bunnen;sink, fall down to the bottom
 vuodjot;Verb;kaffe som står och klarnar, sjunker;kaffe som står og trekker;sink
-Vuodna;Proper noun;Norge;Norge;Norway
 vuodna;Noun;fjord;fjord;fjord
 vuodnje;Adjective;orädd;uredd;fearless
 vuogahij;Verb;passande;passende;fitting
@@ -7038,7 +6946,6 @@ vuojŋastit;Verb;andas, hämta andan, pusta ut;hvile seg, hente pusten, puste ut
 vuoksadit;Verb;kräkas, spy;kaste opp, spy;vomit
 vuoksanis;Noun;kräkning;brekke seg;vomit
 vuokses;Noun;oxe, nötkreatur;okse, storfe;cattle
-Vuoktanj;Proper noun;Vuoktanj;;Vuoktanj
 vuola;Noun;onykterhet; öl;beruset; øl;inebriation, drunkenness; beer
 vuoladit;Verb;snickra, tälja;snekre;carve, cut, craft
 vuoláduvvut;Verb;bli berusad;bli beruset;become inebriated, become drunk
@@ -7067,7 +6974,6 @@ vuona iednam;Other;norskt land;norskt land;Norwegian land
 vuonadit;Verb;halka på blankisen;reinen prøver å unngå å skli på blankisen;slip on smooth ice
 vuonagiella;Noun;norska språket;norsk språk;Norwegian language
 vuonak;Noun;norrman;nordmann;Norwegian
-Vuonatjluakkta;Proper noun;Vuonatjviken;;
 vuonev;Noun;svärmor;svigermor;mother-in-law
 vuonjal;Noun;ettårig honren;toårig hunnrein;one-year-old reindeer cow
 vuonjes;Noun;gräsand;stokkand;mallard
@@ -7270,7 +7176,6 @@ vättka;Noun;holkyxa;øks til å hule ut f.eks. nahppe og lignende;celt, adze, h
 åjáldit;Verb;glömma;glemme;forget
 åjiskuris;Other;oj då!;ojsann! Uttrykk når man blir overrasket;oh no!
 åjjtet;Verb;dräpa;drepe;slay, kill, murder
-Åjjvák;Proper noun;Uddjaur;;Uddjaur Lake
 åjjve;Noun;huvud, skalle;hode, skalle;head, skull
 åjjvesárjas;Noun;huvudvärk;hodeverk;headache
 åjjvetjåhkkå;Noun;hjässa;Isse;top of one's head
@@ -7449,7 +7354,6 @@ vättka;Noun;holkyxa;øks til å hule ut f.eks. nahppe og lignende;celt, adze, h
 änj;Adverb;ännu, fortfarande;ennå, fremdeles;still, yet
 änj vil uddnik;Other;ännu idag;enda en dag;still today
 änni;Adverb;hellre, snarare;heller;rather, preferably
-Änntse;Proper noun;Änntse, Ánnda, Anders;;Änntse
 ärbulatj;Noun;arvinge;arvtager;heir
 ärlugisvuohta;Noun;hederlighet, ärlighet;hederlighet, ærlighet;honesty, integrity
 ärluk;Adjective;ärlig;ærlig;honest
